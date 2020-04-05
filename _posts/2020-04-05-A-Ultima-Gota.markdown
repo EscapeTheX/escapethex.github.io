@@ -7,8 +7,6 @@ img: gota.jpg # Add image post (optional)
 tags: [Poema]
 author: # Add name author (optional)
 ---
-<h2>A Última Gota</h2>
-<br>
 <p>Derramarei uma última gota<br>
 Debruçado em seu caixão,<br>
 Deste sangue que goteja<br>
