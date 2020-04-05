@@ -4,7 +4,7 @@ title: A Última Gota
 date: 2014-05-20 13:32:20 +0300
 description: 
 img: gota.jpg # Add image post (optional)
-tags: [Poema]
+tags: [Poemas]
 author: # Add name author (optional)
 ---
 <p>Derramarei uma última gota<br>
