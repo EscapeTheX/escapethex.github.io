@@ -31,7 +31,7 @@ instagram: escapethex # Add your Instagram handle
 analytics: # Google Analytics
 
 # Paginate
-paginate: 8
+paginate: 6
 paginate_path: /page:num/
 
 # Build settings
