@@ -4,7 +4,7 @@ title: Morte Súbita
 date: 2014-11-29 13:32:20 +0300
 description: 
 img: morte-subita.jpg # Add image post (optional)
-tags: [Poema]
+tags: [Poemas]
 author: # Add name author (optional)
 ---
 <p>Sozinho nesta noite,<br>
@@ -45,3 +45,5 @@ Seria isso a mais pura sorte?<br>
 É o momento de se ir e cair na profunda escuridão.<br>
 Mas lembre-se de que não é o fim,<br>
 E sim uma transição”.</p>
+
+<i>~29 de Novembro de 2014.</i>
