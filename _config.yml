@@ -11,10 +11,10 @@ author-pic: profile.jpg
 about-author2: Prazer, <strong>Eduardo Barreto!</strong> Sou formado em <i>Gestão de TI</i> e faço pós-graduação em <i>Data Science</i> e <i>Forense Computacional</i>. Gosto muito de assuntos relacionados com a <strong>TI</strong>, <strong>Produção Musical</strong> e <strong>Saúde Mental</strong>. Faço deste espaço aqui meu <strong>portfólio e também meu <strong>segundo blog</strong>, onde costumo publicar <strong>poemas, textos e projetos de minha autoria</strong>. Então filtre o que achar útil e saudável, aquilo que acrescenta, aquilo que leva o conhecimento!
 about-author: 
 # Contact links
-email: edu_barreto23@hotmail.com # Add your Email address
+#email: edu_barreto23@hotmail.com # Add your Email address
 #website: # Add your website, do not add http://
-linkedin: edubarreto23 # Add your Linkedin handle
-github: EscapeTheX # Add your Github handle
+#linkedin: edubarreto23 # Add your Linkedin handle
+#github: EscapeTheX # Add your Github handle
 #facebook: edubarreto23 # Add your Facebook handle
 instagram: escapethex # Add your Instagram handle
 
