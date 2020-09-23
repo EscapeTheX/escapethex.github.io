@@ -7,7 +7,7 @@ img: xxy.jpg # Add image post (optional)
 tags: [Poemas]
 author:
 ---
-<strong>XXY</strong> 
+<strong>Por que o jeito de alguém te incomoda?</strong> 
 
 <p>São poucos que te conhecem,<br>
 Mas muitos se acham aptos a te julgar.<br>
