@@ -74,9 +74,7 @@ Ainda guardo um <strong>tiro certeiro</strong> pelo o que vocês me fizeram na i
 Será que tenho que fazer questão de lembrar?<br>
 Ou prefere <strong>dar desculpa de que era criança<br>
 Que come terra</strong> e não sabe o que faz?</p>
-
--
-
+<p>-</p>
 <p>Não bastava o <i>“corredor polonês”</i>...<br>
 Vocês ainda se lembram do <strong><i>“Gato IFC”?</i></strong><br>
 Que me fizeram <strong>bater na pessoa errada</strong><br>
@@ -106,9 +104,7 @@ E <strong>horas no canteiro</strong> eu tive que <strong>pagar,</strong><br>
 Se ele tinha defensoria, <strong>era certo que eu ia perder...</strong><br>
 <strong>Mas pelos menos agora toda a Internet passou a te conhecer.<br>
 <i>“Eu posso ser o teu melhor amigo, só não me manda para o CGAE”.</i></strong></p>
-
--
-
+<p>-</p>
 <p><i>“O Eduardo tem tudo e ainda reclama de barriga cheia.<br>
 Ele só quer chamar atenção, tudo isso não passa de <strong>brincadeira”.</strong></i><br>
 <strong>Sentindo desprezo pela própria família,</strong><br>
@@ -137,9 +133,7 @@ E pra <strong>ter mais alívio eu precisaria ousar.</strong><br>
 Que a Dona Morte resolveu me testar...</strong><br>
 Obrigado <strong>DR. MARCELO</strong> por me <strong>entupir de remédio,<strong><br>
 ‘Era tudo o que eu precisava para escrever esse epicédio’</strong></p>
-
--
-
+<p>-</p>
 <p>Fico feliz que <strong>meu aniversário (12/09)</strong><br>
 Tenha caído <strong>num mês tão especial.</strong><br>
 Na luta por uma <strong>campanha</strong><br>
@@ -203,9 +197,7 @@ Só vai tratar os outros com <strong>ignorância.</strong><br>
 Que até para motivos mais fúteis eles querem te <strong>“CANCELAR”.</strong><br>
 Destroem a vida da pessoa,<br>
 Mas chega no Setembro Amarelo e querem se sensibilizar.</p> 
-
--
-
+<p>-</p>
 <p>Esse é o <strong>Setembro Amarelo,</strong><br>
 O mês para <strong>masturbar o próprio ego.</strong><br>
 Passando uma imagem de bom samaritano,<br>
