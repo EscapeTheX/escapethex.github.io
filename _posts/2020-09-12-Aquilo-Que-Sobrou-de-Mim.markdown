@@ -227,7 +227,3 @@ Porque só lembram quando há óbitos por negligência.</strong><br>
 <strong>D$ Luqi - Eu vou embora (feat. Raico)</strong>
 <iframe src="https://www.youtube.com/embed/LwBXoBB8nEo" width="640" height="360" frameborder="0" allowfullscreen="">
   </iframe>
-<p>-</p>
-<strong>Mudvayne - Nothing To Gein</strong>
-<iframe src="https://www.youtube.com/embed/0OdEYERXcNo" width="640" height="360" frameborder="0" allowfullscreen="">
-  </iframe>
