@@ -131,7 +131,7 @@ No <strong>desespero</strong>, por vezes eu precisava sumir.</p>
 E pra <strong>ter mais alívio eu precisaria ousar.</strong><br>
 <strong>Então foi na Páscoa de 2014 <br>
 Que a Dona Morte resolveu me testar...</strong><br>
-Obrigado <strong>DR. MARCELO</strong> por me <strong>entupir de remédio,<strong><br>
+Obrigado <strong>DR. MARCELO</strong> por me <strong>entupir de remédio,<br>
 ‘Era tudo o que eu precisava para escrever esse epicédio’</strong></p>
 <p>-</p>
 <p>Fico feliz que <strong>meu aniversário (12/09)</strong><br>
