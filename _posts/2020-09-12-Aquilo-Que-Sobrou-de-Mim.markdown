@@ -7,7 +7,7 @@ img: setembro.jpg # Add image post (optional)
 tags: [Poemas]
 author:
 ---
-<center><strong>Você já se questionou sobre a sua vida?</strong></center> 
+<center><strong>Você já se questionou sobre a sua vida, se vale a pena viver ou não?</strong></center> 
 
 <p>Vocês ficam felizes quando escrevo algo sobre motivação,<br>
 <strong>Mas este poema reflete o que sobrou do meu coração.</strong><br>
