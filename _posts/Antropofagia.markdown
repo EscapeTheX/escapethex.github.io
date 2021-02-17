@@ -2,23 +2,28 @@
 layout: post
 title: Antropofagia
 date: 2021-02-11 13:32:20 +0300
-description: 
+description: Sanidade não é uma escolha.
 img: imagemdahora.jpg # Add image post (optional)
 tags: [Poema, Desabafo]
 author: # Add name author (optional)
 ---
-<p><b>"A mesma coragem que tu usa para<br>
-Desistir dos seus sonhos e da sua vida,<br>
-É a mesma coragem que tu usa para<br>
-Aguentar viver apenas mais um dia."</b><i>(~Reddit)</i></p>
+<p><i>Caro leitor,<br>
+Se você já leu algumas obras minhas, provavelmente entendeu meu estilo de escrita e certamente não ficará desconfortável.<br>
+Para os que resolveram dar uma chance, vá até alguma fonte de pesquisa e procure o conceito de "Dissociação".<br>
+Tudo o que eu escrevo é baseado no meu fluxo de pensamentos e não necessariamente terá uma mensagem a ser passada, fará sentido ou terá coerência.<br>
+Dito isso, vamos a nossa obra de hoje!</i></p>
 
-<p><b>ATENÇÃO PARA LINGUAGEM MÓRBIDA, ÁCIDA E POSSÍVEIS GATILHOS. <i>(~Leia por sua conta e risco)</i></b></p>
+<p><b>ATENÇÃO PARA CONTEÚDO GRÁFICO, LINGUAGEM ÁCIDA E GATILHOS.</b><i>(~Leia por sua conta e risco)</i><br> 
+<p>-</p>
+
+<p><b>"A mesma coragem que tu usa para desistir dos seus sonhos e da sua vida, é a mesma coragem que tu usa para aguentar viver apenas mais um dia."</b><i>(~Reddit)</i></p>
 
 <p>Degeneração das estruturas cerebrais.<br>
 Transtorno Dissociativo.<br>
 Consequências comportamentais.<br>
 O paradoxo da Klinefelter vai muito mais além<br>
-Do que "simples" deficiências hormonais.</p>
+Do que "simples" deficiências hormonais.<br>
+
 
 <p><i>"É a primeira vez que vejo essa síndrome
 Fora dos livros de biologia".<br>
@@ -66,7 +71,12 @@ Essa situação é mais comum do que tu imagina.<br>
 Não dá pra ficar relembrando essas coisas<br>
 E dar desculpa para não tocar pra frente a vida."</i></p>
 
-<p>Não existe mais contexto sexual/afetivo<br> 
+<p>Já não consigo mais dormir, um estado de vigília eterno.
+Os pesadelos sempre me assombram, um verdadeiro inferno.
+
+
+
+Não existe mais contexto sexual/afetivo<br> 
 Que não seja agressivo, aversivo e desconfortável.<br>
 
 
@@ -74,5 +84,6 @@ Que não seja agressivo, aversivo e desconfortável.<br>
 
 
 
-
+REFERÊNCIAS
+https://medprev.online/blog/doencas/qual-a-diferenca-entre-doenca-sindrome-sintoma-e-transtorno/
 
