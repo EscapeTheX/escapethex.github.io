@@ -3,7 +3,7 @@ layout: post
 title: Antropofagia
 date: 2021-02-11 13:32:20 +0300
 description: Sanidade não é uma escolha.
-img: imagemdahora.jpg # Add image post (optional)
+img: antropofagia.jpg # Add image post (optional)
 tags: [Poema, Desabafo]
 author: # Add name author (optional)
 ---
@@ -11,14 +11,48 @@ author: # Add name author (optional)
 Se você já leu algumas obras minhas, provavelmente entendeu meu estilo de escrita e certamente não ficará desconfortável.<br>
 Para os que resolveram dar uma chance, vá até alguma fonte de pesquisa e procure o conceito de "Dissociação".<br>
 Tudo o que eu escrevo é baseado no meu fluxo de pensamentos e não necessariamente terá uma mensagem a ser passada, fará sentido ou terá coerência.<br>
-Dito isso, vamos a nossa obra de hoje!</i></p>
+Dito isso, vamos à nossa obra de hoje!</i></p>
 
-<p><b>ATENÇÃO PARA CONTEÚDO GRÁFICO, LINGUAGEM ÁCIDA E GATILHOS.</b><i>(~Leia por sua conta e risco)</i><br> 
+<p><b>ATENÇÃO PARA CONTEÚDO GRÁFICO, LINGUAGEM ÁCIDA E GATILHOS.</b></p>
 <p>-</p>
 
-<p><b>"A mesma coragem que tu usa para desistir dos seus sonhos e da sua vida, é a mesma coragem que tu usa para aguentar viver apenas mais um dia."</b><i>(~Reddit)</i></p>
+<p><b>"A mesma coragem que tu usa para desistir dos seus sonhos e da sua vida, é a mesma coragem que tu usa para aguentar viver apenas mais um dia."</b><i> (~Reddit)</i></p>
 
-<p>Degeneração das estruturas cerebrais.<br>
+<p>(...) Como a cobra que morde o próprio rabo, <br>
+Sinceramente, nunca houve um começo ou fim para essa história.<br>
+Sinto como se estivesse comendo meu próprio corpo de dentro para fora,<br>
+Cavando um buraco negro e denso para afugentar todas essas memórias.<br>
+Talvez uma caixa Dybbuk tenha sido aberta no meu nascimento,<br>
+Para justificar todos os momentos plausíveis de dor e sofrimento.<br>
+Claro, é de praxe do ser humano sempre querer achar um antagonista, um culpado.<br>
+Porém, quando não existe cura, tratamento ou prognóstico bom,<br>
+A culpa sempre cai para Deus, pais ou o próprio Diabo.</p>
+
+<p>Quais as vantagens de ser invisível aos olhos da medicina e da população?<br>
+ 
+ 
+ 
+Quantas vezes eu tenho que explicar a minha situação
+As metodologias científicas funcionam para 99% das pessoas, menos para nós.
+Apenas me comprove com quantos pacientes com Klinefelter você fez esse tratamento e deu certo.
+É facil dizer para comer menos e fazer exercícios.
+Sobrecarga no sistema sensorial
+Vulnerabilidade
+Sempre sonhei com casamento e filhos
+"Pra tudo temos que fazer escolhas nessa vida" será que meu câncer continuará sendo Policitemia Vera ou evoluirá para Mielofibrose?
+Sintomatologia inespecífica, estatística paradoxal e câncer através da medicação?<br>
+
+
+
+Por que raios eu estaria fazendo papel de barão?<br>
+Pense você, ser humano normal, 
+
+
+
+Tormentos, fragmentos e lamentos, como cacos de vidros ensanguentados<br>
+
+
+Degeneração das estruturas cerebrais.<br>
 Transtorno Dissociativo.<br>
 Consequências comportamentais.<br>
 O paradoxo da Klinefelter vai muito mais além<br>
@@ -78,12 +112,3 @@ Os pesadelos sempre me assombram, um verdadeiro inferno.
 
 Não existe mais contexto sexual/afetivo<br> 
 Que não seja agressivo, aversivo e desconfortável.<br>
-
-
-
-
-
-
-REFERÊNCIAS
-https://medprev.online/blog/doencas/qual-a-diferenca-entre-doenca-sindrome-sintoma-e-transtorno/
-
