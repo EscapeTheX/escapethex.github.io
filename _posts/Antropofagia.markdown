@@ -13,7 +13,7 @@ Para os que resolveram dar uma chance, vá até alguma fonte de pesquisa e procu
 Tudo o que eu escrevo é baseado no meu fluxo de pensamentos e não necessariamente terá uma mensagem a ser passada, fará sentido ou terá coerência.<br>
 Dito isso, vamos à nossa obra de hoje!</i></p>
 
-<p><b>ATENÇÃO PARA CONTEÚDO GRÁFICO, LINGUAGEM ÁCIDA E GATILHOS.</b></p>
+<p><b>ATENÇÃO PARA CONTEÚDO GRÁFICO, LINGUAGEM ÁCIDA, OPINIÕES CONTROVERSAS E GATILHOS.</b></p>
 <p>-</p>
 
 <p><b>"A mesma coragem que tu usa para desistir dos seus sonhos e da sua vida, é a mesma coragem que tu usa para aguentar viver apenas mais um dia."</b><i> (~Reddit)</i></p>
@@ -28,9 +28,26 @@ Claro, é de praxe do ser humano sempre querer achar um antagonista, um culpado.
 Porém, quando não existe cura, tratamento ou prognóstico bom,<br>
 A culpa sempre cai para Deus, pais ou o próprio Diabo.</p>
 
-<p>Quais as vantagens de ser invisível aos olhos da medicina e da população?<br>
- 
- 
+<p>Biblicamente, o conceito de humanidade não satisfaço.<br>
+Muito menos, congenitamente, seria batizável.<br>
+Antigamente éramos tratados como figuras míticas, de admiração.<br>
+Hoje nem mais temos o direito de viver, usando-nos medidas de correção.<br>
+Não somos mais obras da natureza assim como qualquer outro ser vivo?<br>
+Quais as vantagens de ser invisível aos olhos da medicina e da população?<br>
+Alguns nascem sem comorbidades e vivem suas vidas normais.<br>
+Enquanto outros nascem apenas para sofrer, morrer ou lutar pelos seus ideais.<br>
+Os ativistas discordam, mas, muitas variações são de fato patológicas,<br> 
+Como síndromes, desordens e seus mecanismos.<br>
+Pois, se essas alterações fossem algo tão positivo assim,<br>
+Talvez não comprometessem a "vida útil" do organismo.</p>
+
+<p><i>OBS: De fato, as variações de intersexo são naturais, mas o que elas causam no organismo não. Por mais que há um embate dos ativistas em transformar em algo aceito e livre de rótulos médicos, são condições médicas que afetam o organismo. Assim como ser gay, bi ou trans não é doença e não tem sintoma algum, mas as variações ou alterações genéticas, cromossômicas, biológicas e hormonais sim.<br>
+
+
+
+<p>
+
+
  
 Quantas vezes eu tenho que explicar a minha situação
 As metodologias científicas funcionam para 99% das pessoas, menos para nós.
@@ -42,12 +59,10 @@ Sempre sonhei com casamento e filhos
 "Pra tudo temos que fazer escolhas nessa vida" será que meu câncer continuará sendo Policitemia Vera ou evoluirá para Mielofibrose?
 Sintomatologia inespecífica, estatística paradoxal e câncer através da medicação?<br>
 
-
+Quantos pacientes com Klinefelter você obteve êxito num tratamento?
 
 Por que raios eu estaria fazendo papel de barão?<br>
 Pense você, ser humano normal, 
-
-
 
 Tormentos, fragmentos e lamentos, como cacos de vidros ensanguentados<br>
 
