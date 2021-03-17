@@ -13,7 +13,7 @@ author:
 <p>Em termos simples, podemos exemplificar usando a <b>"Metáfora do Iceberg"</b>, <i>mesmo não sendo a mais correta</i>. A parte visível, que fica acima do nível do mar, é chamada de <b>"Surface Web"</b> ou <b>"Clearnet"</b>. Tudo o que se pode encontrar através de <b>motores de buscas</b> <i>(Google, Bing, Yahoo, Yandex)</i> fica na "superfície", como redes sociais, canais de entretenimento, serviços essenciais, E-Commerces populares...<br>
 Qualquer pessoa pode navegar livremente, sem precisar de algum tipo de <b>anonimato</b>. Mas não significa que seja um "lado amigável" da Internet, apenas <b>menos complexo</b> de acessar.</p>
 
-<p>Indo para parte submersa do Iceberg... Se na <b>Surface Web</b> podemos encontrar o que quisermos através de sites indexados e ranqueados via motores de busca, na <b>Deep Web<b> é justamente ao contrário. <i>Playlists não listadas do YouTube, Bancos de Dados, conteúdos dos seus E-mails, contas de banco, registros médicos e financeiros, repositórios empresariais, conversas de Whatsapp ou qualquer outro mensageiro</i>... <b>Este site</b>, por exemplo, <b>está hospedado na Deep Web<b>, onde não é possível se obter acesso de forma apropriada.<br>
+<p>Indo para parte submersa do Iceberg... Se na <b>Surface Web</b> podemos encontrar o que quisermos através de sites indexados e ranqueados via motores de busca, na <b>Deep Web</b> é justamente ao contrário. <i>Playlists não listadas do YouTube, Bancos de Dados, conteúdos dos seus E-mails, contas de banco, registros médicos e financeiros, repositórios empresariais, conversas de Whatsapp ou qualquer outro mensageiro</i>... <b>Este site</b>, por exemplo, <b>está hospedado na Deep Web</b>, onde teoricamente não se poderia obter acesso de forma apropriada.<br>
 Embora, os serviços não sejam indexáveis, é possível acessar certos conteúdos que necessitam de credenciais através do seu navegador comum. Contudo, há sempre o risco de ser rastreado, porém <b>é muito mais seguro navegar na Deep Web do que na Dark Web</b>.<br>
 Na Deep Web, você acessa seu E-mail, sua conta do banco <i>tranquilamente</i>, <b>mas não quer dizer que essas informações não tenham valor de mercado, tanto para empresas, governo ou criminosos</b>.</p>
 
@@ -28,6 +28,12 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 <p>____________________________________</p>
 
 <p><strong>TEXTO COMPLETO</strong></p>
+<p><b>0. Explicação LEIGA e RESUMIDA sobre Topologia de Rede e Modelo OSI:</b></p>
+<p> Utilizando um emprego melhor para "Metáfora do Iceberg", a Internet como conhecemos é formada por um sistema de entregas, como os correios <i>(vide a imagem do post)</i>. Temos vários <b>pacotes</b> (dados) a serem entregues entre <b>centrais</b> (servidores), <b>distribuidoras</b> (terminais) e <b>clientes</b> (máquinas). Cada pacote tem sua <b>nota fiscal</b> (header ou cabeçalho), identificando seu conteúdo, quantidade, incluindo data e hora do envio e da entrega.<br>
+Às vezes, tem pessoas que tentam <b>burlar ou forjar a nota fiscal do pacote</b>. Como quando há extravio ou roubo de encomendas, quando colocam tijolos ao invés de um XBOX, drogas dentro de roupas e caixa de óculos ou <i>empresas que fazem seus negócios de cunho privado</i>. Porém, <b>há sempre algum tipo de registro</b>, mesmo que residual do pacote, <b>que pode identificar o remetente e o destinatário</b>.</p>
+<p>.</p>
+<p><b>1. Surface Web / Clearnet:</b>
+
 
 
 
