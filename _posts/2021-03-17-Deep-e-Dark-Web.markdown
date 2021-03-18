@@ -12,7 +12,7 @@ author:
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
 Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de redes</b> e veremos como se interconectam:</p>
-<p><b>1. P2P (Peer-To-Peer)</b>:<br>
+<p><b><h2>1. P2P (Peer-To-Peer)</b>:</h2><br>
 É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
 <p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte e Sul, Síria, Vietnam, Irã e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
@@ -26,6 +26,7 @@ Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de r
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
+
 <p><center>
 <img src="/salamandra/vpn-works.jpg" alt="Exemplo comum de VPN, porém não muito correto">
 <figcaption><i>Exemplo simples de VPN, porém não exatamente correto</i></figcaption>
@@ -59,13 +60,16 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p><b>6. DARKNET</b>:<br> 
 É uma rede sobreposta que <i>só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
-
-<p>Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.
+<p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.</p>
 
 <p><b>É ilegal acessar a Darknet?</b><br>
 Ela é utilizada para quem busca de alguma forma manter-se anônimo e ter privacidade. Órgãos governamentais, exército, agências de ciberinteligência, jornalistas e ativistas, utilizam diariamente a Darknet. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
 Ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades criminais</b>. Exemplos como pirataria e liberdade de expressão, são justos, dependendo do tipo de governo em que o usuário está inserido. Governos como da Rússia, China, Irã e Coréia do Norte, tomam medidas restritivas quanto a liberdade e privacidade que o usuário tem sobre seus dados e conteúdos disponíveis em seus países.<br>
-<b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>   
+<b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
+
+<p><b>O que é possível encontrar na Darknet?<b><br>
+Vale lembrar que, não é porque o conteúdo não é indexado ou precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
+Todo o tipo de conteúdo que é possível achar na Darknet, também é possível de achar na Clearnet e na Deep Web. A única diferença é a <b>QUALIDADE</b> do conteúdo.
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
