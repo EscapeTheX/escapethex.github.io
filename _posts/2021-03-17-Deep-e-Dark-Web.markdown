@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Clearnet, Deep Web e Dark Web
-date:   2021-03-18 13:32:20 +0300
+date:   2021-03-18 08:32:20 +0300
 description: Você sabe a diferença entre Deep Web e Dark Web? # Add post description (optional)
 img: correios4.jpg # Add image post (optional)
 tags: [Segurança]
@@ -9,12 +9,21 @@ author:
 ---
 <center><strong>Você sabe a diferença entre Deep Web e Dark Web?</strong></center> 
 
-
-
-<p>________________________________________________________________________________________________</p>
-
-<p><strong>TEXTO COMPLETO</strong></p>
 <p>Suponho que você já tenha lido o meu texto sobre o <a href="url">"Básico de Redes, Internet e Segurança com Exemplos Toscos"</a>. Se por ventura ainda não, <b>vá ler</b> para não ficar perdido nos termos e conceitos. A não ser que você manje do assunto, aí está tranquilo.</p>
+
+<p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</br>. Porém, uma precisa da outra para poder existir.</p>
+
+<p>Para explicar este resumo, vamos dividir a Internet em <b>sete</b> "tipos" de redes:<br>
+- <b>P2P</b>:
+- <b>VPN</b>:
+- <b>Clearnet</b>:
+- <b>Surface Web</b>:
+- <b>Deep Web</b>:
+- <b>Darknet</b>: 
+- <b>Dark Web</b>:
+
+
+
 
 <p>______________________________________________________________________________________________________________</p>
 <p><strong>RESUMO:</strong></p>

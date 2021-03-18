@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Basicão Sobre Redes, Internet e Segurança
-date:   2021-03-18 13:32:20 +0300
+date:   2021-03-18 08:32:20 +0300
 description: Entenda Redes, Internet e Segurança com exemplos toscos, porém funcionais # Add post description (optional)
 img: redesfordummies.jpg # Add image post (optional)
 tags: [Segurança]
@@ -29,7 +29,7 @@ Para dar segurança extra as comunicações, foi criado o protocolo <b>HTTPS</b>
 {% highlight ruby %} Oi, Google Chrome! Faz o favor de entrar no YouTube? {% endhighlight %}
 <p><b>Depois da encriptação:</b><br>
 {% highlight ruby %}  laI3/ViNFcViv4Bxe3FKITFVvgvdXCruFu5PWW5MWeod8FXhqdtM05SWF8uUiRa7YOXsG9Z4LkIcUV4wj8uzLg== {% endhighlight %}<br>
-<i>(Isto está cifrado em SHA-2, que é utilizado para verificação de integridade, autenticação e garantir a segurança de informações num servidor)</i></p>
+<i>(Isto está cifrado em AES-128, que é utilizado para verificação de integridade, autenticação e garantir a segurança de informações num servidor)</i></p>
 
 <p>Contudo, só porque um site tem um cadeado/HTTPS, não quer dizer que suas informações estão completamente seguras. Só o HTTPS sozinho não funciona para nada, pois existem dois tipos de ataques que fazem ele ser <b>praticamente inútil</b>:<br>
 - <b>MITM - Man In The Middle</b>: É quando há uma interceptação de informações entre o cliente e servidor, agindo como uma ponte. O problema do MITM é uma <i>vulnerablidade</i> chamada <b>"SSL Strip"</b>, que, enquanto o atacante faz análise do tráfego de pacotes, ele faz uma <b>requisição HTTP</b> para interceptar as informações do cliente antes de chegar no servidor, <b>mas continua mantendo a conexão HTTPS entre ele e o servidor</b>.<br>
