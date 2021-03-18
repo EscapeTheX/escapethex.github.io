@@ -12,14 +12,17 @@ author:
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
 Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de redes</b> e veremos como se interconectam:</p>
-<p><b>1. P2P (PEER-TO-PEER)</b>:<br>
-É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+<p><b>1. P2P (Peer-To-Peer)</b>:<br>
+É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+
+<p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte e Sul, Síria, Vietnam, Irã e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
+
 <p><center>
 <img src="/salamandra/peer2peer.jpg" alt="Exemplo de Rede Peer-To-Peer (P2P)">
 <figcaption><i>Exemplo de rede Peer-To-Peer (P2P)</i></figcaption>
 </center></p>
 
-<p><b>2. VPN (VIRTUAL PRIVATE NETWORK)</b>:<br> 
+<p><b>2. VPN (Virtual Private Network)</b>:<br> 
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
@@ -35,20 +38,21 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 <p><b>4. SURFACE WEB</b>:<br>
 É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo pode ser procurado/encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
 <p>Exemplos:<br>
-- Redes Sociais;
-- Canais de Entretenimento, como serviços de streaming e blogs;
-- E-Commerces populares;
-- Serviços Essenciais.
+- Redes Sociais;<br>
+- Canais de Entretenimento, como serviços de streaming e blogs;<br>
+- E-Commerces populares;<br>
+- Serviços Essenciais.<br>
 </p>
 
 <p><b>5. DEEP WEB</b>:<br> 
-É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha. Exemplificando melhor: 
-- Playlists e videos não listados do YouTube;
+É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.</p> 
+<p>Exemplificando melhor:<br> 
+- Playlists e videos não listados do YouTube;<br>
  Bancos de Dados;<br>
 - Conteúdos de E-mails e conversas privadas em Redes Sociais;<br>
 - Contas de banco e transações financeiras;<br>
 - Repositórios privados, corporativos, acadêmicos, governamentais e científicos;<br>
-- Documentos governamentais e médicos...
+- Documentos governamentais e médicos...<br>
 </p>
 
 
@@ -60,21 +64,81 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p><b>É ilegal acessar a Darknet?</b><br>
 Ela é utilizada para quem busca de alguma forma manter-se anônimo e ter privacidade. Órgãos governamentais, exército, agências de ciberinteligência, jornalistas e ativistas, utilizam diariamente a Darknet. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
-Ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades criminais</b>. Exemplos como pirataria e liberdade de expressão, são justos, dependendo do tipo de governo em que o usuário está inserido. Governos como da Rússia, China e Coréia do Norte, tomam medidas restritivas quanto a liberdade e privacidade que o usuário tem sobre seus dados e conteúdos disponíveis em seus países.<br>
-Então se for com o objetivo de cometer atividades criminais, sim.</p>   
+Ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades criminais</b>. Exemplos como pirataria e liberdade de expressão, são justos, dependendo do tipo de governo em que o usuário está inserido. Governos como da Rússia, China, Irã e Coréia do Norte, tomam medidas restritivas quanto a liberdade e privacidade que o usuário tem sobre seus dados e conteúdos disponíveis em seus países.<br>
+<b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>   
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
 
 <p><b>Exemplos de redes</b>:<br>
 - <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. 
+</p>
 
+<p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
 
+<p>- <b>I2P</b>:
 
+<p>- <b>FreeNet</b>:
 
-, I2P, FreeNet, Hyperboria, Galet, StealthNet, GlobalLeaks, Perfect Dark, Tox, Twister, MORPHiS, Infinit, Alienet, Maelstrom, Resilio, Ricochet, Soulseek, Retroshare, DemonSaw, OnionShare, anoNet,
+<p>- <b>Hyperboria</b>: A distributed meshnet built on cjdns.
 
+<p>- <b>Galet</b>:
 
+<p>- <b>StealthNet</b>:
+
+<p>- <b>GlobalLeaks</b>:
+
+<p>- <b>Perfect Dark</b>:
+
+<p>- <b>Tox</b>:
+
+<p>- <b>Twister</b>:
+
+<p>- <b>MORPHiS</b>:
+
+<p>- <b>Infinit</b>:
+
+<p>- <b>Alienet</b>:
+
+<p>- <b>Maelstrom</b>:
+
+<p>- <b>Resilio</b>:
+
+<p>- <b>Ricochet</b>:
+
+<p>- <b>Soulseek</b>:
+
+<p>- <b>Retroshare</b>: Utilizado para compartilhamento de arquivos, chat, forums, e-mail. 
+
+<p>- <b>DemonSaw</b>:
+
+<p>- <b>OnionShare</b>:
+
+<p>- <b>anoNet</b>: É uma rede descentralizada P2P, semelhante a Freenet, que utiliza-se de VPNs e protocolo BGP. 
+
+<p>- <b>Netsukuku</b>:
+
+<p>- <b>GnuNet</b>: Utilizada para armazenamento e distribuição de arquivos de forma anônima.
+
+<p>- <b>OneSwarm</b>: Serviço P2P
+
+<p>- <b>Omemo</b>: Plataforma social de distribuição de arquivos.
+
+<p>- <b>Phantom</b>: Em desenvolvimento. Utiliza serviços anônimos e faz uso do IPv6 nativamente.
+
+<p>- <b>FreedomBox</b>: Em desenvolvimento. Cria servidores pessoais para comunicações de redes sociais, e-mail e audio/video.
+
+<p>- <b>Telex</b>: Uma nova maneira de passar pela censura da Internet.
+
+<p>- <b>Project Byzantium</b>: Distribuição bootável do Linux to set up wireless mesh nodes with commonly available hardware.
+
+<p>- <b>dn42</b>: Comunidade de roteamento
+
+<p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta. Não é anônima por natureza.
+
+<p>- <b>StegoShare</b>: Um software de esteganografia que pode ser utilizado para compartilhamento de arquivos.
+
+<p>- <b>Syndie</b>: Uma rede
 
 
 Nem sempre é um lugar perigoso, pois por mais que há uma grande quantidade de pirataria, existem pessoas de boa fé. Mas a lei é "Nunca confie em ninguém da Darknet e Dark Web".<br>
@@ -137,4 +201,7 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <b>Sciendo - Vasile C. Perta et al.</b>: <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
 - <b>Gizmodo - Daniel Kolitz</b>: <a href="https://gizmodo.uol.com.br/internet-desligar-de-repente/">O que aconteceria se a internet inteira desligasse de repente?
 </a><br>
+- <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
+- <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
+- <b>InternetFreedom</b>: <a href="http://www.internetfreedom.org/FreeGate.html">FreeGate</a><br>
 - 
