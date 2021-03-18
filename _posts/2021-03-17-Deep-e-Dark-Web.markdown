@@ -45,12 +45,12 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 Às vezes, tem pessoas que tentam <b>burlar ou forjar a nota fiscal do pacote</b>, seja para meios lícitos ou ilícitos. Como quando há extravio ou roubo de encomendas, quando colocam tijolos ao invés de um XBOX, drogas dentro de roupas e caixa de óculos ou <i>empresas que fazem seus negócios de cunho privado</i>. Porém, <b>há sempre algum tipo de registro</b>, mesmo que residual do pacote, <b>que pode identificar o conteúdo, remetente e o destinatário</b>.</p>
 <p>Cada máquina possui dois identificadores únicos:<br>
 - <b>IP - Internet Protocol:</b> É uma identificação que a rede atribui a cada máquina conectada a ela, para que haja alguma comunicação. Funciona parecido com um CPF e Nome Social</b>, onde teoricamente <b>nunca poderá existir um endereço igual</b>, porém pode ser <b>mutável</b>. Podemos categorizar os endereços de IP em <b>sete tipos</b>: <i>público, privado, estático, dinâmico, dedicado, compartilhado e de classe</i>. Mas o que interessa pra gente agora é o <b>Público</b>, <i>utilizado para se comunicar com a Internet (normalmente iniciado aqui no Brasil por 177.x.x.x)</i>, e o <b>Privado</b>, <i>utilizado para redes domésticas e corporativas (normalmente iniciado por 10.x.x.x / 192.x.x.x.)</i>.<br>
-- <b>MAC - Media Access Control</b>: Refere-se ao <b>endereço físico da máquina<b>, ou seja, <b>gravada em hardware na placa de rede</b>. Ao contrário do IP que pode ser <b>mutável</b>, o MAC pode ser apenas <b>falsificado</b> através de <i>técnicas de spoofing</i>. Ele é formado por algarismos na forma <b>hexadecimal</b>, como por exemplo: <i>"00:1A:C8:4B:E3:57"</i>.</p>
+- <b>MAC - Media Access Control</b>: Refere-se ao <b>endereço físico da máquina</b>, ou seja, <b>gravada em hardware na placa de rede</b>. Ao contrário do IP que pode ser <b>mutável</b>, o MAC pode ser apenas <b>falsificado</b> através de <i>técnicas de spoofing</i>. Ele é formado por algarismos na forma <b>hexadecimal</b>, como por exemplo: "00:1A:C8:4B:E3:57".</p>
 
-<p>Para ver seus endereços de IP e MAC no <b>Windows</b>, basta acessar as propriedades da placa de rede ou abrir o <b>cmd</b> e digitar: <i>ipconfig /all</i></p>
+<p>Para ver seus endereços de IP e MAC no <b>Windows</b>, basta acessar as propriedades da placa de rede ou abrir o <b>cmd</b> e digitar: <i>"ipconfig /all"</i>.</p>
 <p>.</p>
 <p><b>1. Protocolos de Comunicação e Segurança:</b>
-<p>Antes de falarmos diretamente sobre o tema do post, é necessário abordar alguns tópicos dentro da <b>Segurança da Informação</b> para poder se <i>elucidar alguns mitos</i>.<br>
+<p>Antes de falarmos diretamente sobre o tema do post, é necessário abordar alguns tópicos dentro da <b>Segurança da Informação</b> para podermos <i>elucidar alguns mitos</i>.<br>
 Desde 1990, o protocolo <b>HTTP</b> é utilizado como <i>base de comunicação de dados entre navegadores e sites</i>, portanto, <b>todas as informações são transferidas entre um cliente e um servidor</b>. Porém, sabemos que essas informações podem ser <b>interceptadas, manipuladas ou roubadas facilmente por qualquer pessoa</b>.<br>
 Para dar segurança extra as comunicações, foi criado o protocolo <b>HTTPS</b>, que é aquele <i>cadeado</i> que fica ao lado da barra de endereço. Ele utiliza um protocolo de criptografia chamado <b>TLS - Transport Secure Layer</b> <i>(antes conhecido como SSL - Secure Socket Layer)</i>, que obriga toda informação que será transmitida a passar por um processo de <b>cifragem</b> e <b>autenticação</b>.</p>
 <p>Exemplo:</p>
@@ -60,12 +60,10 @@ Para dar segurança extra as comunicações, foi criado o protocolo <b>HTTPS</b>
 {% highlight ruby %}  laI3/ViNFcViv4Bxe3FKITFVvgvdXCruFu5PWW5MWeod8FXhqdtM05SWF8uUiRa7YOXsG9Z4LkIcUV4wj8uzLg== {% endhighlight %}<br>
 <i>(Isto está cifrado em SHA-2, que é utilizado para verificação de integridade, autenticação e garantir a segurança de informações num servidor)</i></p>
 
-<p>
-
-
-
-
-
+<p>Todavia, só porque um site tem um cadeado/HTTPS, não quer dizer que suas informações estão completamente seguras. Só o HTTPS sozinho não funciona para nada, pois existem dois tipos de ataques que fazem ele ser <b>completamente inútil</b>:
+- <b>MITM - Man In The Middle<br>: É quando há uma interceptação de informações entre o cliente e servidor, agindo como uma ponte. O problema do MITM é uma <i>vulnerablidade</i> chamada <b>"SSL Strip"</b>, que, enquanto o atacante faz análise do tráfego de pacotes, ele faz uma <b>requisição HTTP</b> para interceptar as informações do cliente antes de chegar no servidor, <b>mas continua mantendo a conexão HTTPS entre ele e o servidor</b>. 
+O <b>problema</b> do MITM é uma técnica chamada <b>"sslstrip"</b>, que sequestra
+- <b>Session Hijacking - Sequestro de Sessão</b>: 
 
 
 
