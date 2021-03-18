@@ -11,24 +11,35 @@ author:
 
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 
-<p>Para explicar este resumo, vamos dividir a Internet em <b>sete tipos de redes</b> e como elas são interconectadas:<br>
+<p>Para explicar este resumo, vamos dividir a Internet em <b>sete tipos de redes</b> e como elas estão interconectadas:<br>
 - <b>P2P (Peer-To-Peer)</b>: É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+<img src="/salamandra/peer2peer.jpg" alt="Exemplo de Rede Peer-To-Peer (P2P)">
 
 <p>- <b>VPN (Virtual Private Network)</b>: A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
+<img src="/salamandra/vpn-works.jpg" alt="Não achei uma imagem com o exemplo correto de como funciona uma VPN realmente, então aqui está um exemplo comum">
 
-<p>- <b>Clearnet</b>: É um termo utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, porém <i>não é o sinônimo de Surface Web</i>.</p>
+<p>- <b>Clearnet</b>: É um termo utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b> e inclui a Surface Web dentro dela, que não é um sinônimo.<br>
+
+</p>
 
 <p>- <b>Surface Web</b>: É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo pode ser procurado/encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).<br>
 .</p>
-<p>- <b>Deep Web</b>: É a parte da Internet onde seu conteúdo não é indexado pelos motores de buscas.</p>
+<p>- <b>Deep Web</b>: É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas. Exemplificando melhor: Bancos de Dados, conteúdos de E-mails e conversas em Redes Sociais, contas de banco, transações financeiras e repositórios privados.<br>
 
-<p>- <b>Darknet</b>: É uma rede sobreposta que só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns.</p>
+</p>
 
-<p>- <b>Dark Web</b>: É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores.</p>
+<p>- <b>Darknet</b>: É uma rede sobreposta que <i>só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. <b>Tipicamente descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.<br>
+Exemplos de redes: TOR, I2P, FreeNet, Hyperboria, Galet, StealthNet, GlobalLeaks, Perfect Dark, Tox, Twister, MORPHiS, Infinit, Alienet, Maelstrom, Resilio, Ricochet, Soulseek, Retroshare, DemonSaw, OnionShare, anoNet, 
 
+</p>
 
+<p>- <b>Dark Web</b>: É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores. Podemos encontrar Pornografia Infantil (CP - Child Porn), venda de drogas, venda de armas, serviços de black hat e imensos vazamentos de dados. <i>Tudo isso encontramos facilmente na Clearnet</i>, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
+
+<p>Apresentado os conceitos básicos, agora vamos aos detalhes:</p>
+
+<p><b>1. O QUE É DEEP WEB?</b><br>
 
 
 <p>______________________________________________________________________________________________________________</p>
@@ -63,4 +74,6 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 <p><b>REFERÊNCIAS</b></p>
 <p>- <b>JEP</b>: <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <b>Radware Blog (Daniel Smith)</b>: <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
+- <b>Life Hacker</b>: <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
+- <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
 - 
