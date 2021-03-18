@@ -9,14 +9,12 @@ author:
 ---
 <center><strong>Você sabe a diferença entre Deep Web e Dark Web?</strong></center> 
 
-<p>Suponho que você já tenha lido o meu texto sobre o <a href="https://escapethex.netlify.app/redes-for-dummies/">"Básico de Redes, Internet e Segurança com Exemplos Toscos"</a>. Se por ventura ainda não, <b>vá ler</b> para não ficar perdido nos termos e conceitos. A não ser que você manje do assunto, aí está tranquilo.</p>
-
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 
-<p>Para explicar este resumo, vamos dividir a Internet em <b>sete</b> "tipos" de redes:<br>
-- <b>P2P (Peer-To-Peer)</b>: É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são Torrent e Blockchain;</p>
+<p>Para explicar este resumo, vamos dividir a Internet em <b>sete tipos de redes</b> e como elas são interconectadas:<br>
+- <b>P2P (Peer-To-Peer)</b>: É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
-<p>- <b>VPN (Virtual Private Network)</b>: A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa a ser privada, normalmente através de softwares. O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
+<p>- <b>VPN (Virtual Private Network)</b>: A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
 
@@ -35,7 +33,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p>______________________________________________________________________________________________________________</p>
 <p><strong>RESUMO:</strong></p>
-<p>Em termos simples, podemos exemplificar usando a <b>"Metáfora do Iceberg"</b>, <i>mesmo não sendo a mais correta</i>. A parte visível, que fica acima do nível do mar, é chamada de <b>"Surface Web"</b> ou <b>"Clearnet"</b>. Tudo o que se pode encontrar através de <b>motores de buscas</b> <i>(Google, Bing, Yahoo, Yandex)</i> fica na "superfície", como:<br>
+<p>Em termos simples, podemos exemplificar usando a <b>"Metáfora do Iceberg"</b>, <i>mesmo não sendo a mais correta</i>. A parte visível, que fica acima do nível do mar, é chamada de <b>"Surface Web"</b> e é tudo o que se pode encontrar através de <b>motores de buscas</b> <i>(Google, Bing, Yahoo, Yandex)</i> fica na "superfície", como:<br>
 - Redes sociais;<br>
 - Canais de entretenimento;<br> 
 - Serviços essenciais;<br>
@@ -50,17 +48,17 @@ Qualquer pessoa pode navegar livremente, sem precisar de algum tipo de <b>anonim
 - Registros médicos e transações financeiras;<br>
 - Repositórios privados, acadêmicos, ciêntíficos e empresariais;<br> 
 - Conversas de Whatsapp ou qualquer outro mensageiro...<br>
-<b>Este site</b>, por exemplo, <b>está hospedado na Deep Web</b>, onde teoricamente não se poderia obter acesso de forma apropriada.<br>
+<b>Este site</b>, por exemplo, <b>está hospedado na Deep Web</b>, onde teoricamente não se poderia obter acesso de forma direta (a não ser se pesquisar pelo meu Instagram).<br>
 Embora, os serviços não sejam indexáveis, é possível acessar certos conteúdos que necessitam de credenciais através do seu navegador comum. Contudo, há sempre o risco de ser rastreado, porém <b>é muito mais seguro navegar na Deep Web do que na Dark Web</b>.<br>
 Na Deep Web, você acessa seu E-mail, sua conta do banco <i>tranquilamente</i>, mas não quer dizer que essas informações não tenham valor de mercado, tanto para empresas, governo ou criminosos.</p>
 
 <p>A <b>Dark Web</b> contém, em sua maioria, <b>atividades criminais e conteúdos prejudiciais</b>. Navegadores comuns <b>até</b> podem acessar, <i>mas há um enorme risco de comprometer a segurança da máquina e dos seus dados</i>. Então, precisa-se de <b>serviços específicos para facilitar e permitir um certo anonimato no acesso</b>.<br>
-O <b>TOR</b> <i>(The Onion Router)</i>, é um serviço que ficou bem famoso por permitir <b>várias camadas de anonimato</b> <i>(onde surgiu o termo "Camadas da Deep Web")</i> e domínios próprios de hospedagem, com terminações <b>.onion</b>.</p>
+O <b>TOR</b> <i>(The Onion Router)</i>, é um serviço que ficou bem famoso por permitir <b>várias camadas de anonimato</b> <i>(onde surgiu erroneamente o termo "Camadas da Deep Web")</i> e domínios próprios de hospedagem, com terminações <b>.onion</b>.</p>
 
 <p>Algumas redes da Dark Web até possuem motores de buscas ou Wikipédias com coleções de links, mas são <i>adicionandos manualmente</i>. Então se tiver algo que você queira muito encontrar, passará um bom tempo pesquisando.<br>   
 Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia infantil e serviços ilegais. Em certos países onde há uma <b>restrição governamental do uso da Internet e também onde são privados os direitos de liberdade de expressão</b>, os sofredores desses regimes vão para a Dark Web para se <i>expressarem sob o benefício do anonimato</i>.</p>
 
-<p><b>EM RESUMO</b>, cada "camada do Iceberg" <b>precisa uma da outra para poder existir</b>. A Deep Web funciona quase que sobreposta a Surface, enquanto a Dark Web é composta em sua maioria por atividade criminosa e liberdade de expressão sob o benefício (por vezes malefício) do anonimato. Mas isso não significa que o que há na Dark Web não pode ser achado na Surface Web.</p>
+<p><b>EM RESUMO</b>, cada "camada do Iceberg" <b>precisa uma da outra para poder existir</b>. A Deep Web funciona quase que sobreposta a Surface, enquanto a Dark Web é composta em sua maioria por atividade criminosa e liberdade de expressão sob o benefício (por vezes malefício) do anonimato. Mas isso não significa que o que há na Dark Web não pode ser encontrado na Surface Web.</p>
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
 <p>- <b>JEP</b>: <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
