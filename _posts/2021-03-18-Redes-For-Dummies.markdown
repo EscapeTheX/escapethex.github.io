@@ -7,6 +7,8 @@ img: redesfordummies.jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
+<center><strong>Entenda Redes, Internet e Segurança com exemplos toscos, porém funcionais</strong></center> 
+
 <p><b>0. Explicação básica sobre o funcionamento de Redes e da Internet:</b></p>
 
 <p> Podemos definir a Internet como um sistema de entregas, como os correios. Temos vários <b>pacotes</b> <i>(dados)</i> a serem entregues entre <b>centrais</b> <i>(servidores)</i>, <b>distribuidoras</b> <i>(terminais e portas)</i> e <b>clientes</b> <i>(máquinas)</i>. Cada pacote tem sua <b>nota fiscal</b> <i>(header ou cabeçalho)</i>, identificando seu conteúdo, quantidade, incluindo data e hora do envio e da entrega.<br>

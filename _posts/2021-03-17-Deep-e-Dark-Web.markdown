@@ -14,13 +14,18 @@ author:
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</br>. Porém, uma precisa da outra para poder existir.</p>
 
 <p>Para explicar este resumo, vamos dividir a Internet em <b>sete</b> "tipos" de redes:<br>
-- <b>P2P</b>:
-- <b>VPN</b>:
-- <b>Clearnet</b>:
-- <b>Surface Web</b>:
-- <b>Deep Web</b>:
-- <b>Darknet</b>: 
-- <b>Dark Web</b>:
+- <b>P2P (Peer-To-Peer)</b>: É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são Torrent e Blockchain;</p>
+
+- <b>VPN (Virtual Private Network)</b>: A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa a ser privada, normalmente através de softwares. O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
+A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
+<i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
+
+- <b>Clearnet</b>: É um termo utilizado para se referir a tudo aquilo que é publicamente acessível na Internet, porém não é o sinônimo de Surface Web. 
+- <b>Surface Web</b>: É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo pode ser procurado/encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 4,45 bilhões de páginas).<br>
+
+- <b>Deep Web</b>: É a parte da Internet onde seu conteúdo não é indexado pelos motores de buscas.
+- <b>Darknet</b>: É uma rede sobreposta que só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns.
+- <b>Dark Web</b>: É o conteúdo que existe na Darknet, que em sua maioria sendo atividades criminosas e conteúdos perturbadores.
 
 
 
