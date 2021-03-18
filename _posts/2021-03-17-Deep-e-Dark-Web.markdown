@@ -13,12 +13,18 @@ author:
 
 <p>Para explicar este resumo, vamos dividir a Internet em <b>sete tipos de redes</b> e como elas estão interconectadas:<br>
 - <b>P2P (Peer-To-Peer)</b>: É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns para os outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+<p><center>
 <img src="/salamandra/peer2peer.jpg" alt="Exemplo de Rede Peer-To-Peer (P2P)">
+<figcaption>Exemplo de rede Peer-To-Peer (P2P)</figcaption>
+</center></p>
 
 <p>- <b>VPN (Virtual Private Network)</b>: A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
-<img src="/salamandra/vpn-works.jpg" alt="Não achei uma imagem com o exemplo correto de como funciona uma VPN realmente, então aqui está um exemplo comum">
+<p><center>
+<img src="/salamandra/vpn-works.jpg" alt="Exemplo comum de VPN, porém não muito correto">
+<figcaption>Exemplo comum de VPN, porém não exatamente correto</figcaption>
+</center></p>
 
 <p>- <b>Clearnet</b>: É um termo utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b> e inclui a Surface Web dentro dela, que não é um sinônimo.<br>
 
@@ -73,7 +79,8 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
 <p>- <b>JEP</b>: <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
-- <b>Radware Blog (Daniel Smith)</b>: <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
+- <b>Radware Blog - Daniel Smith</b>: <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
 - <b>Life Hacker</b>: <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
 - <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
+- <b>Sciendo - Vasile C. Perta et al.: <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
 - 
