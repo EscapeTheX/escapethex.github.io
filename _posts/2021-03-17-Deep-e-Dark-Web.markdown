@@ -17,8 +17,8 @@ author:
 - E-Commerces populares...<br>
 Qualquer pessoa pode navegar livremente, sem precisar de algum tipo de <b>anonimato</b>. Mas não significa que seja um "lado amigável" da Internet, apenas <b>menos complexo</b> de acessar.</p>
 
-<p>Indo para parte submersa do Iceberg... Se na <b>Surface Web</b> podemos encontrar o que quisermos através de sites indexados e ranqueados via motores de busca, na <b>Deep Web</b> é justamente ao contrário.<br>
-- Playlists não listadas do YouTube;<br>
+<p>Indo para parte submersa do Iceberg... Se na <b>Surface Web</b> podemos encontrar o que quisermos através de sites indexados e ranqueados via motores de busca, na <b>Deep Web</b> é justamente ao contrário:<br>
+- Playlists e vídeos não listados do YouTube;<br>
 - Bancos de Dados;<br>
 - Conteúdos dos seus E-mails;<br> 
 - Contas de banco;<br>
@@ -33,22 +33,34 @@ Na Deep Web, você acessa seu E-mail, sua conta do banco <i>tranquilamente</i>, 
 O <b>TOR</b> <i>(The Onion Router)</i>, é um serviço que ficou bem famoso por permitir <b>várias camadas de anonimato</b> <i>(onde surgiu erroneamente as "Camadas da Deep Web")</i> e <b>domínios próprios de hospedagem</b>, com terminações <b>.onion</b>.</p>
 
 <p>Algumas redes da Dark Web até possuem motores de buscas ou Wikipédias com coleções de links, mas são <b>adicionandos manualmente</b>. Então se tiver algo que você queira muito encontrar, passará um bom tempo pesquisando.<br>   
-Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia infantil e serviços ilegais. Em certos países onde há uma <b>restrição governamental do uso da Internet e também onde são privados de liberdade de expressão</b>, os sofredores desses regimes vão para a Dark Web para se <b>expressarem sob o benefício do anonimato</b>.</p>
+Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia infantil e serviços ilegais. Em certos países onde há uma <b>restrição governamental do uso da Internet e também onde são privados os direitos de liberdade de expressão</b>, os sofredores desses regimes vão para a Dark Web para se <b>expressarem sob o benefício do anonimato</b>.</p>
 
-<p><b>EM RESUMO</b>, cada camada do Iceberg precisa uma da outra para poder existir, mas isso não significa que o que há na Dark Web não pode ser achado na Surface Web.<br>
+<p><b>EM RESUMO</b>, cada camada do Iceberg <b>precisa uma da outra para poder existir<b>. A Deep Web funciona quase que sobreposta a Surface, enquanto a Dark Web é composta em sua maioria por atividade criminosa e liberdade de expressão sob o benefício (por vezes malefício) do anonimato. Mas isso não significa que o que há na Dark Web não pode ser achado na Surface Web.<br>
 
-<p>____________________________________</p>
+<p>______________________________________________________________________________________</p>
 
 <p><strong>TEXTO COMPLETO</strong></p>
-<p><b>0. Explicação LEIGA sobre Topologia de Rede e Modelo OSI:</b></p>
+<p><b>0. Explicação básica sobre o funcionamento de Redes e da Internet:</b></p>
 <p> Utilizando um emprego melhor para "Metáfora do Iceberg", a Internet como conhecemos é formada por um sistema de entregas, como os correios <i>(vide a imagem do post)</i>. Temos vários <b>pacotes</b> (dados) a serem entregues entre <b>centrais</b> (servidores), <b>distribuidoras</b> (terminais e portas) e <b>clientes</b> (máquinas). Cada pacote tem sua <b>nota fiscal</b> (header ou cabeçalho), identificando seu conteúdo, quantidade, incluindo data e hora do envio e da entrega.<br>
-Às vezes, tem pessoas que tentam <b>burlar ou forjar a nota fiscal do pacote</b>, seja para meios lícitos ou ilícitos. Como quando há extravio ou roubo de encomendas, quando colocam tijolos ao invés de um XBOX, drogas dentro de roupas e caixa de óculos ou <i>empresas que fazem seus negócios de cunho privado</i>. Porém, <b>há sempre algum tipo de registro</b>, mesmo que residual do pacote, <b>que pode identificar o conteúdo, remetente e o destinatário</b>.<br>
-<i>Utilizaremos este modelo daqui pra frente</i>.</p>
+Às vezes, tem pessoas que tentam <b>burlar ou forjar a nota fiscal do pacote</b>, seja para meios lícitos ou ilícitos. Como quando há extravio ou roubo de encomendas, quando colocam tijolos ao invés de um XBOX, drogas dentro de roupas e caixa de óculos ou <i>empresas que fazem seus negócios de cunho privado</i>. Porém, <b>há sempre algum tipo de registro</b>, mesmo que residual do pacote, <b>que pode identificar o conteúdo, remetente e o destinatário</b>.</p>
+<p>Cada máquina possui dois identificadores únicos:<br>
+- <b>IP - Internet Protocol:<b> É uma identificação que a rede atribui a cada máquina conectada a ela, para que haja alguma comunicação. Funciona como um <b>CPF</b>, onde teoricamente <b>nunca poderá existir um endereço igual</b>. Podemos categorizar os endereços de IP em <b>sete tipos</b>: <i>público, privado, estático, dinâmico, dedicado, compartilhado e de classe</i>. Mas o que interessa pra gente agora é o <b>Público</b>, <i>utilizado para se comunicar com a Internet (normalmente iniciado aqui no Brasil por 177.x.x.x)</i>, e o <b>Privado</b>, <i>utilizado para redes domésticas e corporativas (normalmente iniciado por 10.x.x.x / 172.x.x.x ou 192.x.x.x.)</i>.<br>
+- <b>MAC - Media Access Control</b>: Refere-se ao <b>endereço físico da máquina<b>, ou seja, <b>gravada em hardware na placa de rede</b>. Ao contrário do IP que pode ser <b>mutável</b>, o MAC pode ser apenas <b>falsificado</b> através de <i>técnicas de spoofing</i>. Ele é formado por algarismos na forma <b>hexadecimal</b>, como por exemplo: <i>"00:1A:C8:4B:E3:57"</i>.</p>
+
+<p>Para ver seus endereços de IP e MAC no <b>Windows</b>, basta abrir o prompt e digitar: <i>ipconfig /all</i></p>
 <p>.</p>
 <p><b>1. Segurança da Informação:</b>
-<p>Antes de falarmos diretamente sobre o tema do post, é necessário abordar alguns tópicos dentro da <b>Segurança da Informação</b> para <i>elucidar alguns mitos</i>.<br>
-Desde 1990, o protocolo <b>HTTP</b> é utilizado como <i>base de comunicação de dados entre navegadores e sites</i>, e todas as informações são transferidas entre um cliente e um servidor. Porém, sabemos que essas informações podem ser interceptadas, manipuladas ou roubadas facilmente por qualquer pessoa.<br>
-Para dar segurança extra as comunicações, foi criado o protocolo <b>HTTPS</b>, que é aquele <i>cadeado</i> que fica ao lado da barra de endereço. Ele utiliza um protocolo de encriptação chamado <b>TLS - Transport Secure Layer</b> <i>(antes conhecido como SSL - Secure Socket Layer)</i>.    
+<p>Antes de falarmos diretamente sobre o tema do post, é necessário abordar alguns tópicos dentro da <b>Segurança da Informação</b> para poder <i>elucidar alguns mitos</i>.<br>
+Desde 1990, o protocolo <b>HTTP</b> é utilizado como <i>base de comunicação de dados entre navegadores e sites</i>, portanto, <b>todas as informações são transferidas entre um cliente e um servidor</b>. Porém, sabemos que essas informações podem ser <b>interceptadas, manipuladas ou roubadas facilmente por qualquer pessoa</b>.<br>
+Para dar segurança extra as comunicações, foi criado o protocolo <b>HTTPS</b>, que é aquele <i>cadeado</i> que fica ao lado da barra de endereço. Ele utiliza um protocolo de criptografia chamado <b>TLS - Transport Secure Layer</b> <i>(antes conhecido como SSL - Secure Socket Layer)</i>, que obriga toda informação que será transmitida a passar por um processo de <b>cifragem</b> e <b>autenticação</b>.</p>
+<p>Exemplo:</p>
+<p><b>Antes da encriptação:</b><br>
+{% highlight ruby %} Olá, Google Chrome! Faz o favor de entrar no YouTube? {% endhighlight %}
+<p><b>Depois da encriptação:</b><br>
+{% highlight ruby %}  laI3/ViNFcViv4Bxe3FKITFVvgvdXCruFu5PWW5MWeod8FXhqdtM05SWF8uUiRa7YOXsG9Z4LkIcUV4wj8uzLg== {% endhighlight %} </p>
+
+<p>
+
 
 
 
