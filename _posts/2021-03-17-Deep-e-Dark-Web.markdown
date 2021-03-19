@@ -38,7 +38,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p><b><h3>3. CLEARNET:</h3></b><br>
 É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b> <i>e a Surface Web é somente uma parte dela</i>, que não é um sinônimo.</p>
-<p>A sua complexidade se dá pelo fato que muitos conteúdos estão acessíveis publicamente através de softwares específicos, mas que não precisam de anonimato ou camadas de criptografia para se ter acesso.<br>
+<p>A sua complexidade se dá pelo fato que muitos conteúdos estão acessíveis publicamente através de seus links diretos ou de softwares específicos, mas que não precisam de anonimato ou camadas de criptografia para se ter acesso.<br>
 Isso quer dizer que as ferramentas de OSINT (Open-Source Intelligence) e Análise de Vulnerabilidades, como Shodan e Nessus, também estão incluídas, afinal as informações estão disponíveis publicamente.</p>
 
 <p>Então muitos serviços ditos pertencentes a Darknet, na verdade tem a sua base na Clearnet e podem oferecer conjuntamente a opção de serem estruturados na Darknet (veremos isso depois).<br>
@@ -58,19 +58,15 @@ O mesmo vale para redes e serviços que utilizam somente IPv6 ao invés de IPv4.
 - Serviços Essenciais.<br>
 </p>
 
-<p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b>.<br>
-Os sites tem inúmeras formas de fazer isso, como:<br>
-<b>- Cookies:</b> São pequenos arquivos 
-<b>- Scripts:
-<b> 
+<p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b> pelos provedores e servidores.<br>
 
 <p> </p>
 
 <p><b><h3>5. DEEP WEB:</h3></b><br> 
-É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.</p> 
+É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.<br>
+Normalmente, se um site está bem configurado, os motores de buscas estão programados para não permitir que certos conteúdos sejam indexados por padrão.</p>
 <p>Exemplificando melhor:<br> 
-- Playlists e videos não listados do YouTube;<br>
- Bancos de Dados;<br>
+- Bancos de Dados;<br>
 - Conteúdos de E-mails e conversas privadas em Redes Sociais;<br>
 - Contas de banco e transações financeiras;<br>
 - Repositórios privados, corporativos, acadêmicos, governamentais e científicos;<br>
@@ -80,8 +76,11 @@ Os sites tem inúmeras formas de fazer isso, como:<br>
 <p> </p>
 
 <p><b><h3>6. DARKNET:</h3></b><br> 
-É uma rede sobreposta que <i>só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
-<p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.</p>
+São redes sobrepostas que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
+<p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.<br>
+Um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
+
+
 
 <p><b>É ilegal acessar a Darknet?</b><br>
 Ela é utilizada para quem busca de alguma forma manter-se anônimo e ter privacidade. Órgãos governamentais, exército, agências de ciberinteligência, jornalistas e ativistas, utilizam diariamente a Darknet. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
@@ -96,7 +95,8 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
 
 <p><b>Exemplos de redes da Darknet</b>: (34 de aprox. 30.000)<br>
-- <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. 
+- <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. É um software que utiliza 
+Os problemas conhecidos do TOR são os ataques de correlação, os nós de saída podem ser interceptados por não utilizarem criptografia de ponta-a-ponta, falhas de configurações de sites que permitem exposição de metadados e endereçamento real do usuário/servidor, e várias outras brechas mais complexas.</p> 
 </p>
 
 <p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
@@ -169,7 +169,12 @@ Dependendo do que você planeja procurar, alguns mercados na Darknet podem algum
 
 <p><b><h3>COMO NAVEGAR DE FORMA SEGURA <i>(ou com menos riscos)</i> NA DARKNET?<b></h3><br>
 <b>1. Planejamento:</b> É importante que você saiba o que irá procurar e fazer, pois você pode passar horas navegando e acabar vendo o que não quer;</p>
-<b>2. Identidades e Credenciais:</b> Em hipótese alguma utilize seu nome real, nome de amigos e parentes, E-mails ou qualquer outra coisa que possa te identificar, mesmo que indiretamente. Existem serviços específicos, como o Guerrilla Mail, que oferecem E-mails des
+<p><b>2. Estude sobre Segurança da Informação (ou pelo menos saiba o básico):</b> Procure entender mais sobre Redes 
+
+<p><b>3. Identidades e Credenciais:</b> Em hipótese alguma utilize seu nome real, nome de amigos e parentes, E-mails ou qualquer outra coisa que possa te identificar, mesmo que indiretamente. Existem serviços específicos, como o Guerrilla Mail ou ProtonMail, que oferecem E-mails descartáveis ou específicos para serem usados nessas redes.<br>
+Também <b>não procure as mesmas coisas que você procura na Surface na Darknet</b>, pois isso pode traçar um perfil de usuário e sua identidade ser descoberta.</p>
+
+
 
 <p> </p>
 
@@ -229,4 +234,5 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
 - <b>InternetFreedom</b>: <a href="http://www.internetfreedom.org/FreeGate.html">FreeGate</a><br>
 - <b>ISPBlog<b>: <a href="https://www.ispblog.com.br/2018/05/02/9-passos-para-habilitar-o-ipv6-em-uma-rede-isp/">9 Passos para Habilitar o IPV6 em uma Rede ISP</a><br>
-- 
+- <b>Digital.com<b>: <a href="https://digital.com/online-privacy/deep-dark-web/">Enter The Deep & Dark Web If You Dare (And Get Ready For A Surprise)<a><br>
+
