@@ -41,7 +41,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 <p>A sua complexidade se dá pelo fato que muitos conteúdos estão acessíveis publicamente através de softwares específicos, mas que não precisam de anonimato ou camadas de criptografia para se ter acesso.<br>
 Isso quer dizer que as ferramentas de OSINT (Open-Source Intelligence) e Análise de Vulnerabilidades, como Shodan e Nessus, também estão incluídas, afinal as informações estão disponíveis publicamente.</p>
 
-<p>Então muitos serviços ditos pertencentes a Darknet, na verdade tem a sua base na Clearnet e podem oferecer conjuntamente a opção de serem estruturados na Darknet.<br>
+<p>Então muitos serviços ditos pertencentes a Darknet, na verdade tem a sua base na Clearnet e podem oferecer conjuntamente a opção de serem estruturados na Darknet (veremos isso depois).<br>
 Uma parte dos serviços P2P, por exemplo, não necessitam de anonimato e estão acessíveis ao público.<br>
 O mesmo vale para redes e serviços que utilizam somente IPv6 ao invés de IPv4. Você apenas precisa verificar se no seu provedor está implantado o endereçamento IPv6 e ativá-lo.</p>
 
@@ -51,12 +51,18 @@ O mesmo vale para redes e serviços que utilizam somente IPv6 ao invés de IPv4.
 
 <p><b><h3>4. SURFACE WEB:</h3></b><br>
 É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
-<p>Exemplos:<br>
+<p><b>Exemplos:</b><br>
 - Redes Sociais;<br>
 - Canais de Entretenimento, como serviços de streaming e blogs;<br>
 - E-Commerces populares;<br>
 - Serviços Essenciais.<br>
 </p>
+
+<p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b>.<br>
+Os sites tem inúmeras formas de fazer isso, como:<br>
+<b>- Cookies:</b> São pequenos arquivos 
+<b>- Scripts:
+<b> 
 
 <p> </p>
 
@@ -89,7 +95,7 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
 
-<p><b>Exemplos de redes</b>: (34 de 30.000)<br>
+<p><b>Exemplos de redes da Darknet</b>: (34 de aprox. 30.000)<br>
 - <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. 
 </p>
 
@@ -159,12 +165,11 @@ Dependendo do que você planeja procurar, alguns mercados na Darknet podem algum
 
 <p>- <b>Syndie</b>: Uma rede
 
+<p> </p>
 
-Nem sempre é um lugar perigoso, pois por mais que há uma grande quantidade de pirataria, existem pessoas de boa fé. Mas a lei é "Nunca confie em ninguém da Darknet e Dark Web".<br>
-
-<p>Frequentemente as pessoas pensam que acessar a Darknet é preciso de muito conhecimento em tecnologia e de configurações complicadas, porém não é bem assim. Para se usar o TOR, por exemplo, basta baixar e executar, simplesmente.</p>
-
-<p>A única parte "paga" da Darknet, são certos fóruns ou mercados que controlam quem pode ver e acessar os serviços que oferecem.</p>
+<p><b><h3>COMO NAVEGAR DE FORMA SEGURA <i>(ou com menos riscos)</i> NA DARKNET?<b></h3><br>
+<b>1. Planejamento:</b> É importante que você saiba o que irá procurar e fazer, pois você pode passar horas navegando e acabar vendo o que não quer;</p>
+<b>2. Identidades e Credenciais:</b> Em hipótese alguma utilize seu nome real, nome de amigos e parentes, E-mails ou qualquer outra coisa que possa te identificar, mesmo que indiretamente. Existem serviços específicos, como o Guerrilla Mail, que oferecem E-mails des
 
 <p> </p>
 
@@ -223,4 +228,5 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
 - <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
 - <b>InternetFreedom</b>: <a href="http://www.internetfreedom.org/FreeGate.html">FreeGate</a><br>
+- <b>ISPBlog<b>: <a href="https://www.ispblog.com.br/2018/05/02/9-passos-para-habilitar-o-ipv6-em-uma-rede-isp/">9 Passos para Habilitar o IPV6 em uma Rede ISP</a><br>
 - 
