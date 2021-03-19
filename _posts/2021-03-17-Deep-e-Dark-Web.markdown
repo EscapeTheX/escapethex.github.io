@@ -22,7 +22,7 @@ Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de r
 <figcaption><i>Exemplo de rede Peer-To-Peer (P2P)</i></figcaption>
 </center></p>
 
-<p><b>2. VPN (Virtual Private Network)</b>:<br> 
+<p><b><h3>2. VPN (Virtual Private Network):</h3></b><br> 
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
@@ -32,12 +32,19 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 <figcaption><i>Exemplo simples de VPN, porém não exatamente correto</i></figcaption>
 </center></p>
 
-<p><b>3. CLEARNET</b>:<br>
-É um termo utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet e sem meios de criptografia</b> e inclui a Surface Web dentro dela, que não é um sinônimo.<br>
-</p>
+<p><b><h3>3. CLEARNET></h3></b><br>
+É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b> e a Surface Web é somente uma parte dela</i>, que não é um sinônimo.</p>
+<p>A sua complexidade se dá pelo fato que muitos conteúdos estão acessíveis publicamente através de softwares específicos, mas que não precisam de anonimato ou camadas de criptografia para se ter acesso.<br>
+Isso quer dizer que as ferramentas de OSINT (Open-Source Intelligence) e Análise de Vulnerabilidades, como Shodan e Nessus, também estão incluídas, afinal as informações estão disponíveis publicamente.</p>
 
-<p><b>4. SURFACE WEB</b>:<br>
-É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo pode ser procurado/encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
+<p>Então muitos serviços ditos pertencentes a Darknet, na verdade tem a sua base na Clearnet e podem oferecer conjuntamente a opção de serem estruturados na Darknet.<br>
+Uma parte dos serviços P2P, por exemplo, não necessitam de anonimato e estão acessíveis ao público.<br>
+O mesmo vale para redes e serviços que utilizam somente IPv6 ao invés de IPv4. Você apenas precisa verificar se no seu provedor está implantado o endereçamento IPv6 e ativá-lo.</p>
+
+<p>É causa desses fatores e detalhes que se torna complexo de definir os seus limites.</p>
+
+<p><b><h3>4. SURFACE WEB:</h3></b><br>
+É a porção da Internet que está disponível para o público geral, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
 <p>Exemplos:<br>
 - Redes Sociais;<br>
 - Canais de Entretenimento, como serviços de streaming e blogs;<br>
@@ -45,7 +52,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 - Serviços Essenciais.<br>
 </p>
 
-<p><b>5. DEEP WEB</b>:<br> 
+<p><b><h3>5. DEEP WEB:</h3></b><br> 
 É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.</p> 
 <p>Exemplificando melhor:<br> 
 - Playlists e videos não listados do YouTube;<br>
@@ -58,7 +65,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 
 
-<p><b>6. DARKNET</b>:<br> 
+<p><b><h3>6. DARKNET:</h3></b><br> 
 É uma rede sobreposta que <i>só pode ser acessada através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
 <p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.</p>
 
@@ -67,14 +74,14 @@ Ela é utilizada para quem busca de alguma forma manter-se anônimo e ter privac
 Ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades criminais</b>. Exemplos como pirataria e liberdade de expressão, são justos, dependendo do tipo de governo em que o usuário está inserido. Governos como da Rússia, China, Irã e Coréia do Norte, tomam medidas restritivas quanto a liberdade e privacidade que o usuário tem sobre seus dados e conteúdos disponíveis em seus países.<br>
 <b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
 
-<p><b>O que é possível encontrar na Darknet?<b><br>
+<p><b>O que é possível encontrar na Darknet?</b><br>
 Vale lembrar que, não é porque o conteúdo não é indexado ou precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
 Todo o tipo de conteúdo que é possível achar na Darknet, também é possível de achar na Clearnet e na Deep Web. A única diferença é a <b>QUALIDADE</b> do conteúdo.
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
 
-<p><b>Exemplos de redes</b>:<br>
+<p><b>Exemplos de redes</b>: (34 de 30.000)<br>
 - <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. 
 </p>
 
@@ -153,7 +160,7 @@ Nem sempre é um lugar perigoso, pois por mais que há uma grande quantidade de 
 
 </p>
 
-<p><b>7. DARK WEB</b>:<br>
+<p><b><h3>7. DARK WEB:</h3</b><br>
 É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores. Podemos encontrar Pornografia Infantil (CP - Child Porn), venda de drogas, venda de armas, serviços de black hat e imensos vazamentos de dados. <i>Tudo isso encontramos facilmente na Clearnet</i>, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
 O conteúdo mais predominante na Dark Web são os Mercados Negros, onde vendem vários tipos de itens e serviços diferentes. Sua moeda de troca normalmente é Bitcoin e outras criptomoedas.<br>

@@ -50,6 +50,7 @@ Porém como qualquer outro rastreador, as requests ficam gravadas nos logs.
 - <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
 - <b>Newscientist</b>: <a href="https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous/">Trackers could unmask dark web users who think they’re anonymous</a><br>
 - <b>Newscientist</b>: <a href="https://www.newscientist.com/article/2123354-why-the-dark-net-is-more-resilient-to-attack-than-the-internet/">Why the dark net is more resilient to attack than the internet</a><br>
+- <b>OnionScan</b>: <a href="https://github.com/s-rah/onionscan">What is OnionScan?</a><br>
 - 
 
  

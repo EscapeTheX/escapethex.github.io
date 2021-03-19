@@ -17,7 +17,6 @@ author:
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
 <p>- <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2021/03/15/como-proteger-as-suas-criptomoedas/">Como proteger as suas criptomoedas</a><br>
-- <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2011/09/22/dossier-vpn-ssl/">Dossiê: VPN SSL</a><br>
-- 
+ 
 
  
