@@ -25,7 +25,7 @@ Para explicar melhor os detalhes, <b>vamos dividir a Internet em CINCO tipos de 
 
 <p> </p>
 
-<p><b>2. VPN (Virtual Private Network):</b><br> 
+<p>- <b>VPN (Virtual Private Network):</b><br> 
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
@@ -39,14 +39,14 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p><b><h3>2. CLEARNET E SURFACE WEB:</h3></b><br>
 - <b>Clearnet</b>:<br>
-Clearnet é um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões que preencham a lacuna de privaciade e anonimato. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas, descentralizadas e de malha) e Darkweb, fazem parte da Clearnet.</p>
+É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões que preencham a lacuna de privaciade e/ou anonimato. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas, descentralizadas e de malha) e Darkweb, fazem parte da Clearnet.</p>
 
 <p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente desde que se forneça as credenciais, se necessário.<br>
-Já na Darknet, você pode navegar em algumas redes utilizando um navegador comum com uma VPN, por exemplo, porém o risco de ser rastreado é muito maior.</p>
+Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada, por exemplo.</p>
 
-<p>Por exemplo, <b>este site se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém não precisa de nenhuma credencial ou autenticação para poder usar. Meio complicado, não?</p>   
+<p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém não precisa de nenhuma credencial ou autenticação para poder usar. Meio complicado, não?</p>   
 
-<p>E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4. Você apenas precisa verificar se no seu provedor está implantado o endereçamento IPv6 e ativá-lo.</p>
+<p>E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
 
 <p> </p>
 
@@ -64,7 +64,7 @@ Já na Darknet, você pode navegar em algumas redes utilizando um navegador comu
 <p> </p>
 
 <p><b><h3>3. DEEP WEB:</h3></b><br> 
-É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.<br>
+É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns através do requerimento de <b>credenciais</b>.<br>
 Normalmente, se um site está bem configurado, os motores de buscas estão programados para não permitir que certos conteúdos sejam indexados por padrão.</p>
 <p>Exemplificando melhor:<br> 
 - Sites e sitemas internos de corporações, associações e comércios;<br>
@@ -78,21 +78,28 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 - Documentos governamentais e médicos...<br>
 - Servidores FTP;<br>
 - Honeypots;<br>
-- 
 </p>
 
 <p> </p>
 
 <p><b><h3>4. DARKNET:</h3></b><br> 
-São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
-<p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.<br>
-Um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
+São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>.</p>
 
+<p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.<br>
+Porém um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
 
+<p><b>Quem utiliza a Darknet?<b><br>
+- Jornalistas, ativistas, ex-militares, políticos protestantes, trabalhadores do governo e insiders, que estão caminhando juntos para denunciar ferozmente a corrupção em seus respectivos campos;<br>
+- Grupos Anti-Censura;<br>
+- Residentes de Regimes Políticos Opressivos: Pessoas que vivem sob estes regimes, frequentemente não tem acesso a notícias, informações, dados sobre saúde e sustentabilidade sobre seus países. A Darknet oferece uma certa ajuda que possam obter informações cruciais das quais precisam, além de poderem espalhá-las para o resto da população;<br>
+- Órgãos Governamentais e Agências de Inteligência Cibernética;<br>
+- White Hats / Gray Hats / Black Hats;<br>
+- Criminosos;<br>
+- Curiosos.<br>
 
 <p><b>É ilegal acessar a Darknet?</b><br>
-Ela é utilizada para quem busca de alguma forma manter-se anônimo e ter privacidade. Órgãos governamentais, exército, agências de ciberinteligência, jornalistas e ativistas, utilizam diariamente a Darknet. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
-Ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades criminais</b>. Exemplos como pirataria e liberdade de expressão, são justos, dependendo do tipo de governo em que o usuário está inserido. Governos como da Rússia, China, Irã e Coréia do Norte, tomam medidas restritivas quanto a liberdade e privacidade que o usuário tem sobre seus dados e conteúdos disponíveis em seus países.<br>
+Ela é utilizada para quem busca de alguma forma ter privacidade. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
+Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado em atividades ilícitas</b>. <br>
 <b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
 
 <p><b>O que é possível encontrar na Darknet?</b><br>
@@ -117,11 +124,11 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 - Sites, serviços e redes clonados;<br>
 - Servidores mal-configurados;<br>
 - Fóruns abandonados;<br>
-- VÁRIAS Creepypastas e hoaxes;<br>
+- VÁRIAS Creepypastas e Teorias da Conspiração;<br>
 - VÁRIOS mercados aleatórios de pessoas anônimas, mas que 99% são golpe;<br>
-- MUITA pirataria;
+- MUITA pirataria;<br>
 - Documentos vazados;<br>
-- Todo tipo de pornografia que você pode imaginar (mas é melhor não imaginar);<br>
+- Todo tipo de pornografia que você pode imaginar <i>(mas é melhor não imaginar)</i>;<br>
 - Sites e/ou rede de chats estranhos com mensagens cifradas;<br>
 - Pessoas oferecendo serviços estranhos;<br>
 - Drogas, drogas, drogas e mais drogas;<br>
@@ -129,8 +136,8 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
-
-<p><b>Exemplos de redes da Darknet</b>: (34 de aprox. 30.000)<br>
+<p> </p>
+<p><b>Exemplos de redes da Darknet</b>: (36 de aprox. 30.000)<br>
 - <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. É um software que utiliza 
 Os problemas conhecidos do TOR são os ataques de correlação, os nós de saída podem ser interceptados por não utilizarem criptografia de ponta-a-ponta, falhas de configurações de sites que permitem exposição de metadados e endereçamento real do usuário/servidor, e várias outras brechas mais complexas.</p> 
 </p>
@@ -144,9 +151,7 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 
 <p>- <b>FreeNet</b>:
 
-<p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexão no Hyperboria.<br>
-Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet.<br>
-Seu endereço utiliza o espaço "fc00::/8"</p>
+<p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
 
 <p>- <b>Galet</b>:
@@ -197,7 +202,7 @@ Seu endereço utiliza o espaço "fc00::/8"</p>
 
 <p>- <b>Telex</b>: Uma nova maneira de passar pela censura da Internet.
 
-<p>- <b>Project Byzantium</b>: Distribuição bootável do Linux to set up wireless mesh nodes with commonly available hardware.
+<p>- <b>Project Byzantium</b>: Distribuição bootável do Linux que monta uma rede de malha independente do hardware que você tiver.
 
 <p>- <b>Freifunk</b>: É uma rede comunitária wireless alemã, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso.<br>
 Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.<br>   
@@ -279,8 +284,8 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <a href="http://www.internetfreedom.org/FreeGate.html">Documentação do FreeGate</a><br>
 - <a href="https://www.ispblog.com.br/2018/05/02/9-passos-para-habilitar-o-ipv6-em-uma-rede-isp/">9 Passos para Habilitar o IPV6 em uma Rede ISP</a><br>
 - <a href="https://digital.com/online-privacy/deep-dark-web/">Enter The Deep & Dark Web If You Dare (And Get Ready For A Surprise)<a><br>
-- <b>RETSKIN, Sion</b>. Hands-On: Dark Web Analysis. Packt, 2018.<br>
-- <b>KOZAKIEWICZ, Dilmar José</b>. DEEP WEB E SEGURANÇA DA INFORMAÇÃO: UMA ANÁLISE E SEUS IMPACTOS NA SOCIEDADE E NAS ORGANIZAÇÕES. UTFPR, Curitiba, 2018.<br>
+- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
+- KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
 - <a href="https://docs.meshwith.me/">Documentação do Hyperboria</a><br>
 - <a href="https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md">Documentação do CJDNS</a><br>
 - <a href="https://dat.foundation/about/foundation/">What is Dat?</a><br>
