@@ -50,7 +50,7 @@ Já na Darknet, você pode navegar em várias redes utilizando um navegador comu
 
 <p> </p>
 
-<p><b>Surface Web:</b><br>
+<p>- <b>Surface Web:</b><br>
 É a porção da Internet que está disponível para o PÚBLICO GERAL, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
 <p><b>Exemplos:</b><br>
 - Redes Sociais;<br>
@@ -136,16 +136,23 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
 Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
+
+<p><b>Por que minha Internet fica lenta quando utilizo esses serviços?</b><br>
+Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Surface, cada pacote enviado pela rede precisa passar por um processo de criptografia e descriptografia cada vez que chega num servidor, nó ou retransmissor. Esse processo é muito custoso para rede e por isso a velocidade de banda por vezes pode diminuir em até 80%, dependendo do serviço.</p>
+
 <p> </p>
-<p><b>Exemplos de redes da Darknet</b>: (36 de aprox. 30.000)<br>
-- <b>TOR (The Onion Router)</b>: O mais famoso dessa lista. É um software que utiliza 
-Os problemas conhecidos do TOR são os ataques de correlação, os nós de saída podem ser interceptados por não utilizarem criptografia de ponta-a-ponta, falhas de configurações de sites que permitem exposição de metadados e endereçamento real do usuário/servidor, e várias outras brechas mais complexas.</p> 
-</p>
+<p><b>Uma breve introdução de algumas da Darknet</b>: (36 de aprox. 30.000)<br>
+- <b>TOR (The Onion Router)</b>: É uma rede composta por vários nós criptografados que atuam como retransmissores entre os circuitos da rede e qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
+Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de utilização para fins ilícitos.</p>
 
 <p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
 
+
+
 <p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta, porém seu uso não é intencionado para o anonimato. Segundo a documentação, foi fundada na ideologia de que as redes deveriam ser fáceis de montar, protocolos deveriam ser mais escalonáveis e que a segurança deveria existir em todo lugar.<br>
 Seu funcionamento é no próprio navegador através de instalação de pacotes na máquina e configurações de rede. Para entrar em alguma rede existente, você precisa se conectar com alguém que já esteja lá.</p> 
+
+<p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br>  
 
 <p>- <b>I2P</b>:
 
@@ -154,9 +161,11 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 <p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
 
-<p>- <b>Galet</b>:
+<p>- <b>Galet</b>: Rede P2P descontinuada (mas que há pessoas acessando ainda) que por padrão é pública, porém há a opção de habilitar VPN. Sua conexão entre os nós não ocorre diretamente, ambos os lados devem decidir aceitar a conexão para poderem se comunicar. É utilizado para compatilhamento de arquivos e mensagens de texto.</p>
 
-<p>- <b>StealthNet</b>:
+<p>- <b>RShare</b>: É uma rede P2P anônima Open-Source de compartilhamento de arquivos.  
+
+<p>- <b>StealthNet</b>: 
 
 <p>- <b>GlobalLeaks</b>:
 
@@ -175,6 +184,8 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 <p>- <b>Maelstrom</b>:
 
 <p>- <b>Resilio</b>:
+
+<p>- <b>Osiris</b>:
 
 <p>- <b>Ricochet</b>:
 
@@ -291,3 +302,7 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <a href="https://dat.foundation/about/foundation/">What is Dat?</a><br>
 - <a href="https://wiki.freifunk.net/">Freifunk Wiki</a><br>
 - <a href="https://wiki.hamburg.ccc.de/ChaosVPN">Chaos Computer Club - ChaosVPN</a><br>
+- <a href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN17362_P25_2_1_Admin_FINAL.pdf">Army Cross Domain Solution and Data Transfer Management</a><br>
+- <a href="http://galet.sourceforge.net/">Página do Galet</a><br>
+- <a href="https://zilionweb.wordpress.com/rshare/">Zillion Web - RShare</a><br>
+

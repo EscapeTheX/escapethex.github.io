@@ -37,21 +37,27 @@ Porém como qualquer outro rastreador, as requests ficam gravadas nos logs.
 De acordo com o site da Tails: "Os padrões de tempo e volume de diferentes comunicações através das redes, podem ser estatísticamente possível identificar circuitos e correlacionar usuários e servidores".
 
 
+Os problemas conhecidos do TOR são os ataques de correlação, os nós de saída podem ser interceptados por não utilizarem criptografia de ponta-a-ponta, falhas de configurações de sites que permitem exposição de metadados e endereçamento real do usuário/servidor, e várias outras brechas mais complexas.</p> 
+Onion Share, Whonix, Tails
+
 
 
 
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p>- <b>JEP</b>: <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
-- <b>Radware Blog - Daniel Smith</b>: <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
-- <b>Life Hacker</b>: <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
-- <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
-- <b>Sciendo - Vasile C. Perta et al.</b>: <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
-- <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
-- <b>Norton</b>: <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
-- <b>Newscientist</b>: <a href="https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous/">Trackers could unmask dark web users who think they’re anonymous</a><br>
-- <b>Newscientist</b>: <a href="https://www.newscientist.com/article/2123354-why-the-dark-net-is-more-resilient-to-attack-than-the-internet/">Why the dark net is more resilient to attack than the internet</a><br>
-- <b>OnionScan</b>: <a href="https://github.com/s-rah/onionscan">What is OnionScan?</a><br>
-- 
+<p>- <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
+- <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
+- <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
+- <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
+- <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
+- <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
+- <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
+- <a href="https://www.newscientist.com/article/2126472-trackers-could-unmask-dark-web-users-who-think-theyre-anonymous/">Trackers could unmask dark web users who think they’re anonymous</a><br>
+- <a href="https://www.newscientist.com/article/2123354-why-the-dark-net-is-more-resilient-to-attack-than-the-internet/">Why the dark net is more resilient to attack than the internet</a><br>
+- <a href="https://github.com/s-rah/onionscan">What is OnionScan?</a><br>
+- <a href="https://tails.boum.org/about/index.en.html">How Tails Works</a><br>
+- <a href="https://docs.onionshare.org/2.3.1/en/">OnionShare's Documentation</a><br>
+- <a href="https://metrics.torproject.org/hidserv-dir-onions-seen.html">Tor Metrics</a><br>
+- <a href="https://www.whonix.org/wiki/FAQ">FAQ Whonix</a><br>
 
  
