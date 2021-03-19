@@ -11,11 +11,12 @@ author:
 
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
-Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de redes</b> e veremos como se interconectam:</p>
-<p><b><h3>1. P2P (Peer-To-Peer):</h3></b><br>
-É uma arquitetura de redes usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+Para explicar melhor os detalhes, <b>vamos dividir a Internet em CINCO tipos de redes</b> e veremos como se interconectam:</p>
+<p><b><h3>1. Arquiteturas Básicas e Independentes:</h3></b><br>
+- <b>P2P (Peer-To-Peer)</b>:
+É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
-<p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte e Sul, Síria, Vietnam, Irã e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
+<p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte, Síria e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
 
 <p><center>
 <img src="/salamandra/peer2peer.jpg" alt="Exemplo de Rede Peer-To-Peer (P2P)">
@@ -24,7 +25,7 @@ Para explicar melhor os detalhes, <b>vamos dividir a Internet em SETE tipos de r
 
 <p> </p>
 
-<p><b><h3>2. VPN (Virtual Private Network):</h3></b><br> 
+<p><b>2. VPN (Virtual Private Network):</b><br> 
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 <i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
@@ -36,20 +37,20 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p> </p>
 
-<p><b><h3>3. CLEARNET:</h3></b><br>
-É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões encriptadas e privadas (não inclui VPNs). Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet e Darkweb, fazem parte da Clearnet.</p>
+<p><b><h3>2. CLEARNET E SURFACE WEB:</h3></b><br>
+- <b>Clearnet</b>:<br>
+Clearnet é um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões que preencham a lacuna de privaciade e anonimato. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas, descentralizadas e de malha) e Darkweb, fazem parte da Clearnet.</p>
 
 <p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente desde que se forneça as credenciais, se necessário.<br>
 Já na Darknet, você pode navegar em algumas redes utilizando um navegador comum com uma VPN, por exemplo, porém o risco de ser rastreado é muito maior.</p>
 
 <p>Por exemplo, <b>este site se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém não precisa de nenhuma credencial ou autenticação para poder usar. Meio complicado, não?</p>   
 
-<p>Ferramentas de OSINT (Open-Source Intelligence) e Análise de Vulnerabilidades, como Shodan e Nessus, também estão incluídas, afinal as informações estão disponíveis publicamente e não precisam de autenticação.<br>
-E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4. Você apenas precisa verificar se no seu provedor está implantado o endereçamento IPv6 e ativá-lo.</p>
+<p>E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4. Você apenas precisa verificar se no seu provedor está implantado o endereçamento IPv6 e ativá-lo.</p>
 
 <p> </p>
 
-<p><b><h3>4. SURFACE WEB:</h3></b><br>
+<p><b>Surface Web:</b><br>
 É a porção da Internet que está disponível para o PÚBLICO GERAL, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,24 bilhões de páginas).</p>
 <p><b>Exemplos:</b><br>
 - Redes Sociais;<br>
@@ -62,7 +63,7 @@ E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao i
 
 <p> </p>
 
-<p><b><h3>5. DEEP WEB:</h3></b><br> 
+<p><b><h3>3. DEEP WEB:</h3></b><br> 
 É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns e não necessitam de ferramentas especiais. O máximo que pode ser requerido é suas <b>credenciais</b>, ou seja, informações de Login e Senha.<br>
 Normalmente, se um site está bem configurado, os motores de buscas estão programados para não permitir que certos conteúdos sejam indexados por padrão.</p>
 <p>Exemplificando melhor:<br> 
@@ -82,7 +83,7 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 
 <p> </p>
 
-<p><b><h3>6. DARKNET:</h3></b><br> 
+<p><b><h3>4. DARKNET:</h3></b><br> 
 São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços que utilizam grandes camadas de criptografia para o anonimato</b>.</p>
 <p>Geralmente utiliza-se de redes descentralizadas, como P2P, para que as conexões possam ser feitas. Algumas redes podem até podem ser acessadas através de navegadores comuns sob algum tipo de configuração, porém o risco de ser rastreado é muito maior.<br>
 Um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
@@ -201,7 +202,8 @@ Seu endereço utiliza o espaço "fc00::/8"</p>
 <p>- <b>Freifunk</b>: É uma rede comunitária wireless alemã, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso.<br>
 Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.<br>   
 
-<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. Basicamente é uma rede para que Gray/Black Hats e ativistas via intranet, separando-os da Internet. 
+<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. Basicamente é uma rede para que Gray/Black Hats e ativistas via intranet, separando-os da Internet.<br>
+Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
 
@@ -224,7 +226,7 @@ Também <b>não procure as mesmas coisas que você procura na Surface na Darknet
 
 <p> </p>
 
-<p><b><h3>7. DARK WEB:</h3></b><br>
+<p><b><h3>5. DARK WEB:</h3></b><br>
 É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores. Podemos encontrar Pornografia Infantil (CP - Child Porn), venda de drogas, venda de armas, serviços de black hat e imensos vazamentos de dados. <i>Tudo isso encontramos facilmente na Clearnet</i>, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
 O conteúdo mais predominante na Dark Web são os Mercados Negros, onde vendem vários tipos de itens e serviços diferentes. Sua moeda de troca normalmente é Bitcoin e outras criptomoedas.<br>
@@ -283,4 +285,4 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <a href="https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md">Documentação do CJDNS</a><br>
 - <a href="https://dat.foundation/about/foundation/">What is Dat?</a><br>
 - <a href="https://wiki.freifunk.net/">Freifunk Wiki</a><br>
-- 
+- <a href="https://wiki.hamburg.ccc.de/ChaosVPN">Chaos Computer Club - ChaosVPN</a><br>
