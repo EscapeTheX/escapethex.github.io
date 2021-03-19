@@ -34,6 +34,7 @@ Pode-ser constatar que uma mesma pessoa possua o mesmo servidor para hospedar um
 Funciona igual a um analizador de vulnerabilidades web da clearnet, porém para serviços anônimos.
 Porém como qualquer outro rastreador, as requests ficam gravadas nos logs.
 
+De acordo com o site da Tails: "Os padrões de tempo e volume de diferentes comunicações através das redes, podem ser estatísticamente possível identificar circuitos e correlacionar usuários e servidores".
 
 
 

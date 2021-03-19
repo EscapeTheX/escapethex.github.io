@@ -11,7 +11,7 @@ author:
 
 <p><b>0. Explicação básica sobre o funcionamento de Redes e da Internet:</b></p>
 
-<p>Podemos definir a Internet como um sistema de entregas, como os correios. Temos vários <b>pacotes</b> <i>(dados)</i> a serem entregues entre <b>centrais</b> <i>(servidores)</i>, <b>distribuidoras</b> <i>(terminais e portas)</i> e <b>clientes</b> <i>(máquinas)</i>. Cada pacote tem sua <b>nota fiscal</b> <i>(header ou cabeçalho)</i>, identificando seu conteúdo, quantidade, incluindo data e hora do envio e da entrega.<br>
+<p>Podemos definir a Internet como um sistema de entregas, como os correios. Temos a agência (Internet) que envia vários <b>pacotes</b> <i>(dados)</i> a serem entregues entre <b>centrais</b> <i>(servidores)</i>, <b>distribuidoras</b> <i>(terminais, nós e portas)</i> e <b>clientes</b> <i>(máquinas)</i>. Cada pacote tem sua <b>nota fiscal</b> <i>(header ou cabeçalho)</i>, identificando seu conteúdo, quantidade, incluindo data e hora do envio e da entrega.<br>
 Às vezes, tem pessoas que tentam <b>burlar ou forjar a nota fiscal do pacote</b>, seja para meios lícitos ou ilícitos. Como quando há extravio ou roubo de encomendas, quando colocam tijolos ao invés de um XBOX na caixa ou <i>empresas que fazem seus negócios de cunho privado</i>. Porém, <b>há sempre algum tipo de registro</b>, mesmo que residual do pacote, <b>que pode identificar o conteúdo, remetente e o destinatário</b>.</p>
 
 <p>- <b>Clientes / Máquinas / Dispositivos</b>:  

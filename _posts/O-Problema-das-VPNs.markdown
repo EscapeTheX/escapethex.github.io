@@ -28,6 +28,7 @@ VPNs não foram projetadas para garantir privacidade e anonimato.
 <p><b>REFERÊNCIAS</b></p>
 <p>- <b>Computerworld</b>: <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
 - <b>Sciendo - Vasile C. Perta et al.</b>: <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
-
+- <b>Gizmodo - Daniel Kolitz</b>: <a href="https://gizmodo.uol.com.br/internet-desligar-de-repente/">O que aconteceria se a internet inteira desligasse de repente?
+</a><br>
 
  
