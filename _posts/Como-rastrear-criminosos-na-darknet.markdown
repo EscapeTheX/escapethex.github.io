@@ -59,5 +59,5 @@ Onion Share, Whonix, Tails
 - <a href="https://docs.onionshare.org/2.3.1/en/">OnionShare's Documentation</a><br>
 - <a href="https://metrics.torproject.org/hidserv-dir-onions-seen.html">Tor Metrics</a><br>
 - <a href="https://www.whonix.org/wiki/FAQ">FAQ Whonix</a><br>
-
+- <a href="https://www.ispblog.com.br/2018/05/02/9-passos-para-habilitar-o-ipv6-em-uma-rede-isp/">9 Passos para Habilitar o IPV6 em uma Rede ISP</a><br>
  
