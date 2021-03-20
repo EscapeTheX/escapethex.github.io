@@ -150,7 +150,9 @@ Dependendo do que você planeja procurar, alguns mercados na Darknet podem algum
 <p><b>Por que minha Internet fica lenta quando utilizo esses serviços?</b><br>
 Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Surface, cada pacote enviado pela rede precisa passar por um processo de criptografia e descriptografia cada vez que chega num servidor, nó ou retransmissor. Esse processo é muito custoso para rede e por isso a velocidade de banda por vezes pode diminuir em até 80%, dependendo do serviço.</p>
 
-<p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet</b>:</h3><br>
+<p> </p>
+
+<p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet:</h3></b>
 - <b>TOR (The Onion Router)</b>: É uma rede composta por vários nós criptografados que atuam como retransmissores entre os circuitos da rede e qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
 Permite navegação tanto de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de utilização para fins ilícitos.</p>
