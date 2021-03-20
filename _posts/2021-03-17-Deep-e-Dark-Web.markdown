@@ -249,18 +249,16 @@ Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráf
 
 <p><b><h3>5. DARK WEB:</h3></b><br>
 É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3%, da Internet inteira <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
-Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</b></p>
+Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
 <p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Isso porque,
 
-
-ca normalmente é Bitcoin e outras criptomoedas.</p>
 <p> </p>
 
-<p><b>O que se pode encontrar na Dark Web:</b><i>(não necessariamente com facilidade e autenticidade)</i></p>
-<p>- <b>Maconha</b>: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter mais fácilmente;</p>
+<p><b>O que podemos encontrar na Dark Web:</b><i> (não necessariamente com facilidade e autenticidade)</i></p>
+<p>- <b>Maconha</b>: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter facilmente;</p>
 
-<p>- <b>Remédios Controlados e Anabolizantes</b>: Um mercado com bastante consumidores na rede. Esses remédios podem até ser adquiridos por centavos, que variam desde analgésicos, remédios para disfunção erétil a coqueteis quimioterápicos;</p>
+<p>- <b>Remédios Controlados e Anabolizantes</b>: Um mercado com bastante consumidores na rede. Esses remédios podem ser adquiridos por centavos, que variam desde analgésicos, remédios para disfunção erétil quanto como coqueteis quimioterápicos;</p>
 
 <p>- <b>Drogas e Narcóticos</b>: A Dark Web é a casa para você encontrar qualquer tipo de droga que você imagina. Frequentemente os consumidores procuram por maconha, cocaína, heroína, bala, doce, escopolamina, DMT, GHB, cogumelos, crack, ketamina e anfetaminas;</p>
 
@@ -268,7 +266,7 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 
 <p>- <b>Urânio e outros elementos químicos e/ou radioativos</b>: Um dos casos mais bizarros e documentados foi a venda de Urânio na Dark Web. Não se pode afirmar se o site era de fato legítimo, mas também é possível encontrar outros elementos como polônio, tório, arsênio, enxofre, vários tipos de ácidos, "matéria-prima" para bombas e outros elementos que são utilizados para criar armas de elite.</p> 
 
-<p>- <b>Armas, Munições e Proteção Corporal Estilo SWAT</b>: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT que são utilizadas durante campanhas militares;</p>
+<p>- <b>Armas, Munições e Proteção Corporal Estilo SWAT</b>: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT, que são utilizadas durante campanhas militares;</p>
 
 <p>- <b>Explosivos</b>: Em conjunto nos sites de vendas de armas, encontra-se também dinamites e IEDs (Bombas caseiras e improvisadas) utilizando os mais variados tipos de materiais, desde pólvora e nitroglicerina a elementos radioativos. É mais comum encontrar receitas de bombas e "manuais terroristas";</p>
 
@@ -294,7 +292,7 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 
 <p>- <b>Dados e Documentos de Governos</b>: Parece que se tornou de praxe dos Black Hats fazerem vazamentos de dados aqui no Brasil, pois é um mercado em constante crescimento na Dark Web. Milhares de consumidores buscam lista de milhares de E-mails, CPFs, cartões de crédito, telefones e uma insana lista de outros dados confidenciais;</p>
 
-<p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não serás usado em Tráfico de Pessoas, vá fundo!</p>
+<p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não será usado em Tráfico de Pessoas, pode ser uma boa escolha;</p>
 
 <p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço invadir o próprio consumidor.</p>
 
@@ -312,7 +310,8 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 
 <p>- <b>Vídeos de Tortura, Estupro e Assassinato</b>: Também não muito diferente do que você encontra nos sites citados acima;</p>
 
-<p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.</p>
+<p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas que sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.<br>
+Geralmente utilizam serviços como o TOR, Tox, Retroshare e I2P para se comunicarem;</p>
 
 <p>- <b>Pornografia Infantil (CP - Child Porn)</b>: E chegamos ao fundo do poço. 
 
