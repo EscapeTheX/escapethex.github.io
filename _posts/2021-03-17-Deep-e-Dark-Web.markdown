@@ -256,10 +256,25 @@ Também <b>não procure as mesmas coisas que você procura na Surface na Darknet
 <p> </p>
 
 <p><b><h3>5. DARK WEB:</h3></b><br>
-É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores. Podemos encontrar Pornografia Infantil (CP - Child Porn), venda de drogas, venda de armas, serviços de black hat e imensos vazamentos de dados. <i>Tudo isso encontramos facilmente na Clearnet</i>, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
+É o conteúdo que existe na Darknet, sendo composta de atividades criminosas e conteúdos perturbadores. 
+
+
+
+Podemos encontrar Pornografia Infantil (CP - Child Porn), venda de drogas, venda de armas, serviços de black hat e imensos vazamentos de dados. <i>Tudo isso encontramos facilmente na Clearnet</i>, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
 O conteúdo mais predominante na Dark Web são os Mercados Negros, onde vendem vários tipos de itens e serviços diferentes. Sua moeda de troca normalmente é Bitcoin e outras criptomoedas.<br>
-<p>O que se pode encontrar nos Mercados Negros:<br>
+<p><b>O que se pode encontrar na Dark Web:</b><i>(não necessariamente com facilidade e legítimos)</i><br>
+- Maconha: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter mais fácilmente;<br>
+- Remédios Controlados e Anabolizantes: Um mercado com bastante consumidores na rede. Esses remédios podem até ser adquiridos por centavos, que variam desde analgésicos a coqueteis quimioterápicos;<br>
+- Drogas e Narcóticos: A Dark Web é a casa para você encontrar qualquer tipo de droga que você imagina. Frequentemente os consumidores procuram por maconha, cocaína, heroína, bala, doce, cogumelos, crack, ketamina e anfetaminas;<br>
+- Venenos e Substâncias Tóxicas: Os usos do Ricino na série Breaking Bad inspiraram vários casos criminais envolvendo ele e outras substâncias similares. Mercados da Dark Web, quando isso começou a se popularizar, disponibilizaram lotes em massa de Ricino para serem comprados;<br>
+- Urânio e outros elementos químicos e/ou radioativos: Até 
+- Armas, Munições e Proteção Corporal Estilo SWAT: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT que são utilizadas durante campanhas de militares;<br>
+- Explosivos: Em conjunto nos sites de vendas de armas, encontra-se também IEDs (Bombas caseiras e improvisadas) utilizando os mais variados tipos de materiais, inclusive com elementos radioativos;<br>
+- Artigos Contrabandeados de Luxo e Réplicas: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vitton;<br>
+- Geradores de EMP: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é extremamente consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para enganar a máquina e obterem ganhos máximos;<br>
+- 
+
 - Softwares / Malwares / Exploits;<br>
 - Serviços de Black Hat;<br>
 - Produtos Falsificados;<br>
