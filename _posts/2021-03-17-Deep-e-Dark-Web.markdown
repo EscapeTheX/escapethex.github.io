@@ -296,40 +296,27 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 
 <p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não serás usado em Tráfico de Pessoas, vá fundo!</p>
 
-<p> </p>
+<p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço invadir o próprio consumidor.</p>
 
-<p><b><h3>AVISO! DAQUI PARA BAIXO ENTRAREMOS EM DISCUSSÕES NÃO AMIGÁVEIS PARA TODA FAMÍLIA. ENTÃO SE VOCÊ QUER PRESERVAR A SUA SANIDADE, É MELHOR PARAR POR AQUI!</h3></b></p> 
-<p> </p>
+<p>- <b>Softwares / Malwares / Exploits</b>: Além da pirataria de softwares comerciais, existe uma gama de malwares e "kit exploits" a serem vendidos na Dark Web. Consumidores geralmente procuram por falhas "Zero-Day" e Ransomwares, com o objetivo de lucrar em cima de resgates via criptomoedas;</p>
+
+<p> <p>
+
+<p><b>Daqui para baixo entraremos em tópicos desagradáveis.</b></p>
+
 <p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
 
 <p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddcit" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
 
 <p>- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;</p>
 
-<p>- <b>Vídeos de Tortura, Estupro e Assassinato</b>:  
+<p>- <b>Vídeos de Tortura, Estupro e Assassinato</b>: Também não muito diferente do que você encontra nos sites citados acima;</p>
+
+<p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.</p>
+
+<p>- <b>Pornografia Infantil (CP - Child Porn)</b>: E chegamos ao fundo do poço. 
 
 
-
-
-
-<!-- Contratos de Assassinos: NUNCA FOI DOCUMENTADO qualquer tipo de caso envolvendo a contratação de Hitmans na Dark Web, porém muitos espertalhões aproveitam todos os hoaxes que foram criados em torno da Dark Web e fazem seus anúncios para perpetuar o mito;
-- Vídeos de Maus-tratos de animais: Não muito diferente do que encontramos na Clearnet, até podemos achar necrozoofilia facilmente;
-
-- Vídeos de mutilação e abuso de cadáveres: Não muito diferente da clearnet, o diferencial é a quantidade;
-- 1 bilhão de avisos dizendo que pornografia infantil é ilegal e uma pessoa no chat pedindo links:
-- Serviços para encontrar amigos (ou abusadores, se você preferir)
-- Tutoriais / Manuais de Lockpicking, Roubo, Necrofilia, Suicídio, Canibalismo, Terrorismo, 
-- Videos de tortura: não muito diferentes da Clearnet   -->
-
-
-
-<!-- - Softwares / Malwares / Exploits;<br>
-- Serviços de Black Hat;<br>
-- Produtos Falsificados;<br>
-- Drogas, Remédios Controlados, Ervas, Substâncias Ilegais, Químicas e Tóxicas;<br>
-- Armas e Munições;<br>
-- Vazamentos de Dados e Doxxing;<br>
-- </p> -->
 
 
 
