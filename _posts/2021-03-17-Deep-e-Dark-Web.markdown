@@ -83,7 +83,7 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 <p> </p>
 
 <p><b><h3>4. DARKNET:</h3></b><br> 
-São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>.</p>
+São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>. Além que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
 
 <p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.<br>
 Porém um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
@@ -101,6 +101,12 @@ Porém um ponto desvantajoso é que não se há um controle ou regulação de co
 Ela é utilizada para quem busca de alguma forma ter privacidade. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
 Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado em atividades ilícitas</b>. <br>
 <b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
+
+<p><b>Quais as vantagens de utilizar a Darknet?</b><br>
+Sempre vai depender da rede que você vai navegar. No geral, podemos acessar conteúdos bloqueados por regiões, ausência de propagandas indesejadas, liberdade de expressão, vasto acervo de informações e em alguns casos, com menos uso de espionagem.</p>
+
+<p><b>Quais as desvantagens de utilizar a Darknet?</b><br>
+Em redes que há uma incidência maior de criminalidade, há uma constante vigilância de Órgãos do Governo e Agências de Inteligência Cibernética. Mas sem entrar em termos muitos técnicos, podemos citar: Conteúdos sem regulamentação, falhas em configurações de servidores, ataques de correlação, malwares, DDoS, exposição de metadados, requests gravadas em logs e algoritmos fracos de criptografia.</p>
 
 <p><b>O que é possível encontrar na Darknet?</b><br>
 Vale lembrar que, não é porque o conteúdo não é indexado ou que precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
@@ -217,6 +223,10 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>OneSwarm</b>: Serviço P2P
 
+<p>- <b>Anomos</b>:
+
+<p>- <b>Tribler</b>:
+
 <p>- <b>Omemo</b>: Plataforma social de distribuição de arquivos.
 
 <p>- <b>Phantom</b>: Em desenvolvimento. Utiliza serviços anônimos e faz uso do IPv6 nativamente.
@@ -248,7 +258,7 @@ Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráf
 <p> </p>
 
 <p><b><h3>5. DARK WEB:</h3></b><br>
-É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3%, da Internet inteira <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
+É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3.4% do tráfego total da Internet inteira, que <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
 Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
 <p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Isso porque,
@@ -323,6 +333,7 @@ Geralmente utilizam serviços como o TOR, Tox, Retroshare e I2P para se comunica
 <p><b>REFERÊNCIAS</b></p>
 <p>- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
 - KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
+- PINHEIRO, Débora. Crime de Pornografia Infantil na Deep Web: Medidas Legais para Combate e Proteção Infantojuvenil. UNAMA, 2020.<br> 
 - <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
 - <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
