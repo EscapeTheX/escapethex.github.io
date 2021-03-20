@@ -258,31 +258,54 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 <p> </p>
 
 <p><b>O que se pode encontrar na Dark Web:</b><i>(não necessariamente com facilidade e autenticidade)</i></p>
-<p>- <b>Maconha</b>: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter mais fácilmente;<br>
-- <b>Remédios Controlados e Anabolizantes</b>: Um mercado com bastante consumidores na rede. Esses remédios podem até ser adquiridos por centavos, que variam desde analgésicos, remédios para disfunção erétil a coqueteis quimioterápicos;<br>
-- <b>Drogas e Narcóticos</b>: A Dark Web é a casa para você encontrar qualquer tipo de droga que você imagina. Frequentemente os consumidores procuram por maconha, cocaína, heroína, bala, doce, escopolamina, DMT, GHB, cogumelos, crack, ketamina e anfetaminas;<br>
-- <b>Venenos e Substâncias Tóxicas</b>: Os usos do Ricino na série Breaking Bad inspiraram vários casos criminais envolvendo ele e outras substâncias similares. Mercados da Dark Web, quando isso começou a se popularizar, disponibilizaram lotes em massa de Ricino para serem comprados;<br>
-- <b>Urânio e outros elementos químicos e/ou radioativos</b>: Um dos casos mais bizarros e documentados foi a venda de Urânio na Dark Web. Não se pode afirmar se o site era de fato legítimo, mas também é possível encontrar outros elementos como polônio, tório, arsênio, enxofre, vários tipos de ácidos, "matéria-prima" para bombas e outros elementos que são utilizados para criar armas de elite.<br> 
-- <b>Armas, Munições e Proteção Corporal Estilo SWAT</b>: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT que são utilizadas durante campanhas militares;<br>
-- <b>Explosivos</b>: Em conjunto nos sites de vendas de armas, encontra-se também dinamites e IEDs (Bombas caseiras e improvisadas) utilizando os mais variados tipos de materiais, desde pólvora e nitroglicerina a elementos radioativos. É mais comum encontrar receitas de bombas e "manuais terroristas";<br>
-- <b>Artigos Contrabandeados de Luxo e Réplicas</b>: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vitton;<br>
-- <b>Geradores de EMP</b>: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é extremamente consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para enganar a máquina e obterem ganhos máximos;<br>
-- <b>Venda de Cidadanias e Passaportes Falsos</b>: Tipicamente para o Reino Unido, Canadá e EUA, e com seus preços variando na faixa de $1200;<br>
-- <b>Certificados e Diplomas Falsificados</b>: Se você sempre quis ter um diploma de Harvard, Stanford, ou Yale, você pode conseguir rapidamente e por preços acessíveis;<br>
-- <b>Cartões de Crédito</b>: Um mercado bastante grande na Dark Web. Tipicamente são vendidos em lotes e estão preparados para a maioria dos fins ilícitos;<br>
-- <b>Contas Roubadas e Invadidas</b>: É comum achar contas de Netflix e Spotify que estão sendo vendidas por centavos. Contas de Uber são utilizadas para escapar de fiscalizações e contas de Paypal são livres para retirar todo o dinheiro;<br>
-- <b>Cupons Falsificados</b>: Cupons que oferecem desde $0,50 a >20% são um negócio em expansão na Dark Web. Os cupons são geralmente de empresas grandes e que, para se obter de maneira fraudulenta, utiliza-se da impressão de códigos de barras aparentemente legítimos de outros cupons;<br>
-- <b>Serviços de Impressão 3D</b>: Muito utilizado para criar dinheiro falsificado, aparelhos para fraudar cartões, armas, munições e tudo o que o consumidor necessitar;<br>
-- <b>Números de Seguro / Previdência Social</b>: Alguns mercados vendem números da previdência ou seguros sociais que incluem scores de crédito superiores a 750 por bons preços e frete grátis;<br>
-- <b>Bilhetes de Loterias de Criptomoedas</b>: Frequentemente o Bitcoin e outras criptomoedas são utilizadas para jogos de azar e outras atividades ilícitas semelhantes, porém existe uma indústria artesanal de loterias de criptomoedas que atrai muitos consumidores;<br>
-- <b>Dados e Documentos de Governos</b>: Parece que se tornou de praxe dos Black Hats fazerem vazamentos de dados aqui no Brasil, pois é um mercado em constante crescimento na Dark Web. Milhares de consumidores buscam lista de milhares de E-mails, CPFs, cartões de crédito, telefones e uma insana lista de outros dados confidenciais;<br>
-- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não serás usado em Tráfico de Pessoas, vá fundo!</p>
+<p>- <b>Maconha</b>: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter mais fácilmente;</p>
 
-<p><b>AVISO! DAQUI PARA BAIXO AS COISAS VÃO COMEÇAR A FICAR NÃO MUITO AMIGÁVEIS PARA O PÚBLICO GERAL. ENTÃO SE VOCÊ QUER PRESERVAR A SUA SANIDADE, É MELHOR PARAR POR AQUI!</b></br> 
-- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;<br>
-- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddcit" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;<br>
-- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;<br>
-- <b>Vídeos de Tortura, Estupro e Assassinato</b>:  
+<p>- <b>Remédios Controlados e Anabolizantes</b>: Um mercado com bastante consumidores na rede. Esses remédios podem até ser adquiridos por centavos, que variam desde analgésicos, remédios para disfunção erétil a coqueteis quimioterápicos;</p>
+
+<p>- <b>Drogas e Narcóticos</b>: A Dark Web é a casa para você encontrar qualquer tipo de droga que você imagina. Frequentemente os consumidores procuram por maconha, cocaína, heroína, bala, doce, escopolamina, DMT, GHB, cogumelos, crack, ketamina e anfetaminas;</p>
+
+<p>- <b>Venenos e Substâncias Tóxicas</b>: Os usos do Ricino na série Breaking Bad inspiraram vários casos criminais envolvendo ele e outras substâncias similares. Mercados da Dark Web, quando isso começou a se popularizar, disponibilizaram lotes em massa de Ricino para serem comprados;</p>
+
+<p>- <b>Urânio e outros elementos químicos e/ou radioativos</b>: Um dos casos mais bizarros e documentados foi a venda de Urânio na Dark Web. Não se pode afirmar se o site era de fato legítimo, mas também é possível encontrar outros elementos como polônio, tório, arsênio, enxofre, vários tipos de ácidos, "matéria-prima" para bombas e outros elementos que são utilizados para criar armas de elite.</p> 
+
+<p>- <b>Armas, Munições e Proteção Corporal Estilo SWAT</b>: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT que são utilizadas durante campanhas militares;</p>
+
+<p>- <b>Explosivos</b>: Em conjunto nos sites de vendas de armas, encontra-se também dinamites e IEDs (Bombas caseiras e improvisadas) utilizando os mais variados tipos de materiais, desde pólvora e nitroglicerina a elementos radioativos. É mais comum encontrar receitas de bombas e "manuais terroristas";</p>
+
+<p>- <b>Artigos Contrabandeados de Luxo e Réplicas</b>: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vitton;</p>
+
+<p>- <b>Geradores de EMP</b>: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é extremamente consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para enganar a máquina e obterem ganhos máximos;</p>
+
+<p>- <b>Venda de Cidadanias e Passaportes Falsos</b>: Tipicamente para o Reino Unido, Canadá e EUA, e com seus preços variando na faixa de $1200;</p>
+
+<p>- <b>Certificados e Diplomas Falsificados</b>: Se você sempre quis ter um diploma de Harvard, Stanford, ou Yale, você pode conseguir rapidamente e por preços acessíveis;</p>
+
+<p>- <b>Cartões de Crédito</b>: Um mercado bastante grande na Dark Web. Tipicamente são vendidos em lotes e estão preparados para a maioria dos fins ilícitos;</p>
+
+<p>- <b>Contas Roubadas e Invadidas</b>: É comum achar contas de Netflix e Spotify que estão sendo vendidas por centavos. Contas de Uber são utilizadas para escapar de fiscalizações e contas de Paypal são livres para retirar todo o dinheiro;</p>
+
+<p>- <b>Cupons Falsificados</b>: Cupons que oferecem desde $0,50 a >20% são um negócio em expansão na Dark Web. Os cupons são geralmente de empresas grandes e que, para se obter de maneira fraudulenta, utiliza-se da impressão de códigos de barras aparentemente legítimos de outros cupons;</p>
+
+<p>- <b>Serviços de Impressão 3D</b>: Muito utilizado para criar dinheiro falsificado, aparelhos para fraudar cartões, armas, munições e tudo o que o consumidor necessitar;</p>
+
+<p>- <b>Números de Seguro / Previdência Social</b>: Alguns mercados vendem números da previdência ou seguros sociais que incluem scores de crédito superiores a 750 por bons preços e frete grátis;</p>
+
+<p>- <b>Bilhetes de Loterias de Criptomoedas</b>: Frequentemente o Bitcoin e outras criptomoedas são utilizadas para jogos de azar e outras atividades ilícitas semelhantes, porém existe uma indústria artesanal de loterias de criptomoedas que atrai muitos consumidores;</p>
+
+<p>- <b>Dados e Documentos de Governos</b>: Parece que se tornou de praxe dos Black Hats fazerem vazamentos de dados aqui no Brasil, pois é um mercado em constante crescimento na Dark Web. Milhares de consumidores buscam lista de milhares de E-mails, CPFs, cartões de crédito, telefones e uma insana lista de outros dados confidenciais;</p>
+
+<p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não serás usado em Tráfico de Pessoas, vá fundo!</p>
+
+<p> </p>
+
+<p><b><h3>AVISO! DAQUI PARA BAIXO ENTRAREMOS EM DISCUSSÕES NÃO AMIGÁVEIS PARA TODA FAMÍLIA. ENTÃO SE VOCÊ QUER PRESERVAR A SUA SANIDADE, É MELHOR PARAR POR AQUI!</b></h3></p> 
+<p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
+
+<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddcit" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
+
+<p>- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;</p>
+
+<p>- <b>Vídeos de Tortura, Estupro e Assassinato</b>:  
 
 
 
