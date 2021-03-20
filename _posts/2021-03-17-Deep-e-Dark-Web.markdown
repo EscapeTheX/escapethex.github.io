@@ -298,7 +298,8 @@ ca normalmente é Bitcoin e outras criptomoedas.</p>
 
 <p> </p>
 
-<p><b><h3>AVISO! DAQUI PARA BAIXO ENTRAREMOS EM DISCUSSÕES NÃO AMIGÁVEIS PARA TODA FAMÍLIA. ENTÃO SE VOCÊ QUER PRESERVAR A SUA SANIDADE, É MELHOR PARAR POR AQUI!</b></h3></p> 
+<p><b><h3>AVISO! DAQUI PARA BAIXO ENTRAREMOS EM DISCUSSÕES NÃO AMIGÁVEIS PARA TODA FAMÍLIA. ENTÃO SE VOCÊ QUER PRESERVAR A SUA SANIDADE, É MELHOR PARAR POR AQUI!</h3></b></p> 
+<p> </p>
 <p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
 
 <p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddcit" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
