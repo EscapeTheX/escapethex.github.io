@@ -28,7 +28,6 @@ Para explicar melhor os detalhes, <b>vamos dividir a Internet em CINCO tipos de 
 <p>- <b>VPN (Virtual Private Network):</b><br> 
 A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
-<i>(Nos próximos posts abordarei "O Problema das VPNs" de forma mais completa e mitigando vários quesitos de segurança)</i></p>
 
 <p><center>
 <img src="/salamandra/vpn-works.jpg" alt="Exemplo comum de VPN, porém não muito correto">
@@ -44,7 +43,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 <p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente desde que se forneça as credenciais, se necessário.<br>
 Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada, por exemplo.</p>
 
-<p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém não precisa de nenhuma credencial ou autenticação para poder usar. Meio complicado, não?</p>   
+<p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém ele não é indexado de forma direta pelos motores de busca.</p>   
 
 <p>E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
 
@@ -106,7 +105,7 @@ Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado em atividad
 Sempre vai depender da rede que você vai navegar. No geral, podemos acessar conteúdos bloqueados por regiões, ausência de propagandas indesejadas, liberdade de expressão, vasto acervo de informações e em alguns casos, com menos uso de espionagem.</p>
 
 <p><b>Quais as desvantagens de utilizar a Darknet?</b><br>
-Em redes que há uma incidência maior de criminalidade, há uma constante vigilância de Órgãos do Governo e Agências de Inteligência Cibernética. Mas sem entrar em termos muitos técnicos, podemos citar: Conteúdos sem regulamentação, falhas em configurações de servidores, ataques de correlação, malwares, DDoS, exposição de metadados, requests gravadas em logs e algoritmos fracos de criptografia.</p>
+Em redes em que há uma incidência maior de criminalidade, há uma constante vigilância de Órgãos do Governo e Agências de Inteligência Cibernética. Mas sem entrar em termos muitos técnicos, podemos citar: Conteúdos sem regulamentação, falhas em configurações de servidores, ataques de correlação, malwares, DDoS, exposição de metadados, requests gravadas em logs e algoritmos fracos de criptografia.</p>
 
 <p><b>O que é possível encontrar na Darknet?</b><br>
 Vale lembrar que, não é porque o conteúdo não é indexado ou que precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
@@ -116,7 +115,7 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 - Comunicação via criptografia para garantir privacidade e proteção;<br>
 - Redes sociais, blogs, jornais, chats de texto e voz;<br>
 - Grupos que lutam por suas causas;<br>
-- Discussões acadêmicas e científicas;
+- Discussões acadêmicas e científicas;<br>
 - Clube de livros e diversos outros fã-clubes;<br>
 - Versões Darknet do Yahoo! Respostas;<br>
 - Sistemas bibliotecários;<br>
@@ -166,18 +165,14 @@ No momento em que você está estabelecendo uma conexão, estão sendo definidos
 Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou nó/retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
 
-<p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
+<p>- <b>I2P</b>:
 
-
+<p>- <b>FreeNet</b>:
 
 <p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta, porém seu uso não é intencionado para o anonimato. Segundo a documentação, foi fundada na ideologia de que as redes deveriam ser fáceis de montar, protocolos deveriam ser mais escalonáveis e que a segurança deveria existir em todo lugar.<br>
 Seu funcionamento é no próprio navegador através de instalação de pacotes na máquina e configurações de rede. Para entrar em alguma rede existente, você precisa se conectar com alguém que já esteja lá.</p> 
 
 <p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br>  
-
-<p>- <b>I2P</b>:
-
-<p>- <b>FreeNet</b>:
 
 <p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
@@ -263,7 +258,7 @@ Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráf
 É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3.4% do tráfego total da Internet inteira, que <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
 Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
-<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Isso porque,
+<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Pois, teoricamente, elas não podem ser rastreadas devido aos seus algoritmos de criptografia nas transações e carteiras.</p>
 
 <p> </p>
 
@@ -282,7 +277,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Explosivos</b>: Em conjunto nos sites de vendas de armas, encontra-se também dinamites e IEDs (Bombas caseiras e improvisadas) utilizando os mais variados tipos de materiais, desde pólvora e nitroglicerina a elementos radioativos. É mais comum encontrar receitas de bombas e "manuais terroristas";</p>
 
-<p>- <b>Artigos Contrabandeados de Luxo e Réplicas</b>: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vitton;</p>
+<p>- <b>Artigos Contrabandeados de Luxo e Réplicas</b>: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vuitton;</p>
 
 <p>- <b>Geradores de EMP</b>: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é extremamente consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para enganar a máquina e obterem ganhos máximos;</p>
 
@@ -294,7 +289,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Contas Roubadas e Invadidas</b>: É comum achar contas de Netflix e Spotify que estão sendo vendidas por centavos. Contas de Uber são utilizadas para escapar de fiscalizações e contas de Paypal são livres para retirar todo o dinheiro;</p>
 
-<p>- <b>Cupons Falsificados</b>: Cupons que oferecem desde $0,50 a >20% são um negócio em expansão na Dark Web. Os cupons são geralmente de empresas grandes e que, para se obter de maneira fraudulenta, utiliza-se da impressão de códigos de barras aparentemente legítimos de outros cupons;</p>
+<p>- <b>Cupons Falsificados</b>: Cupons que oferecem desde $0,50 a >20% de desconto, também são um negócio em expansão na Dark Web. Os cupons são geralmente de empresas grandes e que, para se obter de maneira fraudulenta, utiliza-se da impressão de códigos de barras aparentemente legítimos de outros cupons;</p>
 
 <p>- <b>Serviços de Impressão 3D</b>: Muito utilizado para criar dinheiro falsificado, aparelhos para fraudar cartões, armas, munições e tudo o que o consumidor necessitar;</p>
 
@@ -302,11 +297,11 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Bilhetes de Loterias de Criptomoedas</b>: Frequentemente o Bitcoin e outras criptomoedas são utilizadas para jogos de azar e outras atividades ilícitas semelhantes, porém existe uma indústria artesanal de loterias de criptomoedas que atrai muitos consumidores;</p>
 
-<p>- <b>Dados e Documentos de Governos</b>: Parece que se tornou de praxe dos Black Hats fazerem vazamentos de dados aqui no Brasil, pois é um mercado em constante crescimento na Dark Web. Milhares de consumidores buscam lista de milhares de E-mails, CPFs, cartões de crédito, telefones e uma insana lista de outros dados confidenciais;</p>
+<p>- <b>Dados e Documentos de Governos</b>: Parece que se tornou de praxe dos Black Hats fazerem vazamentos de dados aqui no Brasil, pois é um mercado em constante crescimento na Dark Web. Milhares de consumidores buscam lista de E-mails, CPFs, cartões de crédito, telefones e uma insana lista de outros dados confidenciais;</p>
 
 <p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não será usado em Tráfico de Pessoas, pode ser uma boa escolha;</p>
 
-<p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço invadir o próprio consumidor.</p>
+<p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço invadir o próprio consumidor;</p>
 
 <p>- <b>Softwares / Malwares / Exploits</b>: Além da pirataria de softwares comerciais, existe uma gama de malwares e "kit exploits" a serem vendidos na Dark Web. Consumidores geralmente procuram por falhas "Zero-Day" e Ransomwares, com o objetivo de lucrar em cima de resgates via criptomoedas;</p>
 
@@ -325,8 +320,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 <p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas que sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.<br>
 Geralmente utilizam serviços como o TOR, Tox, Retroshare e I2P para se comunicarem;</p>
 
-<p>- <b>Pornografia Infantil (CP - Child Porn)</b><br>
-Deixei este tópico justamente em último por ser <b>o mais sensível</b> de abordar, pois infelizmente, este tipo de conteúdo desprezível é facilmente encontrado na Clearnet e aos montes, seja em sites como "Caiu Na Net" aqui no Brasil e quanto como em sites Russos e Asiáticos. Porém, além do "revenge porn" praticado com menores, temos a questão de que na Dark Web não há limites.</p>
+<p>- <b>Pornografia Infantil (CP - Child Porn)</b>: Deixei este tópico justamente em último por ser <b>o mais sensível</b> de abordar, pois infelizmente, este tipo de conteúdo desprezível é facilmente encontrado na Clearnet e aos montes, seja em sites como "Caiu Na Net" aqui no Brasil, quanto como em sites Russos e Asiáticos. Porém, além do "revenge porn" praticado com menores, temos a questão de que na Dark Web não há limites.</p>
 
 <p><b>Operação Darknet</b>:<br>
 Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação sobre Pornografia Infantil do Brasil na rede TOR. A operação resultou na busca e apreensão de mais de 100 pessoas em 18 estados brasileiros e em países como Itália, Portugal, Colômbia, México e Venezuela. Poucas polícias no mundo obtiveram êxito nas investigações, como o FBI, Scotland Yard e a Polícia Federal Australiana.</p>
@@ -340,11 +334,11 @@ Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação 
 
 <p>_________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p>- <b>Canais do Youtube</b>: <a href="https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A">Fábrica de Noobs (Natanael Antonioli)</a>, <a href="https://www.youtube.com/c/STACKZOFICIAL/videos">STACKZ / Gustavo Pinheiro</a>, <a href="https://www.youtube.com/channel/UCbuxUJVokSf4V0Nmj_kWq0A/videos">Deep Web Brasil</a>, <a href="https://www.youtube.com/c/SomeOrdinaryGamers/videos">SomeOrdinaryGamers (Mutahar Anas)</a>, <a href="https://www.youtube.com/channel/UCyEXkaNrS9TNiTnyhKj3iQA/videos">Irfan Shakeel</a><br> 
-- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
-- KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
-- PINHEIRO, Débora. Crime de Pornografia Infantil na Deep Web: Medidas Legais para Combate e Proteção Infantojuvenil. UNAMA, 2020.<br> 
-- <a href="http://www.mpf.mp.br/rs/sala-de-imprensa/docs/outros-documentos/operacao-darknet">Ministério Público Federal - Operação Darknet</a><br>
+<p>- <b>Canais do Youtube: <a href="https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A">Fábrica de Noobs (Natanael Antonioli)</a>, <a href="https://www.youtube.com/c/STACKZOFICIAL/videos">STACKZ / Gustavo Pinheiro</a>, <a href="https://www.youtube.com/channel/UCbuxUJVokSf4V0Nmj_kWq0A/videos">Deep Web Brasil</a>, <a href="https://www.youtube.com/c/SomeOrdinaryGamers/videos">SomeOrdinaryGamers (Mutahar Anas)</a>, <a href="https://www.youtube.com/channel/UCyEXkaNrS9TNiTnyhKj3iQA/videos">Irfan Shakeel</a></b><br> 
+- <b>RETSKIN, Sion</b>. Hands-On: Dark Web Analysis. Packt, 2018.<br>
+- <b>KOZAKIEWICZ, Dilmar José</b>. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
+- <b>PINHEIRO, Débora</b>. Crime de Pornografia Infantil na Deep Web: Medidas Legais para Combate e Proteção Infantojuvenil. UNAMA, 2020.<br> 
+- <b><a href="http://www.mpf.mp.br/rs/sala-de-imprensa/docs/outros-documentos/operacao-darknet">Ministério Público Federal - Operação Darknet</a><br>
 - <a href="http://www.pf.gov.br/agencia/noticias/2016/11/pf-combate-crime-de-pornografia-infantil-na-deep-web">PF combate crime de pornografia infantil na Deep Web</a><br>
 - <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
