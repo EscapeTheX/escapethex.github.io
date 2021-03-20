@@ -103,7 +103,7 @@ Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado em atividad
 <b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
 
 <p><b>O que é possível encontrar na Darknet?</b><br>
-Vale lembrar que, não é porque o conteúdo não é indexado ou precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
+Vale lembrar que, não é porque o conteúdo não é indexado ou que precisa de parafernalhas para poder ter acesso, que ele seja interessante para toda a população.<br>
 Todo o tipo de conteúdo que é possível achar na Darknet, também é possível de achar na Clearnet. A única diferença é a <b>QUALIDADE e QUANTIDADE</b> do conteúdo.</p>
 
 <p><b>Primeiramente vamos utilizar exemplos amigáveis e para toda família:</b><br>
@@ -140,8 +140,7 @@ Dependendo do que você planeja procurar, alguns mercados na Darknet podem algum
 <p><b>Por que minha Internet fica lenta quando utilizo esses serviços?</b><br>
 Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Surface, cada pacote enviado pela rede precisa passar por um processo de criptografia e descriptografia cada vez que chega num servidor, nó ou retransmissor. Esse processo é muito custoso para rede e por isso a velocidade de banda por vezes pode diminuir em até 80%, dependendo do serviço.</p>
 
-<p> </p>
-<p><b>Uma breve introdução de algumas da Darknet</b>: (36 de aprox. 30.000)<br>
+<p><b>Uma breve introdução de algumas redes e plataformas da Darknet</b>: (36 de aprox. 30.000)<br>
 - <b>TOR (The Onion Router)</b>: É uma rede composta por vários nós criptografados que atuam como retransmissores entre os circuitos da rede e qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
 Permite navegação tanto de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de utilização para fins ilícitos.</p>
@@ -162,7 +161,7 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 <p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
 
-<p>- <b>Galet</b>: Rede P2P descontinuada (mas que há pessoas acessando ainda) que por padrão é pública, porém há a opção de habilitar VPN. Sua conexão entre os nós não ocorre diretamente, ambos os lados devem decidir aceitar a conexão para poderem se comunicar. É utilizado para compatilhamento de arquivos e mensagens de texto.</p>
+<p>- <b>Galet</b>: Rede P2P descontinuada (mas que ainda há pessoas acessando) que por padrão é pública, porém há a opção de habilitar VPN. Sua conexão entre os nós não ocorre diretamente, ambos os lados devem decidir aceitar a conexão para poderem se comunicar. É utilizado para compatilhamento de arquivos e mensagens de texto.</p>
 
 <p>- <b>RShare</b>: É uma rede P2P anônima Open-Source de compartilhamento de arquivos, disponível apenas para Windows. Na rede, o remetente e o destinatário não podem ser identificados, pois seus endereços de IP são ocultos.</p>  
 
@@ -172,9 +171,10 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 
 <p>- <b>Perfect Dark</b>:
 
-<p>- <b>Tox</b>:
+<p>- <b>Tox</b>: É uma rede P2P descentralizada que oferece o sistema de criptografia NaCl de ponta-a-ponta como padrão. Ele pode ser usado para compartilhamento de arquvios, mensagens de texto, voz e vídeo, compatilhamento de tela e formação de grupos.<br>
 
-<p>- <b>Twister</b>:
+<p>- <b>Twister</b>: É uma plataforma de microblogging descentralizada P2P, que é dividia em três redes sobrepostas. A primeira provém registro de usuários e autenticação baseada na arquitetura de rede utilizada no Bitcoin. A segunda é uma DHT que fornece armazenamento de chaves para recursos do usuário e a localização do nó para a terceira rede; que então é utilizado o P2P para enviar mensagens e notificações aos usuários.<br>
+Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>MORPHiS</b>:
 
@@ -214,10 +214,10 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 
 <p>- <b>Project Byzantium</b>: Distribuição bootável do Linux que monta uma rede de malha independente do hardware que você tiver.
 
-<p>- <b>Freifunk</b>: É uma rede comunitária wireless alemã, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso.<br>
+<p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso.<br>
 Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.<br>   
 
-<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. Basicamente é uma rede para que Gray/Black Hats e ativistas via intranet, separando-os da Internet.<br>
+<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet.<br>
 Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
@@ -286,16 +286,15 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 <p><b>EM RESUMO</b>, cada "camada do Iceberg" <b>precisa uma da outra para poder existir</b>. A Deep Web funciona quase que sobreposta a Surface, enquanto a Dark Web é composta em sua maioria por atividade criminosa e liberdade de expressão sob o benefício (por vezes malefício) do anonimato. Mas isso não significa que o que há na Dark Web não pode ser encontrado na Surface Web.</p>
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p><a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
+<p>- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
+- KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
+- <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
 - <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
 - <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
 - <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
 - <a href="http://www.internetfreedom.org/FreeGate.html">Documentação do FreeGate</a><br>
-- <a href="https://www.ispblog.com.br/2018/05/02/9-passos-para-habilitar-o-ipv6-em-uma-rede-isp/">9 Passos para Habilitar o IPV6 em uma Rede ISP</a><br>
 - <a href="https://digital.com/online-privacy/deep-dark-web/">Enter The Deep & Dark Web If You Dare (And Get Ready For A Surprise)<a><br>
-- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
-- KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
 - <a href="https://docs.meshwith.me/">Documentação do Hyperboria</a><br>
 - <a href="https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md">Documentação do CJDNS</a><br>
 - <a href="https://dat.foundation/about/foundation/">What is Dat?</a><br>
@@ -306,4 +305,6 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <a href="https://zilionweb.wordpress.com/rshare/">Zillion Web - RShare</a><br>
 - <a href="https://www.globaleaks.org/support/faqs/">Globaleaks FAQ<a><br>
 - <a href="https://tox.chat/index.html">Página Inicial do Tox<a><br>
+- <a href="http://twister.net.co/faq/">Twister FAQ</a><br>
+- <a href="https://morph.is/v0.8/#learn">Página Inicial do MORPHiS</a><br>
 - 
