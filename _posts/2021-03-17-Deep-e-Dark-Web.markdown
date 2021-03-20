@@ -88,7 +88,7 @@ São redes sobrepostas a Internet que <i>só podem ser acessadas através de sof
 <p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.<br>
 Porém um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
 
-<p><b>Quem utiliza a Darknet?<b><br>
+<p><b>Quem utiliza a Darknet?</b><br>
 - Jornalistas, ativistas, ex-militares, políticos protestantes, trabalhadores do governo e insiders, que estão caminhando juntos para denunciar ferozmente a corrupção em seus respectivos campos;<br>
 - Grupos Anti-Censura;<br>
 - Residentes de Regimes Políticos Opressivos: Pessoas que vivem sob estes regimes, frequentemente não tem acesso a notícias, informações, dados sobre saúde e sustentabilidade sobre seus países. A Darknet oferece uma certa ajuda que possam obter informações cruciais das quais precisam, além de poderem espalhá-las para o resto da população;<br>
@@ -143,6 +143,7 @@ Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Su
 <p> </p>
 <p><b>Uma breve introdução de algumas da Darknet</b>: (36 de aprox. 30.000)<br>
 - <b>TOR (The Onion Router)</b>: É uma rede composta por vários nós criptografados que atuam como retransmissores entre os circuitos da rede e qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
+Permite navegação tanto de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de utilização para fins ilícitos.</p>
 
 <p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
@@ -163,11 +164,11 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 
 <p>- <b>Galet</b>: Rede P2P descontinuada (mas que há pessoas acessando ainda) que por padrão é pública, porém há a opção de habilitar VPN. Sua conexão entre os nós não ocorre diretamente, ambos os lados devem decidir aceitar a conexão para poderem se comunicar. É utilizado para compatilhamento de arquivos e mensagens de texto.</p>
 
-<p>- <b>RShare</b>: É uma rede P2P anônima Open-Source de compartilhamento de arquivos.  
+<p>- <b>RShare</b>: É uma rede P2P anônima Open-Source de compartilhamento de arquivos, disponível apenas para Windows. Na rede, o remetente e o destinatário não podem ser identificados, pois seus endereços de IP são ocultos.</p>  
 
-<p>- <b>StealthNet</b>: 
+<p>- <b>StealthNet</b>: É baseado no cliente RShare, mas que possui criptografia AES-256 de ponta-a-ponta. Não suporta hospedagem de serviços web.</p>
 
-<p>- <b>GlobalLeaks</b>:
+<p>- <b>GlobalLeaks</b>: É um plataforma P2P Open-Source que utiliza tanto retransmissões para a rede TOR quanto para HTTPS. Ela funciona como uma rede de denúncias, que então você pode criar uma iniciativa através de um nó para recolher ou fazer suas denúncias.</p>
 
 <p>- <b>Perfect Dark</b>:
 
@@ -194,8 +195,6 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 <p>- <b>Retroshare</b>: Utilizado para compartilhamento de arquivos, chat, forums, e-mail. 
 
 <p>- <b>DemonSaw</b>:
-
-<p>- <b>OnionShare</b>:
 
 <p>- <b>anoNet</b>: É uma rede descentralizada P2P, semelhante a Freenet, que utiliza-se de VPNs e protocolo BGP. 
 
@@ -305,4 +304,6 @@ Mas a Dark Web não vive só de vazamento de dados, mercado negro, pornografia i
 - <a href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN17362_P25_2_1_Admin_FINAL.pdf">Army Cross Domain Solution and Data Transfer Management</a><br>
 - <a href="http://galet.sourceforge.net/">Página do Galet</a><br>
 - <a href="https://zilionweb.wordpress.com/rshare/">Zillion Web - RShare</a><br>
-
+- <a href="https://www.globaleaks.org/support/faqs/">Globaleaks FAQ<a><br>
+- <a href="https://tox.chat/index.html">Página Inicial do Tox<a><br>
+- 
