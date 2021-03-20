@@ -129,6 +129,7 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 - "This site is hosted" <br>
 - "This site has been seized" <br>
 - "ERR_CONNECTION_REFUSED"<br>
+- "The connection has timed out"<br>
 - "Invalid Address"<br>
 - "99% Download > Download Error"<br>
 - Esperar mais de 30min para atingir a quantidade mínima de nós para poder navegar;<br>
@@ -160,9 +161,10 @@ Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Su
 <p> </p>
 
 <p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet:</h3></b>
-- <b>TOR (The Onion Router)</b>: É uma rede composta por vários nós criptografados que atuam como retransmissores entre os circuitos da rede e qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
-Permite navegação tanto de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
-Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de utilização para fins ilícitos.</p>
+- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
+No momento em que você está estabelecendo uma conexão, estão sendo definidos os nós de proxy por onde sua conexão irá passar. Cada pacote enviado através desses nós é encriptado com uma cifra assimétrica. E cada pacote recebido pelo servidor através desses nós, ele faz um processo de "descascar" a última camada entregue, assim somente o rementente e o último nó sabem da mensagem original.<br>
+Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou nó/retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
+Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
 
 <p>- <b>Garlic Routing</b>: É uma variação do TOR que utiliza o processo de Key-Based Routing
 
@@ -323,17 +325,27 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 <p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas que sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.<br>
 Geralmente utilizam serviços como o TOR, Tox, Retroshare e I2P para se comunicarem;</p>
 
-<p>- <b>Pornografia Infantil (CP - Child Porn)</b>: E chegamos ao fundo do poço. 
+<p>- <b>Pornografia Infantil (CP - Child Porn)</b><br>
+Deixei este tópico justamente em último por ser <b>o mais sensível</b> de abordar, pois infelizmente, este tipo de conteúdo desprezível é facilmente encontrado na Clearnet e aos montes, seja em sites como "Caiu Na Net" aqui no Brasil e quanto como em sites Russos e Asiáticos. Porém, além do "revenge porn" praticado com menores, temos a questão de que na Dark Web não há limites.</p>
 
+<p><b>Operação Darknet</b>:<br>
+Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação sobre Pornografia Infantil do Brasil na rede TOR. A operação resultou na busca e apreensão de mais de 100 pessoas em 18 estados brasileiros e em países como Itália, Portugal, Colômbia, México e Venezuela. Poucas polícias no mundo obtiveram êxito nas investigações, como o FBI, Scotland Yard e a Polícia Federal Australiana.</p>
+ 
+<p> </p>
+
+<p><b><h3>RESUMO</h3></b><br>
 
 
 
 
 <p>_________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p>- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
+<p>- <b>Canais do Youtube</b>: <a href="https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A">Fábrica de Noobs (Natanael Antonioli)</a>, <a href="https://www.youtube.com/c/STACKZOFICIAL/videos">STACKZ / Gustavo Pinheiro</a>, <a href="https://www.youtube.com/channel/UCbuxUJVokSf4V0Nmj_kWq0A/videos">Deep Web Brasil</a>, <a href="https://www.youtube.com/c/SomeOrdinaryGamers/videos">SomeOrdinaryGamers (Mutahar Anas)</a>, <a href="https://www.youtube.com/channel/UCyEXkaNrS9TNiTnyhKj3iQA/videos">Irfan Shakeel</a><br> 
+- RETSKIN, Sion. Hands-On: Dark Web Analysis. Packt, 2018.<br>
 - KOZAKIEWICZ, Dilmar José. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
 - PINHEIRO, Débora. Crime de Pornografia Infantil na Deep Web: Medidas Legais para Combate e Proteção Infantojuvenil. UNAMA, 2020.<br> 
+- <a href="http://www.mpf.mp.br/rs/sala-de-imprensa/docs/outros-documentos/operacao-darknet">Ministério Público Federal - Operação Darknet</a><br>
+- <a href="http://www.pf.gov.br/agencia/noticias/2016/11/pf-combate-crime-de-pornografia-infantil-na-deep-web">PF combate crime de pornografia infantil na Deep Web</a><br>
 - <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
 - <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
