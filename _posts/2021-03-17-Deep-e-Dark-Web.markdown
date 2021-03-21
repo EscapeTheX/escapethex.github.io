@@ -169,7 +169,7 @@ Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Su
 <p> </p>
 
 <p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet:</h3></b>
-- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
+<p>- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
 No momento em que você está estabelecendo uma conexão, estão sendo definidos os nós de proxy por onde sua conexão irá passar. Cada pacote enviado através desses nós é encriptado com uma cifra assimétrica. E cada pacote recebido pelo servidor através desses nós, ele faz um processo de "descascar" a última camada entregue, assim somente o rementente e o último nó sabem da mensagem original.<br>
 Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou nó/retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
@@ -362,6 +362,7 @@ De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção
 - <a href="http://www.pf.gov.br/agencia/noticias/2016/11/pf-combate-crime-de-pornografia-infantil-na-deep-web">PF combate crime de pornografia infantil na Deep Web</a><br>
 - <a href="https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main">White Paper: The Deep Web - Surfacing Hidden Value</a><br>
 - <a href="https://blog.radware.com/security/2016/04/darknet-101/">Darknet 101: An Introduction to The Darkest Places Online</a><br>
+- <a href="https://www.gdatasoftware.com/guidebook/what-is-the-darknet-exactly">What actually is the Darknet?</a><br>
 - <a href="https://lifehacker.com/how-can-i-stay-anonymous-with-tor-1498876762">How Can I Stay Anonymous with Tor?</a><br>
 - <a href="https://us.norton.com/internetsecurity-emerging-threats-what-is-the-deep-dark-web-30sectech.html">What is the dark web</a><br>
 - <a href="https://us.norton.com/internetsecurity-how-to-how-can-i-access-the-deep-web.html">How to safely access the deep and dark webs</a><br>
