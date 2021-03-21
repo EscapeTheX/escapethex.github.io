@@ -330,11 +330,15 @@ Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação 
 <p><b><h3>RESUMO</h3></b><br>
 De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção de curiosos devido as várias <b>lendas</b> que surgiram desde o aparecimento dessas redes. Porém, por vezes <b>essa curiosidade pode acabar colocando o usuário em sérios riscos de privacidade</b>, caso ele não saiba o que está fazendo. Afinal, <b>não existe 100% de anonimato na Internet</b>. E não é porque o conteúdo não aparece nas buscas que ele é de fato interessante, mas ele está lá por algum motivo.</p>
 
-<p>A Surface Web ainda é a rede mais perigosa de todas, comparando com todas as outras. Não temos noção o suficiente de como nossos dados estão sendo administrados e rastreados o tempo todo. Mesmo com os melhores protocolos de segurança e os melhores sistemas de defesa, <b>todos somos vítimas em potenciais</b>, pois o atacante só quer uma única coisa: PODER.<br>
+<p>A Surface Web ainda é a rede mais perigosa de todas, comparando com todas as outras. Não temos noção o suficiente de como nossos dados estão sendo administrados e rastreados o tempo todo. Mesmo com os melhores protocolos de segurança e os melhores sistemas de defesa, <b>todos somos vítimas em potenciais</b>, pois o atacante só quer uma única coisa: <b>PODER</b>.<br>
 É muito mais fácil se tornar uma presa na Surface Web do que na Dark Web. Pois, <b>grande parte da população não tem noções mínimas ou básicas de segurança da informação</b>, ou porque acham que nunca serão vítimas por pensarem que o atacante não teria interesse na vida delas, ou simplesmente por <b>ignorância</b>.</p>
 
-Portanto, 
+<p>Portanto, para o público geral que vive a sua vida tranquila, <b>não há nada de interessante na Darknet</b> pelo qual valeria o motivo de se arriscar.<br>
+Para os curiosos, pesquise muito antes de fazer qualquer coisa precipitada, pois isso pode lhe custar muito caro depois.<br>
+Para as pessoas tem interesse em cuidar da sua privacidade, se a sua vida toda for baseada na Surface Web e derrepente você mudar de rede e continuar a fazer as mesmas coisas na Darknet, <b>infelizmente só terá efeitos negativos</b>. Então concentre seus esforços na Surface Web e policie a si mesmo.<br>
+E para os criminosos, não adianta utilizar serviços como VPNs, Tails, Whonix ou o próprio TOR, se não há nenhuma tecnologia existente até hoje que torne uma pessoa invisível na Internet. Para o seu provedor e servidores, isso só será mais um indício que há um comportamento estranho na rede e será passível de investigação. Por mais que serviços tenham suas políticas de privacidade, como o DuckDuckGo ou NordVPN, qual a garantia que você tem de que seus dados estão seguros?</p>
 
+<p> </p>
 
 <p>_________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
