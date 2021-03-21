@@ -258,7 +258,7 @@ Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráf
 É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3.4% do tráfego total da Internet inteira, que <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
 Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
-<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Pois, teoricamente, elas não podem ser rastreadas devido aos seus algoritmos de criptografia nas transações e carteiras.</p>
+<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Pois, já que são moedas descentralizadas e teoricamente não podem ser rastreadas devido aos seus algoritmos de criptografia, os consumidores da rede acabam por adotar este tipo de empreendimento.</p>
 
 <p> </p>
 
@@ -311,7 +311,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
 
-<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddcit" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
+<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddict" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
 
 <p>- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;</p>
 
@@ -328,8 +328,12 @@ Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação 
 <p> </p>
 
 <p><b><h3>RESUMO</h3></b><br>
+De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção de curiosos devido as várias <b>lendas</b> que surgiram desde o aparecimento dessas redes. Porém, por vezes <b>essa curiosidade pode acabar colocando o usuário em sérios riscos de privacidade</b>, caso ele não saiba o que está fazendo. Afinal, <b>não existe 100% de anonimato na Internet</b>. E não é porque o conteúdo não aparece nas buscas que ele é de fato interessante, mas ele está lá por algum motivo.</p>
 
+<p>A Surface Web ainda é a rede mais perigosa de todas, comparando com todas as outras. Não temos noção o suficiente de como nossos dados estão sendo administrados e rastreados o tempo todo. Mesmo com os melhores protocolos de segurança e os melhores sistemas de defesa, <b>todos somos vítimas em potenciais</b>, pois o atacante só quer uma única coisa: PODER.<br>
+É muito mais fácil se tornar uma presa na Surface Web do que na Dark Web. Pois, <b>grande parte da população não tem noções mínimas ou básicas de segurança da informação</b>, ou porque acham que nunca serão vítimas por pensarem que o atacante não teria interesse na vida delas, ou simplesmente por <b>ignorância</b>.</p>
 
+Portanto, 
 
 
 <p>_________________________________________________________________________________</p>
