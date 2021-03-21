@@ -12,7 +12,7 @@ author:
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
 Para explicar melhor os detalhes, <b>vamos dividir a Internet em CINCO tipos de redes</b> e veremos como se interconectam:</p>
-<p><i><h1>OBS: Cada site, de cunho sensacionalista ou não, divide como acha melhor e a maioria sem vivência dessas redes. Eu tenho minha experiência e vivência, então isso é baseado em fatos e na comunidade que leva isso a sério.</h1></i></p>
+<p><i><h5>OBS: Cada site, de cunho sensacionalista ou não, divide como acha melhor e a maioria sem vivência dessas redes. Eu tenho minha experiência e vivência, então isso é baseado em fatos e na comunidade que leva isso a sério.</h5></i></p>
 <p><b><h3>1. Arquiteturas Básicas e Independentes:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
 É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
@@ -62,7 +62,7 @@ Já na Darknet, você pode navegar em várias redes utilizando um navegador comu
 <p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b> pelos provedores, servidores e pelo governo.<br>
 
 <p><b>Métodos de Indexação de Conteúdo</b><br>
--  
+- 
 
 
 
