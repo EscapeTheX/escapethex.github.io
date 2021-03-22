@@ -8,8 +8,8 @@ url: "escapethex.github.io" # the base hostname & protocol for your site, e.g. h
 # Author settings
 author: Eduardo Barreto # add your name
 author-pic: profile.jpg
-about-author2: Prazer, <strong>Eduardo Barreto!</strong> Sou formado em <i>Gestão de TI</i>, Pós-graduado em <i>Data Science</i> e <i>Forense Computacional</i>. Gosto muito de assuntos relacionados com a <strong>TI</strong>, <strong>Produção Musical</strong> e <strong>Saúde Mental</strong>. Faço deste espaço aqui meu <strong>portfólio e também meu <strong>segundo blog</strong>, onde costumo publicar <strong>poemas, textos e projetos de minha autoria</strong>. Então filtre o que achar útil e saudável, aquilo que acrescenta, aquilo que leva o conhecimento!
-about-author3: Escritor | Gestor de TI | Pós-Graduado em Data Science e Forense Computacional |
+about-author2: Prazer, <b>Eduardo Barreto!</b> Sou formado em Gestão de TI, Pós-graduado em Data Science e Forense Computacional. Gosto muito de assuntos relacionados com a TI, Produção Musical e Saúde Mental. Faço deste espaço aqui meu portfólio e também meu segundo blog, onde costumo publicar <b>poemas, textos e projetos de minha autoria</b>. Então filtre o que achar útil e saudável, aquilo que acrescenta, aquilo que leva o conhecimento!
+about-author3: Escritor<br>Gestor de TI<br>Pós-Graduado em Data Science e Forense Computacional
 # Contact links
 #email: edu_barreto23@hotmail.com # Add your Email address
 website: escapethex.netlify.app # Add your website, do not add http://
