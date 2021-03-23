@@ -93,8 +93,7 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 <p><b><h3>4. DARKNET:</h3></b><br> 
 São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>. Além que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
 
-<p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.<br>
-Porém um ponto desvantajoso é que não se há um controle ou regulação de conteúdos nessas redes.</p>
+<p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.</p>
 
 <p><b>Quem utiliza a Darknet?</b><br>
 - Jornalistas, ativistas, ex-militares, políticos protestantes, trabalhadores do governo e insiders, que estão caminhando juntos para denunciar ferozmente a corrupção em seus respectivos campos;<br>
@@ -178,10 +177,10 @@ Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar 
 
 <p>- <b>FreeNet</b>:
 
-<p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta, porém seu uso não é intencionado para o anonimato. Segundo a documentação, foi fundada na ideologia de que as redes deveriam ser fáceis de montar, protocolos deveriam ser mais escalonáveis e que a segurança deveria existir em todo lugar.<br>
-Seu funcionamento é no próprio navegador através de instalação de pacotes na máquina e configurações de rede. Para entrar em alguma rede existente, você precisa se conectar com alguém que já esteja lá.</p> 
+<p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br> 
 
-<p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br>  
+<p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta, porém seu uso não é intencionado para o anonimato. Segundo a documentação, foi fundada na ideologia de que as redes deveriam ser fáceis de montar, protocolos deveriam ser mais escalonáveis e que a segurança deveria existir em todo lugar.<br>
+Seu funcionamento é no próprio navegador através de instalação de pacotes na máquina e configurações de rede. Para entrar em alguma rede existente, você precisa se conectar com alguém que já esteja lá.</p>  
 
 <p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
@@ -192,20 +191,20 @@ Seu funcionamento é no próprio navegador através de instalação de pacotes n
 
 <p>- <b>StealthNet</b>: É baseado no cliente RShare, mas que possui criptografia AES-256 de ponta-a-ponta. Não suporta hospedagem de serviços web.</p>
 
-<p>- <b>GlobalLeaks</b>: É um plataforma P2P Open-Source que utiliza tanto retransmissões para a rede TOR quanto para HTTPS. Ela funciona como uma rede de denúncias, que então você pode criar uma iniciativa através de um nó para recolher ou fazer suas denúncias.</p>
+<p>- <b>GlobaLeaks</b>: É um plataforma P2P Open-Source que utiliza tanto retransmissões para a rede TOR quanto para HTTPS. Ela funciona como uma rede de denúncias, que então você pode criar uma iniciativa através de um nó para recolher ou fazer suas denúncias.</p>
 
 <p>- <b>Perfect Dark</b>:
 
-<p>- <b>Tox</b>: É uma rede P2P descentralizada que oferece o sistema de criptografia NaCl de ponta-a-ponta como padrão. Ele pode ser usado para compartilhamento de arquvios, mensagens de texto, voz e vídeo, compatilhamento de tela e formação de grupos.<br>
+<p>- <b>Tox</b>: É uma rede P2P descentralizada que oferece o sistema de criptografia NaCl de ponta-a-ponta como padrão. Ele pode ser usado para compartilhamento de arquvios, mensagens de texto, voz e vídeo, compartilhamento de tela e formação de grupos.<br>
 
 <p>- <b>Twister</b>: É uma plataforma de microblogging descentralizada P2P, que é dividia em três redes sobrepostas. A primeira provém registro de usuários e autenticação baseada na arquitetura de rede utilizada no Bitcoin. A segunda é uma DHT que fornece armazenamento de chaves para recursos do usuário e a localização do nó para a terceira rede; que então é utilizado o P2P para enviar mensagens e notificações aos usuários.<br>
 Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
-<p>- <b>MORPHiS</b>:
+<p>- <b>MORPHiS</b>: Era um sistema P2P distribuído em desenvolvimento utilizado para compartilhar e criptografar arquivos. Havia também um sistema de E-mail, chamado D-Mail, que utilizava protocolos de criptografia anti-spam, chamado de Dpush. <b>MORPHiS foi descontinuado devido o assassinato do criador, Sam Maloney</b>. Ainda é possível ter acesso a rede, porém sem mais implementações desde 2016.</p>   
 
-<p>- <b>Infinit</b>:
+<p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois utilizar sistema de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
 
-<p>- <b>Alienet</b>:
+<p>- <b>ECNet (Antiga "Alienet")</b>: 
 
 <p>- <b>Maelstrom</b>:
 
@@ -251,7 +250,7 @@ Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráf
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
 
-<p>- <b>Dat (Hypercore Protocol)</b>: É uma rede distribuída e de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e outras criptomoedas.</p>
+<p>- <b>Hypercore Protocol (Antiga "Dat")</b>: É uma rede distribuída e de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e outras criptomoedas.</p>
 
 <p>- <b>StegoShare</b>: Um software de esteganografia que pode ser utilizado para compartilhamento de arquivos.
 
@@ -380,4 +379,6 @@ De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção
 - <a href="https://tox.chat/index.html">Página Inicial do Tox<a><br>
 - <a href="http://twister.net.co/faq/">Twister FAQ</a><br>
 - <a href="https://morph.is/v0.8/#learn">Página Inicial do MORPHiS</a><br>
-- 
+- <a href="https://www.vice.com/pt/article/d7x7wy/por-que-a-policia-canadense-matou-um-hacker-aparentemente-inofensivo">Por que a polícia canadense matou um hacker aparentemente inofensivo? (O Criador da Rede MORPHiS, Sam Maloney)</a><br>
+- <a href="https://infinit.sh/documentation/overview/">Overview da Rede Infinit</a><br>
+-
