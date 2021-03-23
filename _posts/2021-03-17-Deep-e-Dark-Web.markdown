@@ -182,7 +182,7 @@ Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar 
 <p>- <b>CJDNS</b>: Uma rede IPv6 sobreposta que provém encriptação de ponta-a-ponta, porém seu uso não é intencionado para o anonimato. Segundo a documentação, foi fundada na ideologia de que as redes deveriam ser fáceis de montar, protocolos deveriam ser mais escalonáveis e que a segurança deveria existir em todo lugar.<br>
 Seu funcionamento é no próprio navegador através de instalação de pacotes na máquina e configurações de rede. Para entrar em alguma rede existente, você precisa se conectar com alguém que já esteja lá.</p>  
 
-<p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída, ainda em desenvolvimento, que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
+<p>- <b>Hyperboria (Project Meshnet)</b>: É uma rede distribuída ainda em desenvolvimento que utiliza CJDNS para conexão. Existem cerca de 2100 nós de conexões no Hyperboria. Segundo a documentação do projeto, eles buscam viabilizar uma alternativa para a Clearnet. E seu endereço utiliza o espaço "fc00::/8"</p>
 </p>
 
 <p>- <b>Galet</b>: Rede P2P descontinuada (mas que ainda há pessoas acessando) que por padrão é pública, porém há a opção de habilitar VPN. Sua conexão entre os nós não ocorre diretamente, ambos os lados devem decidir aceitar a conexão para poderem se comunicar. É utilizado para compatilhamento de arquivos e mensagens de texto.</p>
@@ -202,7 +202,7 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>MORPHiS</b>: Era um sistema P2P distribuído em desenvolvimento utilizado para compartilhar e criptografar arquivos. Havia também um sistema de E-mail, chamado D-Mail, que utilizava protocolos de criptografia anti-spam, chamado de Dpush. <b>MORPHiS foi descontinuado devido o assassinato do criador, Sam Maloney</b>. Ainda é possível ter acesso a rede, porém sem mais implementações desde 2016.</p>   
 
-<p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois utilizar sistema de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
+<p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois necessita de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
 
 <p>- <b>ECNet (Antiga "Alienet")</b>: 
 
@@ -242,15 +242,13 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Project Byzantium</b>: Distribuição bootável do Linux que monta uma rede de malha independente do hardware que você tiver.
 
-<p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso.<br>
-Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.<br>   
+<p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso. Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.</p>   
 
-<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet.<br>
-Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
+<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet. Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
 
-<p>- <b>Hypercore Protocol (Antiga "Dat")</b>: É uma rede distribuída e de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e outras criptomoedas.</p>
+<p>- <b>Hypercore Protocol (Antiga "Dat")</b>: É uma rede distribuída de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e outras criptomoedas.</p>
 
 <p>- <b>StegoShare</b>: Um software de esteganografia que pode ser utilizado para compartilhamento de arquivos.
 
