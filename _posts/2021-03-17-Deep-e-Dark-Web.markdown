@@ -45,11 +45,11 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões que preencham a lacuna de privaciade e/ou anonimato. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas, descentralizadas e de malha) e Darkweb, fazem parte da Clearnet.</p>
 
 <p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente desde que se forneça as credenciais, se necessário.<br>
-Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada, por exemplo.</p>
+Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada, por exemplo. E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
 
 <p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém ele não é indexado de forma direta pelos motores de busca.</p>   
 
-<p>E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
+<p>Segundo dados da IDC (Corporação Internacional de Dados), até 2025 o mundo produzirá <b>163 zettabytes de dados</b>, o que significa em conversão, <i>163 bilhões de Terabytes de dados</i>.</p>
 
 <p> </p>
 
@@ -64,8 +64,8 @@ Já na Darknet, você pode navegar em várias redes utilizando um navegador comu
 
 <p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b> pelos provedores, servidores e pelo governo.<br>
 
-<p><b>Métodos de Indexação de Conteúdo</b><br>
-- 
+<!-- <p><b>Métodos de Indexação de Conteúdo</b><br>
+- -->
 
 
 
@@ -204,7 +204,7 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois necessita de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
 
-<p>- <b>ECNet (Antiga "Alienet")</b>: 
+<!--<p>- <b>ECNet (Antiga "Alienet")</b>: 
 
 <p>- <b>Maelstrom</b>:
 
@@ -242,6 +242,8 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Project Byzantium</b>: Distribuição bootável do Linux que monta uma rede de malha independente do hardware que você tiver.
 
+<p>- <b>Syndie</b>: -->
+
 <p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso. Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.</p>   
 
 <p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet. Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
@@ -252,11 +254,9 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>StegoShare</b>: Um software de esteganografia que pode ser utilizado para compartilhamento de arquivos.
 
-<p>- <b>Syndie</b>: 
-
 <p> </p>
 
-<p>Não abordarei <i>"Como navegar de forma segura na Darknet"</i> pois já existem milhares de páginas demonstrando isso. Apenas tenha em mente o que você pretende fazer, já que há milhares de redes com suas vantagens e desvantagens.</p> 
+<p>Não abordarei <i>"Como navegar de forma segura na Darknet"</i> pois já existem milhares de páginas demonstrando isso. Apenas tenha em mente o que você pretende fazer, já que há centenas de redes com suas vantagens e desvantagens.</p> 
 
 <p> </p>
 
