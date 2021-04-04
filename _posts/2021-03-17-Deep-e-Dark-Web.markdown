@@ -72,7 +72,7 @@ Já na Darknet, você pode navegar em várias redes utilizando um navegador comu
 <p> </p>
 
 <p><b><h3>3. DEEP WEB:</h3></b><br> 
-É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns através do requerimento de <b>credenciais</b>, se necessário. Estimou-se nos anos 2000 que o tamanho da Deep Web seja de 400 a 550 vezes o tamanho da Surface Web.<br>
+É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns através do requerimento de <b>credenciais</b>, se necessário. Estimou-se nos anos 2000 que o tamanho da Deep Web seria algo em torno de 400 a 550 vezes o tamanho da Surface Web, mas hoje sabemos que esses valores facilmente triplicam ou quintuplicam.<br>
 Normalmente, se um site está bem configurado, os motores de buscas estão programados para não permitir que certos conteúdos sejam indexados por padrão. Se você pesquisar por <b>Google Dorks</b>, irá entender o problema disso tudo.</p>
 <p><b>Exemplificando melhor</b>:<br> 
 - Sites e sitemas internos de corporações, associações e comércios;<br>
@@ -91,7 +91,7 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 <p> </p>
 
 <p><b><h3>4. DARKNET:</h3></b><br> 
-São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>. Além que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
+São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>. Além de que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
 
 <p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.</p>
 
@@ -106,7 +106,7 @@ São redes sobrepostas a Internet que <i>só podem ser acessadas através de sof
 
 <p><b>É ilegal acessar a Darknet?</b><br>
 Ela é utilizada para quem busca de alguma forma ter privacidade. Tanto o Wikileaks quanto jornais como o The Guardian e The New Yorker, tem hospedagens na Darknet com finalidades de capturar vazamentos de dados e documentos governamentais.<br>
-Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado em atividades ilícitas</b>. <br>
+Mas ao contrário do que se pensa, <b>nem tudo na Darknet é pautado para atividades ilícitas</b>. <br>
 <b>Então se for com o objetivo de cometer atividades criminais, sim</b>.</p>
 
 <p><b>Quais as vantagens de utilizar a Darknet?</b><br>
@@ -246,9 +246,9 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
  -->
 
-<p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário, que conta com 400 comunidades locais e mais de 41.000 pontos de acesso. Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.</p>   
+<p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário que conta com 400 comunidades locais e mais de 41.000 pontos de acesso. Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.</p>   
 
-<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet. Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
+<p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para que Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet. Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
 
@@ -279,7 +279,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Venenos e Substâncias Tóxicas</b>: Os usos do Ricino na série Breaking Bad inspiraram vários casos criminais envolvendo ele e outras substâncias similares. Mercados da Dark Web, quando isso começou a se popularizar, disponibilizaram lotes em massa de Ricino para serem comprados;</p>
 
-<p>- <b>Urânio e outros elementos químicos e/ou radioativos</b>: Um dos casos mais bizarros e documentados foi a venda de Urânio na Dark Web. Não se pode afirmar se o site era de fato legítimo, mas também é possível encontrar outros elementos como polônio, tório, arsênio, enxofre, vários tipos de ácidos, "matéria-prima" para bombas e outros elementos que são utilizados para criar armas de elite.</p> 
+<p>- <b>Urânio e outros elementos químicos e/ou radioativos</b>: Um dos casos mais bizarros documentado foi a venda de Urânio na Dark Web. Não se pode afirmar se o site era de fato legítimo, mas também é possível encontrar outros elementos como polônio, tório, arsênio, enxofre, vários tipos de ácidos, "matéria-prima" para bombas e outros elementos que são utilizados para criar armas de elite.</p> 
 
 <p>- <b>Armas, Munições e Proteção Corporal Estilo SWAT</b>: É possível encontrar várias réplicas de AK-47, lança-mísseis, lança-granadas e ainda proteções caseiras estilo SWAT, que são utilizadas durante campanhas militares;</p>
 
@@ -287,7 +287,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Artigos Contrabandeados de Luxo e Réplicas</b>: Qualquer réplica de qualquer marca pode ser encontrada e por preços extremamente baixos. Entre elas estão Gucci, Rolex e Louis Vuitton;</p>
 
-<p>- <b>Geradores de EMP</b>: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é extremamente consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para enganar a máquina e obterem ganhos máximos;</p>
+<p>- <b>Geradores de EMP</b>: Neste caso, Geradores de Pulso Eletromagnético são utilizados para causar pane em dispositivos eletrônicos próximos. Este tipo de mercado é muito consumido pela China, onde os usuários costumam adicionar créditos em máquinas caça-níqueis, em cassinos e salas de jogos, para então utilizarem o EMP para enganar a máquina e obterem ganhos máximos;</p>
 
 <p>- <b>Venda de Cidadanias e Passaportes Falsos</b>: Tipicamente para o Reino Unido, Canadá e EUA, e com seus preços variando na faixa de $1200;</p>
 
@@ -309,7 +309,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Acompanhantes de Elite</b>: É meio curioso contratar este tipo de serviço na Dark Web. Mas se você tem certeza que não será usado em Tráfico de Pessoas, pode ser uma boa escolha;</p>
 
-<p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço invadir o próprio consumidor;</p>
+<p>- <b>Serviços de Black Hat</b>: Mercado onde consumidores contratam "crackers" para invadirem sites, sistemas de empresas, escolas e comércios. Porém, não é raro a pessoa que faz esse tipo de serviço atacar o próprio consumidor;</p>
 
 <p>- <b>Softwares / Malwares / Exploits</b>: Além da pirataria de softwares comerciais, existe uma gama de malwares e "kit exploits" a serem vendidos na Dark Web. Consumidores geralmente procuram por falhas "Zero-Day" e Ransomwares, com o objetivo de lucrar em cima de resgates via criptomoedas;</p>
 
@@ -319,7 +319,7 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
 
-<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddict" não tenham coisas parecidas na Clearnet, mas aqui <i>"é mais evidente as metodologias utilizadas"</i>, digamos assim;</p>
+<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddict" não tenham coisas parecidas na Clearnet, mas aqui <i>"temos mais opções"</i>, digamos assim;</p>
 
 <p>- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;</p>
 
