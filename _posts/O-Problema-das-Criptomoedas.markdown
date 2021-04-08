@@ -3,7 +3,7 @@ layout: post
 title:  O Problema das Criptomoedas
 date:   2021-03-25 08:32:20 +0300
 description: Quais são os riscos  # Add post description (optional)
-img: darknet.jpg # Add image post (optional)
+img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---

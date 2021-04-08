@@ -3,7 +3,7 @@ layout: post
 title:  Como Rastrear Criminosos na Darknet?
 date:   2021-03-20 08:32:20 +0300
 description: Você já ouviu falar que não existe 100% de segurança na Internet? # Add post description (optional)
-img: darknet.jpg # Add image post (optional)
+img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
