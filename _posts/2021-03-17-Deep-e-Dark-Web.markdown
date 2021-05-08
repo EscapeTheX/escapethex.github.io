@@ -30,7 +30,7 @@ A primeira vez que eu utilizei alguma rede da Darknet foi em 2009, utilizando o 
 <p> </p>
 
 <p>- <b>VPN (Virtual Private Network):</b><br> 
-A Rede Virtual Privada funciona como uma sobreposição de redes, onde a conexão pública (Internet) passa por um "túnel" onde se torna privada, normalmente através de softwares. <b>O real uso da VPN está em acessar uma determinada localidade ou servidor para obter acesso aos seus serviços</b>, como acessar conteúdos bloqueados por região ou home office, por exemplo. Comumente se utiliza de proxys ou criptografia para se manter uma conexão.<br>
+A Rede Virtual Privada funciona como uma sobreposição de redes, onde <b>a conexão pública (Internet) passa por um "túnel" criptografado ou não, cujo a sua intenção serve para acessar uma determinada localidade e ter acesso aos seus serviços</b>, usualmente através de softwares. Os usos mais comuns incluem o acesso a conteúdos bloqueados por região ou home office. Comumente se utiliza de proxys ou algum tipo de criptografia para gerar e manter essa conexão.<br>
 A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
 
 <p><center>
