@@ -173,9 +173,9 @@ No momento em que você está estabelecendo uma conexão, estão sendo definidos
 Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou nó/retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
 
-<p>- <b>I2P</b>: Em estudo.
+<!-- <p>- <b>I2P</b>: Em estudo.
 
-<p>- <b>FreeNet</b>: Em estudo.
+<p>- <b>FreeNet</b>: Em estudo. -->
 
 <p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br> 
 
@@ -202,7 +202,7 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois necessita de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
 
-<p>- <b>ECNet (Antiga "Alienet")</b>: Em estudo.
+<!-- <p>- <b>ECNet (Antiga "Alienet")</b>: Em estudo.
 
 <p>- <b>Maelstrom</b>: Em estudo.
 
@@ -228,7 +228,7 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Syndie</b>: Em estudo.
 
-<!--<p>- <b>Retroshare</b>: Utilizado para compartilhamento de arquivos, chat, forums, e-mail. 
+<p>- <b>Retroshare</b>: Utilizado para compartilhamento de arquivos, chat, forums, e-mail. 
 
 <p>- <b>anoNet</b>: É uma rede descentralizada P2P, semelhante a Freenet, que utiliza-se de VPNs e protocolo BGP. 
 
