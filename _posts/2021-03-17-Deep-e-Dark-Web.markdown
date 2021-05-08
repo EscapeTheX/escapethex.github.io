@@ -345,7 +345,7 @@ De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção
 
 <p>Para os curiosos, pesquise muito antes de fazer qualquer coisa precipitada, <b>pois isso pode lhe custar muito caro depois</b>.</p>
 
-<p>Para as pessoas que têm interesse em cuidar da sua privacidade, se a sua vida toda for baseada na Surface Web e derrepente você mudar de rede e continuar a fazer as mesmas coisas na Darknet, <b>infelizmente só terá efeitos negativos</b>. Então concentre seus esforços em tomar medidas na Surface Web e policie a si mesmo.</p>
+<p>Para as pessoas que têm interesse em cuidar da sua privacidade, se a sua vida toda for baseada na Surface Web e subitamente você mudar de rede e continuar a fazer as mesmas coisas na Darknet, <b>infelizmente só terá efeitos negativos</b>. Então concentre seus esforços em tomar medidas na Surface Web e policie a si mesmo.</p>
 
 <p>E para os criminosos... Não adianta utilizar serviços como VPNs, Tails, Whonix ou o próprio TOR, <b>se não há nenhuma tecnologia existente até hoje que torne uma pessoa invisível na Internet</b>. Para o seu provedor e servidores, isso só será mais um indício que há um comportamento estranho na rede e será passível de <b>investigação ou ataques de correlação</b>. Por mais que serviços tenham suas políticas de privacidade, como o DuckDuckGo ou NordVPN, <b>qual a garantia que você tem de que seus dados estão seguros com essas empresas?</b></p>
 
@@ -381,4 +381,4 @@ De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção
 - <a href="https://morph.is/v0.8/#learn">Página Inicial do MORPHiS</a><br>
 - <a href="https://www.vice.com/pt/article/d7x7wy/por-que-a-policia-canadense-matou-um-hacker-aparentemente-inofensivo">Por que a polícia canadense matou um hacker aparentemente inofensivo? (O Criador da Rede MORPHiS, Sam Maloney)</a><br>
 - <a href="https://infinit.sh/documentation/overview/">Overview da Rede Infinit</a><br>
--
+
