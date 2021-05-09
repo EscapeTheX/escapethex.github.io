@@ -11,10 +11,10 @@ author:
 
 <p>Usando uma resposta simples e resumida, <b>a Deep Web é utilizada para serviços privados e a Dark Web para fins ilegais</b>. Porém, uma precisa da outra para poder existir.</p>
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
-Para explicar melhor os detalhes, <b>vamos dividir a Internet em CINCO tipos de redes</b> e veremos como se interconectam:</p>
+Para explicar melhor os detalhes e da forma que acredito ser a mais adequada, <b>vamos dividir a Internet em CINCO tipos de arquiteturas</b> e veremos como se interconectam:</p>
 
-<p><i><h5>OBS: Ao longo do tempo as terminologias sobre as redes estão mudando. Então matérias, de cunho sensacionalista ou não, utilizam divisões das redes para facilitar o compreensão, porém nem sempre isso tem embasamento. Estou utilizando esta metologia com base na comunidade que leva isso a sério e também baseado na MINHA vivência com essas redes.<br>
-A primeira vez que eu utilizei alguma rede da Darknet foi em 2009, utilizando o TOR, e de lá pra cá muitas coisas vem se modificando. Então deixei todas as referências nas quais utilizei para construir este post, mesclando com as minhas vivências em todas as outras redes desde então.</h5></i></p>   
+<p><i><h5>OBS: As terminologias sobre redes e tecnolgias estão em mudança constante. Então matérias, de cunho sensacionalista ou não, utilizam suas formas de divisões de redes para facilitar o compreensão, porém nem sempre isso tem embasamento. Estou utilizando esta metodologia com base em quem se dedica a pesquisar isso a sério e também baseado na MINHA vivência com essas redes.<br>
+Ou seja, estou escrevendo de uma forma didática para facilitar a compreensão do público que não faz parte desse nicho.</p></i></h5>
 
 <p><b><h3>1. Arquiteturas Básicas e Independentes:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
