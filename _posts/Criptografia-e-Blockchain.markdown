@@ -42,7 +42,19 @@ Cifra de Vigenere, Cifra alemã,
 Cirptografia clássica era considerada uma arte, mas sem muitos fundamentos cientificos
 Criptografia moderna, baseada em métodos cientificos e principios
 
+Segurança perfeita é sempre desejável, porém ela tem um preço:
+- A chave deve ser do tamanho da menssagem
+- Uma chave é gerada a cada instância de encriptação
 
+A criptografia moderna segue um approach diferente:
+- Tenta chegar perto da segurança perfeita
+- Quer se livrar das limitações práticas imposta pela segurança perfeita = pequena e chaves reutilizáveis
+
+As ideias básicas da segurança computacional são:
+- Segurança preservará apenas contra adversários eficientes, que deverão ter bastante trabalho
+-- Como matematicamente definimos adversários eficientes?
+- Adversários estão permitidos a quebrar o esquema com alguma probabilidade, que é tão pequena que não incomoda
+-- Como matematicamente definimos pequena probabilidade?
 
 
 
