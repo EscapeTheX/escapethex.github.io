@@ -39,7 +39,7 @@ Era como um cirurgia clandestina,<br>
 Para a remoção completa da inocência.<br>
 Podia sentir meu próprio corpo, imundo, apodrecendo,<br>
 Mutilando minha consciência.<br>
-Respiração moribunda, sem ar, hipóxia, asfixia...<br>
+Respiração moribunda, sem ar, asfixia, hipoxemia, isquemia...<br>
 Sensação claustrofóbica, um último suspiro de vida.<br>
 Colocando seu pênis num cadáver em Rigor Mortis,<br>
 Ele queria que eu fosse a sua puta.<br>
