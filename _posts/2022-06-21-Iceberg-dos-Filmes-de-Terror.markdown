@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Icerbeg dos Filmes de Terror
-date:   2021-05-11 08:32:20 +0300
+date:   2024-05-11 08:32:20 +0300
 description:  Se você nunca ficou traumatizado com um filme de terror, essa é a sua hora! # Add post description (optional)
 img: .jpg # Add image post (optional)
 tags: [Texto]
@@ -182,7 +182,7 @@ MDPOPE 1 tem a duração de 2h27min, sendo <b>o mais leve de todos</b>. MDPOPE 2
 <b>NOTA:</b> -10/10</p>
 
 
-<!-->
+<!--
 Registros Fatais 3
 
 <p>- <b>Atrocidades:</b><br>
