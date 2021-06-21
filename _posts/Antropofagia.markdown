@@ -70,9 +70,8 @@ Talvez não comprometessem a "vida útil" do organismo.</p>
 Ou apenas não reconheço a minha identidade.<br>
 Vejo meu rosto derreter ou<br>
 Apenas uma malha bege, sem face.<br>
-Tem dias que estou afim de garotas e noutros de garotos.<br>
-Tem dias que estou afim de plantas e noutros  
-De sadomasoquismo e objetos.<br>
+Há dias que estou afim de garotas e noutros de garotos.<br>
+Há dias que exacerbo minhas parafilias com sadomasoquismo e objetos.<br>
 E tá tudo bem...</p>
 
 <p><i>"Ao mesmo tempo, de dois sexos tu não pode gostar.<br>
@@ -88,7 +87,7 @@ Se você apresenta um comportamento não esperado,<br>
 Isso invalidaria completamente o seu diagnóstico.<br>
 Não há a possibilidade de haver doenças correlacionadas<br>
 E nem nada que ligue a sua conduta à causa.<br>
-<i>"Você não tem cara de autista.<br>
+<i>"Você não tem cara de doente.<br>
 Você só quer algo para poder se beneficiar."</i><br>
 Claro, sempre desejei ter toneladas de enfermidades,<br>
 Para que com a invalidez eu pudesse mais cedo me aposentar.<br>
@@ -99,31 +98,113 @@ E as empresas só nos contratam porque tem a lei para os obrigar.<br>
 Isso quando não há funcionários fantasmas para preencher a cota<br>
 E estar de acordo para que da auditoria pudessem escapar.</p>
 
-<p><i>"Mas você
-
-"Você está mentindo sobre suas incapacidades<br>
+<p><i>"Você está mentindo sobre suas incapacidades<br>
 Para dar desculpa de ser vítima e mal-educado."<br>
 "Eu não gostaria de estar na sua pele<br>
-Pela pressão de estar o tempo todo sendo julgado"</i><br>
+Pela pressão de estar o tempo todo sendo julgado".</i><br>
 Todos nós somos seres complexos e abstratos,<br>
 Mas obviamente toda a educação que eu tive foi em vão.<br>
-Sou apenas um mero expectador da vida<br>
+Sou apenas um mero expectador da vida, um ser-humano amador<br>
 Com aprendizado contínuo em dissimulação.<br>
 É ótimo ter contexto social e viver sem nenhuma preocupação.<br>
+Não é como você ter que elaborar, regular ou distinguir<br>
+Entre emoção e sentimento a cada segundo ou situação.<br>
+Seria adequado reescrever uma Escala de Denver para o contexto adulto<br>
+Sugerindo que o seu desenvolvimento neuropsicomotor tenha uma regressão.<br>
+Tarefas cotidianas se tornam um sacrifício,<br>
+Devido a atrofia de habilidades motoras e de comunicação.<br>
+Mas claro, tudo não passa de apenas uma desordem mental,<br>
+Um Transtorno Factício para fazer "papel de barão".<br>
+É mais fácil remediar como um Transtorno Somatoforme<br>
+Do que analisar as evidências e fazer diagnóstico por exclusão.<br>
+Continuam a acreditar que é bruxaria de São Cipriano<br>
+Ou que a Umbanda/Candomblé traz malefícios para a população.<br>
+Mas quando você está analisando um paciente com quadros psicóticos desconhecidos,<br>
+Seu julgamento hipócrita definitivo é a sua religião.<br>
+Não se sentir acolhido pelos preconceitos causados pela sociedade,<br>
+Para os "doutores", é mais um motivo de celebração.<br>
+Será que não há alguma coisa de errada nos tratamentos prestados,<br>
+Além de enfiarem medicamentos abaixo sem nenhuma prescrição?</p>
 
-Não é como você ter que elaborar seu sentimento e emoção
-A cada segundo ou situação.
+<p>13 milhões de brasileiros sofrem com doenças raras<br>
+E que continuam sem apoio de redes que se dizem especializadas.<br>
+As consultas estão ficando cada vez mais caras,<br>
+Enquanto se baseiam em artigos obsoletos, com abordagens defasadas.<br>
+Inata, é a capacidade de decretrarem a sua sentença, de morte.<br>
+Pois seus sintomas sempre são tratados com descrença, não há recorte.<br>
+Sem resultado satisfatório ou algo que comprove no tratamento a sua sorte.<br>
+Uma classe orgulhosa, que busca ter espaço na carreira com um grupo de cobaias.<br>
+Testando qualquer tipo de droga, até aquelas que deixaram de ser recomendadas.<br>
+A incapacidade de admitir o seu erro, o engano de suas palavras.<br>
+Retardam ainda mais o seu prognóstico bom, a suscetibilidade à melhora.<br>
+<br>
 
 
-regular distinguir entre sentimento e emoção
 
-elaborar as emoções, colocalas pra fora para diminuir os sintomas fisiologicos
-rede de apoio, apaziguar e diminuir os sentimentos
-ser humano amador
+Sua vida está por um triz, sendo menosprezada.<br>
+ludibriada
+
+Todo mundo quer ganhar dinheiro<br>
+Para ter um status de vida melhor do que da sua criação.<br>
+Mas se isso incluir a sua negligência no acompanhamento do seu paciente,<br>
+Talvez seja melhor abrir mão da sua profissão.<br>
+
+carnívoro
+agonia
+taxidermia
+canibal
+hemorragia
+purgatório, bode expiatório
+marcha fúnebre
+sepultura, sessão de acupuntura, procura, altura
+formas de tortura, inovar, provar
+a sombra e a escuridão, a companhia e a solidão
+te botam numa coleira
+distúrbios
+sinistro, correndo risco sem correr do perigo
+rabisco livros, escrito por espiritos malignos
+estado clinico, bendito seja o declinio dessa igreja, do dominio pelo dizimo
+a midia distorce, distorça os fatos
+crânio, urânio, poros cutâneos, te enterrando
+sem lágrima não há graça nenhuma
+
+que te fode pra vida inteira
+
+uma anomalia
+introdução
+fase-estacionária
+
+escarificação
+São doenças neurodegenerativas crônicas e progressivas<br>
+Que te matam de pouco em pouco, sem nenhuma solução.<br>
+
+deterioração
+
+Pois talvez a sua maturação neural não seja o único fator predisponente
+
+
+Não é como se você estivesse atrasado para vida<br>
+E precisasse de uma rede de apoio<br>
+Para induzir seu desenvolvimento comportamental.<br>
+suscetibilidade
+
+Provavelmente você já tenha completado a sua maturação neural,<br>
+
+Colocando suas entranhas para fora,<br>
+Porque desejas diminuir seus sintomas fisiológicos.<br>
+O problema está no receptor da mensagem,<br>
+Que por vezes te faz desenvolver<br>
+Ainda mais problemas psicológicos.<br>
+
 confusão entre fato e opinião
 maturação neural
 indução de desenvolvimento comportamental
 
+<p>Do jeito que eles falam sobre "Vício, Idolatria e Satanás".
+Acredito que há mais demônios morando na Igreja
+Do que o próprio lugar de nascença do Ferrabraz.
+Do sangue vira o vinho
+E a humanidade se contorce sem explicação.
 
 como se fosse uma redação
 
