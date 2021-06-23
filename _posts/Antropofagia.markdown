@@ -24,7 +24,7 @@ Sinto como se estivesse comendo meu próprio corpo de dentro para fora,<br>
 Cavando um buraco negro e denso para afugentar todas essas memórias.<br>
 Talvez uma caixa Dybbuk tenha sido aberta no meu nascimento,<br>
 Para justificar todos os momentos plausíveis de dor e sofrimento.<br>
-Claro, a única constatação do ser humano<br>
+Claro, a única constatação do ser-humano<br>
 É de sempre querer achar um antagonista, um culpado.<br>
 Porém, quando não existe cura, tratamento ou prognóstico bom,<br>
 A culpa sempre cai para Deus, pais ou o próprio Diabo.</p>
@@ -33,9 +33,9 @@ A culpa sempre cai para Deus, pais ou o próprio Diabo.</p>
 A maldita impressão de que estou sendo tocado.<br>
 Um corpo profanado, abusado, violentado, deixado em pedaços.<br>
 Uma carne foi abatida, mas seus gritos nunca foram silenciados.<br>
-Naquele momento minha cova estava sendo feita,<bt>
+Naquele momento minha cova estava sendo feita,<br>
 Para sete palmos abaixo eu ser enterrado.<br>
-Era como um cirurgia clandestina,<br>
+Era como uma cirurgia clandestina,<br>
 Para a remoção completa da inocência.<br>
 Podia sentir meu próprio corpo, imundo, apodrecendo,<br>
 Mutilando minha consciência.<br>
@@ -49,7 +49,7 @@ Acendeu uma chama de "não ter mais história para contar".<br>
 Pois no carpete, ali mesmo, tudo o que eu mais queria<br> 
 Era te esquartejar.<br>
 <i>"Tens que esquecer essa história,<br>
-Essa situação é mais comum do que tu imagina.<br>
+Essa situação é mais comum do que tu imaginas.<br>
 Não dá pra ficar relembrando essas coisas<br>
 E dar desculpa para não tocar pra frente a vida."</i></p>
 
@@ -70,7 +70,7 @@ Talvez não comprometessem a "vida útil" do organismo.</p>
 Ou apenas não reconheço a minha identidade.<br>
 Vejo meu rosto derreter ou<br>
 Apenas uma malha bege, sem face.<br>
-Há dias que estou afim de garotas e noutros de garotos.<br>
+Há dias que estou a fim de garotas e noutros de garotos.<br>
 Há dias que exacerbo minhas parafilias com sadomasoquismo e objetos.<br>
 E tá tudo bem...</p>
 
@@ -78,9 +78,9 @@ E tá tudo bem...</p>
 Tens que decidir uma única fruta para poder se deliciar"</i><br>
 Claro, estamos em escassez de pessoas no mundo<br>
 E eu, ESTÉRIL, tenho que decidir com quem vou procriar.<br>
-<i>"É a primeira vez que vejo essa síndrome
+<i>"É a primeira vez que vejo essa síndrome<br>
 Fora dos livros de biologia".<br>
-"Mas nada melhor que entrar no primeiro site da pesquisa<br>
+"Mas nada melhor do que entrar no primeiro site da pesquisa<br>
 E achar que sabe tudo sobre essa patologia".</i><br>
 Realmente, é muito comum tratar como base em estereótipos.<br>
 Se você apresenta um comportamento não esperado,<br>
@@ -126,32 +126,95 @@ Para os "doutores", é mais um motivo de celebração.<br>
 Será que não há alguma coisa de errada nos tratamentos prestados,<br>
 Além de enfiarem medicamentos abaixo sem nenhuma prescrição?</p>
 
-<p>13 milhões de brasileiros sofrem com doenças raras<br>
+<p>É muito lindo escrever uma portaria sobre atenção básica, mas<br>
+13 MILHÕES de brasileiros sofrem com DOENÇAS RARAS<br>
 E que continuam sem apoio de redes que se dizem especializadas.<br>
+Não basta haver gratuidade no transporte, exames ou atendimento domiciliar.<br>
+Os estudos permanecem escassos e manejar é diferente de curar.<br>
+Campanhas de conscientização, atribuição de meses uma cor.<br>
+Dados epidemiológicos inexistentes, sem um caminho norteador.<br>
+Decretam políticas de saúde individualizadas,<br>
+Porém sabemos que isso nunca funcionou na prática.<br>
+Somos todos pertencentes ao mesmo cluster...<br>
+Um ínfimo cluster de pessoas invisíveis e prejudicadas.<br>
+Ninguém nunca da gente ouviu falar,<br>
+A não ser em campanhas de gravidez, pelo cuidado de abortar.<br>
+Ter alguma deficiência não é sinônimo de sofrimento.<br>
+O desafio atual é viver em sociedade e lidar com o alheio julgamento.<br>
+Necessidades especiais todo mundo tem, mas<br>
+Qual a dificuldade que eu te ensino a superar?<br>
+Temos características que por vezes são incomuns.<br>
+Mas qual é o sentido de nos adorar ou divinizar?<br>
+Nos observam na rua e falam: "Ai que estranho".<br>
+Diariamente somos desprezados, como se não fossemos seres-humanos.<br>
+Corpos infantilizados, sugerindo que não há vida sexual ativa.
+Deve ser incrível pensar que podemos transar ou ter relacionamentos...<br>
+Perpetua-se a imagem de que somos preguiçosos ou incapazes,<br>
+Mas quero ver você fazer as mesmas coisas da forma que nós fazemos,<br>
+Sem precisar de algum sentido extra ou algo que te deixe á vontade.<br>
+"Imagina ter alguém que permaneça, mesmo na saúde e na doença,
+E que nunca vai te abandonar..."<br>
+O capacitismo é transformado em gambiarras que todos temos que fazer,<br>
+Para que no mundo tenhamos um espaço para poder se abrigar.<br>
+Quem não abandona o outro apesar pela moléstia,<br>
+Tem um caráter que todo mundo deveria ter e entender.<br>
+É uma diversidade humana, basta apenas se adaptar para conviver.</p>
+
+<p>Minha genética não faz de mim uma inspiração.<br>
+
+
+A sociedade não correlaciona deficiência em ser atrativo.<br>
+
+Acessibilidade não é somente fazer rampas ou falar libras.<br>
+Precisamos da adaptabilidade humana, sem o sentimento de pena.
+
+condena
+Onde está a inserção social do indivíduo?
+
+
+Considera-se deficiência tudo aquilo que há um impedimento a longo prazo,
+De natureza física, mental, intelectual ou sensorial
+
+
+o que é caracterizado deficiência?
+
+
+Médicos deveriam fazer curso de bombeiro
+
 As consultas estão ficando cada vez mais caras,<br>
 Enquanto se baseiam em artigos obsoletos, com abordagens defasadas.<br>
+
+o mesmo medicamento que tu usa para tratar pessoas normais
+para a gente pode ser fatal
+
 Inata, é a capacidade de decretrarem a sua sentença, de morte.<br>
 Pois seus sintomas sempre são tratados com descrença, não há recorte.<br>
-Sem resultado satisfatório ou algo que comprove no tratamento a sua sorte.<br>
-Uma classe orgulhosa, que busca ter espaço na carreira com um grupo de cobaias.<br>
-Testando qualquer tipo de droga, até aquelas que deixaram de ser recomendadas.<br>
-A incapacidade de admitir o seu erro, o engano de suas palavras.<br>
-Retardam ainda mais o seu prognóstico bom, a suscetibilidade à melhora.<br>
-<br>
+As substâncias utilizadas não são específicas como o Ruxolitinib, por exemplo.
+O que contribui para um resultado não satisfatório, se sobreviver é sorte.<br>
+Mas estamos falando de uma classe orgulhosa,<br>
+Que busca ter espaço na carreira com um grupo de cobaias.<br>
+Um processo taxidérmico de animais vivos,<br>
+Empalhando-nos com qualquer tipo de droga.<br>
+Incapacidade de admitirem o seus próprios erros, o engano de suas palavras.<br>
+Retardam ainda mais o seu prognóstico bom, sua suscetibilidade à melhora.<br>
+Por vezes, o acompanhamento se torna uma sessão de tortura.<br>
+
+
+atestando a nossa sepultura
+família alienada, um delírio coletivo
+Obviamente, todo esforço é bem-vindo para ajudar no seu bem-estar.
+Porém, 
+
 
 
 
 Sua vida está por um triz, sendo menosprezada.<br>
 ludibriada
 
-Todo mundo quer ganhar dinheiro<br>
-Para ter um status de vida melhor do que da sua criação.<br>
-Mas se isso incluir a sua negligência no acompanhamento do seu paciente,<br>
-Talvez seja melhor abrir mão da sua profissão.<br>
+
 
 carnívoro
 agonia
-taxidermia
 canibal
 hemorragia
 purgatório, bode expiatório
