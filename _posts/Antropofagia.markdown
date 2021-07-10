@@ -66,7 +66,7 @@ Como síndromes, desordens e seus mecanismos.<br>
 Pois, se essas alterações fossem algo tão positivo assim,<br>
 Talvez não comprometessem a "vida útil" do organismo.</p>
 
-<p>Por vezes me olho no espelho e me vejo como homem e mulher<br>
+<p>Por vezes, me olho no espelho e me vejo como homem e mulher<br>
 Ou apenas não reconheço a minha identidade.<br>
 Vejo meu rosto derreter ou<br>
 Apenas uma malha bege, sem face.<br>
@@ -147,201 +147,46 @@ Temos características que por vezes são incomuns.<br>
 Mas qual é o sentido de nos adorar ou divinizar?<br>
 Nos observam na rua e falam: "Ai que estranho".<br>
 Diariamente somos desprezados, como se não fossemos seres-humanos.<br>
-Corpos infantilizados, sugerindo que não há vida sexual ativa.
+Corpos infantilizados, sugerindo que não há vida sexual ativa.<br>
 Deve ser incrível pensar que podemos transar ou ter relacionamentos...<br>
 Perpetua-se a imagem de que somos preguiçosos ou incapazes,<br>
 Mas quero ver você fazer as mesmas coisas da forma que nós fazemos,<br>
-Sem precisar de algum sentido extra ou algo que te deixe á vontade.<br>
-"Imagina ter alguém que permaneça, mesmo na saúde e na doença,
+Sem precisar de algum sentido extra ou algo que te deixe à vontade.<br>
+"Imagina ter alguém que permaneça, mesmo na saúde e na doença,<br>
 E que nunca vai te abandonar..."<br>
 O capacitismo é transformado em gambiarras que todos temos que fazer,<br>
 Para que no mundo tenhamos um espaço para poder se abrigar.<br>
-Quem não abandona o outro apesar pela moléstia,<br>
+Quem não abandona o outro apesar da moléstia,<br>
 Tem um caráter que todo mundo deveria ter e entender.<br>
-É uma diversidade humana, basta apenas se adaptar para conviver.</p>
+É uma diversidade humana, basta "apenas" se adaptar para conviver.</p>
 
-<p>Minha genética não faz de mim uma inspiração.<br>
+<p>Por fora, a comunidade LGBT parece ser muito bonita,<br>
+Que serviria para acolher, ajudar e não haver julgamentos internos.<br>
+Mas ninguém quer falar sobre preconceito, racismo, rivalidade<br>
+E até mesmo padrões de beleza inalcançáveis,<br>
+Que por vezes se assemelha a destrancar as próprias portas do inferno.<br>
+Todos se aceitam, as diferenças são perfeitamente respeitadas e<br>
+Depois que você sai do armário, te oferecem uma propaganda abençoada.<br>
+Mas não existe união naquilo que nunca foi unido,<br>
+Sendo utilizada para promover o ódio e a causa passar a ser ridicularizada.<br>
+Uma comunidade cheia de amor para dar e receber,<br>
+Utilizando-se da militância para debater problemas importantes e necessários.<br>
+Mas que, infelizmente, a maioria fica só no Twitter<br>
+Distribuindo ataques desnecessários, coordenados e anonimizados.<br>
+Para se expressar, com o grupo você deveria se sentir confortável.<br>
+Porém, tornou-se uma competição, uma "olimpíada de sofrimento"<br>
+Que independente da batalha, sua dor é apenas mais um escarnecimento.<br>
+Distinguem você com base na sua sexualidade, ao invés do seu caráter.<br>
+Acolhendo somente um tipo diferente de igual, uma normativa.<br>
+Que continuam reclamando de gays se comportando como héteros,<br> 
+Mas que são hipócritas ao falar de estereotipias.<br>
+É óbvio que existem demandas por igualdade, seja por trans ou intersexos.<br>
+Mas sexualidade não define personalidade, muito menos seus gostos e vontades.<br>
+Não importa se você gosta de se relacionar com homem e/ou mulher.<br>
+Desde que seja consensual e com uma pessoa adulta,<br>
+Você tem o direito de se relacionar com quem você quiser.</p>
 
-
-A sociedade não correlaciona deficiência em ser atrativo.<br>
-
-Acessibilidade não é somente fazer rampas ou falar libras.<br>
-Precisamos da adaptabilidade humana, sem o sentimento de pena.
-
-condena
-Onde está a inserção social do indivíduo?
-
-
-Considera-se deficiência tudo aquilo que há um impedimento a longo prazo,
-De natureza física, mental, intelectual ou sensorial
-
-
-o que é caracterizado deficiência?
-
-
-Médicos deveriam fazer curso de bombeiro
-
-As consultas estão ficando cada vez mais caras,<br>
-Enquanto se baseiam em artigos obsoletos, com abordagens defasadas.<br>
-
-o mesmo medicamento que tu usa para tratar pessoas normais
-para a gente pode ser fatal
-
-Inata, é a capacidade de decretrarem a sua sentença, de morte.<br>
-Pois seus sintomas sempre são tratados com descrença, não há recorte.<br>
-As substâncias utilizadas não são específicas como o Ruxolitinib, por exemplo.
-O que contribui para um resultado não satisfatório, se sobreviver é sorte.<br>
-Mas estamos falando de uma classe orgulhosa,<br>
-Que busca ter espaço na carreira com um grupo de cobaias.<br>
-Um processo taxidérmico de animais vivos,<br>
-Empalhando-nos com qualquer tipo de droga.<br>
-Incapacidade de admitirem o seus próprios erros, o engano de suas palavras.<br>
-Retardam ainda mais o seu prognóstico bom, sua suscetibilidade à melhora.<br>
-Por vezes, o acompanhamento se torna uma sessão de tortura.<br>
-
-
-atestando a nossa sepultura
-família alienada, um delírio coletivo
-Obviamente, todo esforço é bem-vindo para ajudar no seu bem-estar.
-Porém, 
-
-
-
-
-Sua vida está por um triz, sendo menosprezada.<br>
-ludibriada
-
-
-
-carnívoro
-agonia
-canibal
-hemorragia
-purgatório, bode expiatório
-marcha fúnebre
-sepultura, sessão de acupuntura, procura, altura
-formas de tortura, inovar, provar
-a sombra e a escuridão, a companhia e a solidão
-te botam numa coleira
-distúrbios
-sinistro, correndo risco sem correr do perigo
-rabisco livros, escrito por espiritos malignos
-estado clinico, bendito seja o declinio dessa igreja, do dominio pelo dizimo
-a midia distorce, distorça os fatos
-crânio, urânio, poros cutâneos, te enterrando
-sem lágrima não há graça nenhuma
-
-que te fode pra vida inteira
-
-uma anomalia
-introdução
-fase-estacionária
-
-escarificação
-São doenças neurodegenerativas crônicas e progressivas<br>
-Que te matam de pouco em pouco, sem nenhuma solução.<br>
-
-deterioração
-
-Pois talvez a sua maturação neural não seja o único fator predisponente
-
-
-Não é como se você estivesse atrasado para vida<br>
-E precisasse de uma rede de apoio<br>
-Para induzir seu desenvolvimento comportamental.<br>
-suscetibilidade
-
-Provavelmente você já tenha completado a sua maturação neural,<br>
-
-Colocando suas entranhas para fora,<br>
-Porque desejas diminuir seus sintomas fisiológicos.<br>
-O problema está no receptor da mensagem,<br>
-Que por vezes te faz desenvolver<br>
-Ainda mais problemas psicológicos.<br>
-
-confusão entre fato e opinião
-maturação neural
-indução de desenvolvimento comportamental
-
-<p>Do jeito que eles falam sobre "Vício, Idolatria e Satanás".
-Acredito que há mais demônios morando na Igreja
-Do que o próprio lugar de nascença do Ferrabraz.
-Do sangue vira o vinho
-E a humanidade se contorce sem explicação.
-
-como se fosse uma redação
-
-Mas me diz então, quantos doutores estão capacitados
-Para tratar da sua DOENÇA RARA na sua cidade ou estado?
-Quantos não usam tratamentos obsoletos, prejudiciais e/ou defasados?
-Será que é difícil de entender que
-Há uma escassez no Brasil de profissionais qualificados?
-
-DR. PEDRO, sobre minha síndrome queria me ensinar...
-Como se eu não tivesse vivido com ela 22 anos da minha vida,
-Para coisas obsoletas e sem sentido ele ter que falar.
-Cada pessoa desenvolve o Klinefelter de uma forma diferente,
-O que significa que vários sintomas
-Podem ser ausentes ou presentes.
-Mas isso não determina que para todos os casos,
-Tratamento Hormonal seja a solução mais coerente.
-
-
-Meu hemograma se altera progressivamente,
-Enquanto minha PCR deu o dobro do valor reagente.
-Para DR. MARCUS todo o resto foi desconsiderado,
-Pois os exames do VHS e FAN não estavam alterados.
-Logo para o meu fígado e baço inchados,
-Não fizeram diferença nenhuma 
-Para o seu diagnóstico precipitado.
-"Vou te receitar a Pregabalina,
-Mas eu não sei os efeitos colaterais.
-Pois EU ACHO que você tem Fibromialgia,
-Já que eu não sei aplicar diagnósticos diferenciais".
-Tive uma séria oftalmia,
-Mas o senhor nem se deu o trabalho de conhecer as medicações.
-Até porque se eu tivesse Fibromialgia, 
-Eu não teria deformidades nos ossos, músculos e articulações.
-
-E sobre a densitometria óssea, mais uma vez você falhou.
-Osteoporose e Osteopenia: "Está tudo bem, você passou".
-Sei que Hematologia não é a sua especialidade,
-Mas se abster dos resultados é muita iniquidade.
-
-Meu corpo, mais cedo, poderia ter revertido as sequelas...
-Mas agora, como vou lidar com a Policitemia?
-
-
-
-
-Primeiramente você nem acha que eu sou um ser humano.
-incapacitado
-
-Autismo, câncer, músculos e ossos fracos.<br>
-Falta de hormônios, infértil e castrado.<br>
-Tetas grandes, pau e bolas atrofiados.<br>
-Problemas de fala, .</p>
-
-<p>Na atualidade, pode-se dizer que já nasci "CANCELADO".<br>
-
-Porém, pelo menos uma vez na vida,<br> 
-Deixarei você escolher e descrever quem é o culpado.<br>
-É aquela velha discussão entre sociedade, política e religião.<br>
-Por que a ciência ainda é ignorada como um pilar fundamental da criação?<br>
-Pois, a história da nossa espécie é muito mais antiga<br>
-Do que o livro que você usa na pregação.<br>
-Qual o seu embasamento para julgar aquilo que é certo ou errado?<br>
-Seria isso um indício de Masculinidade Frágil ou Cristianismo Freestyle?<br>
-
-Eu poderia ser Rebis, o Magnum Opus da alquimia
-Da putrefação a purificação dos opostoso de Basilius Valentinus
-
-
-Geena, a hipérbole surreal de um lugar físico,
-
-
-
-<p>A sociedade dá muita importância para papéis de gênero.<br>
+<p>Porém, a sociedade dá muita importância para papéis de gênero.<br>
 E pessoas não-binárias existem, não há como negar.<br>
 Por qual motivo a reforma gramatical seria mais importante<br>
 Do que a população se educar?<br>
@@ -354,23 +199,85 @@ E o seu idioma não possui gêneros gramaticais.<br>
 Isso não quer dizer que a ausência de marcação de gênero na palavras<br>
 Tornaria essa sociedade menos desrespeitosa com os demais.<br>
 De que forma o genérico masculino oprime a mulher?<br>
-Onde está a correlação entre a linguagem e aspectos culturais?
+Onde está a correlação entre a linguagem e aspectos culturais?<br>
 Qual é a validade ecológica de que uma mudança lexical<br>
 Influenciaria nos processos cognitivos de estímulos verbais e sensoriais?<br>
 A preocupação é realmente pela inclusão ou pelos viéses ideológicos?<br>
 Alterações linguísticas não surgem pela lei e sim por causas naturais.<br>
 Se pensarmos no papel de inclusão, deveríamos aprender libras, pois<br>
-Mal utilizamos a norma culta no nosso cotidiano e quem dirá nas redes sociais.<br>
-Por que não adotamos o Esperanto?</p>
+Mal utilizamos a norma culta no nosso cotidiano e quem dirá nas redes sociais.</p>
 
-<p>Se liberdade de expressão não se aplica ao que você acha repugnante ou discorda,
+<p> </p>
+<p> --- </p>
 
+<p>Posteriormente ao escrever "XXY" e "Aquilo Que Sobrou de Mim",<br>
+Em termos atuais, pode-se dizer que já nasci "CANCELADO".<br>
+Pois, é muito egoísmo da minha parte pensar na minha própria saúde,<br>
+Em "desfavor" de nichos onde não me sinto representado.<br>
+<i>"Você não está sozinho. Há outros na mesma luta"</i>.<br>
+Ter algo em comum não vai fazer com que eu me sinta menos segregado.<br>
+Minha genética modificada é um motivo de luta pela minha vida<br>
+E que certamente não me obriga a participar de grupos, crenças ou ideologias.<br>
+Não quero viver num sofismo cibernético,<br>
+Onde o bom-senso gira em torno de movimentos puramente arbitrários.<br>
+Basicamente, é uma blasfêmia não ter tesão em necrolatria,<br>
+Por adorar pessoas mortas sem que seus argumentos sejam questionados.<br>
+É aquela eterna discussão entre ciência, sociedade, política e religião.<br>
+Mas a história da nossa espécie é muito mais antiga<br>
+Do que o livro que você usa na pregação.<br>
+De onde vem o seu embasamento para julgar aquilo que é certo ou errado?<br>
+Seria isso um indício de Sexualidade Frágil ou Cristianismo Freestyle?<br>
+Sobre "Antropofagia", meu liricismo não tem intenção alguma em querer agradar.<br>
+Se fosse para mentir sobre minha história, talvez escreveria um livro de auto-ajuda,<br>
+Para que você tenha a falsa sensação de mudança no seu bem-estar.<br>
+Verdadeiramente, não importa o quanto eu escreva,<br>
+Sempre com base na sua vida, você terá a sua visão e tentará comparar.<br>
+E depois de tirar as suas próprias conclusões,<br>
+Me mandará indereta nos stories ou uma DM no Instagram dizendo que quero "LACRAR".<br>
+Mas quem não respeita o meu trabalho, aqui eu faço questão de que não esteja.<br>
+Pois não faço uso fórmulas mágicas ou falaciosas<br>
+Para você escutar de mim aquilo que você deseja.<br>
+
+
+
+
+
+pelas costas vem difamar.
+
+venerar entidades, sem questionar suas vontades
+canificina 
+usando sua carne para sacrificio, imolação
+
+estamos fadados
+
+Estou escrevendo um livro sobre meu âmago, meu íntimo.<br>
+
+Comunidades antropofágicas, açougueiros de Rostov.
+Vouyers necrofílicos
+
+Um sentimento de repulsa pela zona de conforto,<br>
+É só mais indício que já era para eu estar morto.<br>
+
+Antropofagia, porque todos arrancam partes de mim
+Degustam a minha dor e assim me contorço
+
+Parece que meu liricismo só mostra parte do meu cinismo 
+
+evitar que seja manipulado
+refletir, irreprensível e alienante
+benéfico
+algo que não deve ser quesitonado
+não vai fazer com que meu câncer esteja curado
+
+Geena, onde lixo e cadáveres eram incinerados
+
+Eu poderia ser Rebis, o Magnum Opus da alquimia
+Da putrefação a purificação dos opostos de Basilius Valentinus
+
+Geena, a hipérbole surreal de um lugar físico,
 
 Mesmo estando em local de fala que vai contra o consenso geral
 
 
-"É preciso acabar com os estereótipos de homem e mulher"<br>
-O que faz de um transsexual ser transsexual senão o fato de que,<br>
-Nascido num sexo, ele se utiliza de algum estereótipo para ser quem ele quiser?<br>
-Agora, pensando de modo coletivo, é óbvio que existem demandas por igualdade.
+
 
