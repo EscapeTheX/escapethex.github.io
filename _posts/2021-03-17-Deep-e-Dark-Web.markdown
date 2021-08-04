@@ -16,7 +16,7 @@ Para explicar melhor os detalhes e da forma que acredito ser a mais adequada, <b
 <p><i><h5>OBS: As terminologias sobre redes e tecnolgias estão em mudança constante. Então matérias, de cunho sensacionalista ou não, utilizam suas formas de divisões de redes para facilitar o compreensão, porém nem sempre isso tem embasamento. Estou utilizando esta metodologia com base em quem se dedica a pesquisar isso a sério e também baseado na MINHA vivência com essas redes.<br>
 Ou seja, estou escrevendo de uma forma didática para facilitar a compreensão do público que não faz parte desse nicho.</h5></i></p>
 
-<p><b><h3>1. Arquiteturas Básicas e Independentes:</h3></b><br>
+<p><b><h3>1. Arquiteturas de Rede:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
 É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
