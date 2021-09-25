@@ -9,12 +9,21 @@ author:
 ---
 <center><strong>Repita 6x no espelho: VPNs não foram projetadas para garantir privacidade e anonimato!</strong></center> 
 
-<p>
+<p>O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais - Virtual Private Networks)</i>, era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo e com o aumento massivo de ataques cibernéticos, <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. Porém, sabemos que <b>isso nunca foi verdade</b> e hoje quero mostrar o porquê...<p> 
+
+<p><b><h3>Como uma VPN Funciona?</h3></b><br>
+
+
+
 
 Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
 
 
-<p>The Onion Router (Tor):<p>
+
+
+
+
+<p><b><h3>The Onion Route (Tor):</h3></b><br>
 
 
 
@@ -22,7 +31,7 @@ Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPN
 
 
 
-<p>Técnicas e Ataques a Redes Anônimas e VPNs:<p>
+<p><b><h3>Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b></p>
 
 <p>Ataques de Negação de Serviço (DoS):<br>
 - Cellfood Attack:
@@ -78,7 +87,11 @@ VPNs não foram projetadas para garantir privacidade e anonimato.
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
 <p>- <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
+- <a href="https://www.techradar.com/vpn/vpn-tunnels-explained-how-to-keep-your-internet-data-secure">VPN Tunnels explained: what are they and how can they keep your internet data secure</a><br>
+- <a href="https://pt.linkedin.com/pulse/maldito-ransomware-vpn-e-lgpd-nilson-vianna-m-sc-">Nilson Viana - Maldito Ransomware... VPN e LGPD</a><br>
 - <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
 - <a href="https://gizmodo.uol.com.br/internet-desligar-de-repente/">O que aconteceria se a internet inteira desligasse de repente?</a><br>
 - <a href="https://www.wired.com/story/china-russia-vpn-crackdown/">The Attack on Global Privacy Leaves Few Places To Turn</a><br>
+- <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">Attacks On Tor</a><br>
+- 
  
