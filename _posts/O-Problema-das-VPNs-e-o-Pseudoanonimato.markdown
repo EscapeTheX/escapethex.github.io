@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  O Problema das VPNs e o Pseudoanonimato
+title:  VPNs e o Pseudoanonimato
 date:   2021-09-28 08:32:20 +0300
-description: Será que basta apenas confiarmos na Política de Privacidade de um serviço? # Add post description (optional)
+description: A Política de Privacidade de um serviço o torna seguro? # Add post description (optional)
 img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
@@ -10,15 +10,13 @@ author:
 <p>O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo e com o aumento massivo de ataques cibernéticos, <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. Porém, sabemos que <b>isso nunca foi verdade</b> e hoje quero mostrar o porquê...<p> 
 
 <p> </p>
-<p> </p>
 
 <p><b><h3>1. Como as VPNs Funcionam?</h3></b><br>
-De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia vai depender de cada serviço, já que quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
+De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
 <p> </p>
-<p> </p>
 
-<p><b><h3>2. Tipos de VPNs:</h3></b></p>
+<><b><h3>2. Tipos de VPNs:</h3></b><br>
 
 <p>- <b>Acesso Remoto:</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
 
@@ -27,7 +25,6 @@ De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b>
 <p>- <b>Acesso Extranet Site-To-Site:</b> Utilizada normalmente em projetos colaborativos, onde a VPN cria uma conexão entre duas Intranets separadas e permite que os usuários se comuniquem diretamente.</p>
 
 <p> </p>
-<p> </p>
 
 <p><b><h3>3. Diferença entre Proxy e VPN:</h3></b><br>
 Um Proxy
@@ -35,14 +32,13 @@ Um Proxy
 <p>Já a VPN
 
 <p> </p>
-<p> </p>
 
 <p><b><h3>3. Protocolos Utilizados em VPNs:</h3></b><br>
-<p>- <b>TLS (Transport Layer Security)</b>: Provém um sistema de autenticação entre servidores e usuários,
+<p>- <b>TLS (Transport Layer Security)</b>: Protocolo com solução barata, de fácil implementação, com muitas vulnerabilidades e pouco conhecimento sobre mitigação. Projetado a nível de aplicação web <i>(fornece redirecionamento para aplicativos específicos e não para a rede inteira)</i>, provém um sistema de autenticação entre servidores/usuários e distribui direitos de acesso sem a necessidade de instalação de software. Além de suas vulnerabilidades, pode também haver problemas com compartilhamento de arquivos, backup e acesso a recursos de impressão.</p> 
 
-<p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) para fornecer a segurança dos dados, que atualmente é um protocolo inseguro. Mas que, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações.</p>
+<p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) com chaves de até 128-bit para fornecer a segurança dos dados, porém ele se tornou obsoleto devido as suas vulnerabilidades bem conhecidas. Mas, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações. Acredito que o único uso atual do PPTP seja para acessar conteúdos bloqueados por região, já que o nível de segurança não importa.</p>
 
-<p>- <b>IPSec:</b> 
+<p>- <b>IPSec (Internet Protocol Security):</b> Faz o redirecionamento entre 
 
 <p>- <b>L2TP (Layer 2 Tunnel Protocol) + IPSec:</b> O L2TP foi apresentando como um substituto para o PPTP, com a diferença da requisição ser através de UDP e um encapsulamento duplo do tráfego. Porém, como ele não trabalha sozinho, ele deve ser usado conjuntamente com o IPSec para a conexão se tornar mais segura.</p> 
 
@@ -54,7 +50,6 @@ Um Proxy
 
 <p>- <b>WireGuard:</b> . Mesmo sendo open-source, sua pouca idade não é o suficiente para demonstrar seus limites e riscos.
 
-<p> </p>
 <p> </p>
 
 <p><b><h3>4. Por que utilizar uma VPN?</h3></b><br>
@@ -72,19 +67,16 @@ Um Proxy
 <p>- <b>Políticas de Privacidade:</b> As Políticas de Privacidade são obrigatórias para qualquer tipo de serviço que tenha retenção de dados na Internet. Fazer uma propaganda bonita de que 
 
 <p> </p>
-<p> </p>
 
 <p><b><h3>6. Darknet e Redes Anonimizadas:</h3></b><br>
 
-<p> </p>
 <p> </p>
 
 <p><b><h3>7. The Onion Route (Tor):</h3></b><br>
 
 <p> </p>
-<p> </p>
 
-<p><b><h3>8. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b></p>
+<p><b><h3>8. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b><br>
 
 <p><b><h4>Ataques de Negação de Serviço (DoS):</h4></b></p>
 
