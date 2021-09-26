@@ -7,29 +7,29 @@ img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
-<p><center><strong>Repita 6x no espelho: VPNs não foram projetadas para garantir privacidade e anonimato!</strong></center></p> 
-
-<p>O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais - Virtual Private Networks)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo e com o aumento massivo de ataques cibernéticos, <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. Porém, sabemos que <b>isso nunca foi verdade</b> e hoje quero mostrar o porquê...<p> 
+<p>O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo e com o aumento massivo de ataques cibernéticos, <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. Porém, sabemos que <b>isso nunca foi verdade</b> e hoje quero mostrar o porquê...<p> 
 
 <p> </p>
 
-<p><b><h3>Como as VPNs Funcionam?</h3></b><br>
-De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet. 
+<p><b><h3>1. Como as VPNs Funcionam?</h3></b><br>
+De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia vai depender de cada serviço, já que quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
+<p><b><h3>2. Tipos de VPNs:</h3></b><br>
 
-criando uma conexão ponto-a-ponto para redirecionar todo o tráfego do seu dispositivo e aplicar protocolos de tunelamento, assim garantindo um certo <i>"nível de segurança"</i> nas conexões. 
-Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia é opcional e vai depender de cada serviço, já que isso influencia diretamente na velocidade, segurança e privacidade.
+- <b>Acesso Remoto</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
 
+<p>- <b>Acesso Intranet Site-To-Site</b>: Normalmente utilizada para trabalho, onde a VPN cria uma conexão com vários dispositivos juntos e permite que o empregado possa trabalhar de diversas localidades do mundo. Uma VPN Intranet cria essa conexão mas permite que vários dispositivos conectem-se diretamente sem encriptação.</p>
+
+<p>- <b>Acesso Extranet Site-To-Site</b>: Utilizada normalmente em projetos colaborativos, onde a VPN cria uma conexão entre duas Intranets separadas e permite que os usuários se comuniquem diretamente.</p>
 
 <p> </p>
-<p><b><h3>Diferença entre Proxy e VPN:</h3></b><br>
+
+<p><b><h3>3. Diferença entre Proxy e VPN:</h3></b><br>
 Um Proxy
 
 <p>Já a VPN
 
-<p> </p>
-
-<p><b><h3>Tipos de Protocolos Utilizados em VPNs:</h3></b><br>
+<p><b><h3>3. Protocolos Utilizados em VPNs:</h3></b><br>
 <p>- <b>TLS (Transport Layer Security)</b>: Provém um sistema de autenticação entre servidores e usuários,
 
 <p>- <b>PPTP (Point-to-Point Tunneling Protocol)</b>: É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) para fornecer a segurança dos dados, que atualmente é um protocolo inseguro. Mas que, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações.</p>
@@ -47,23 +47,44 @@ Um Proxy
 <p>- <b>WireGuard</b>: . Mesmo sendo open-source, sua pouca idade não é o suficiente para demonstrar seus limites e riscos.
 
 
+<p><b><h3>4. Por que utilizar uma VPN?</h3></b><br>
+
+<p>- <b>Privacidade</b>: Provavelmente esse é o principal motivo das pessoas estarem utilizando tantos serviços de VPNs atualmente. 
+
+<p>- <b>Proteção de Identidade</b>: 
+
+<p>- <b>Acessar Conteúdos Bloqueados por Região</b>:
+
+<p>- 
+
+<p><b><h3>5. O Grande Problema das VPNs:</h3></b></p>
+
+<p>- <b>Políticas de Privacidade</b>: As Políticas de Privacidade são obrigatórias para qualquer tipo de serviço que tenha retenção de dados na Internet. Fazer uma propaganda bonita de que 
+
+
+
+<p> </p>
+
+
+
+
 
 Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
 
 
 
 
-<p><b><h3>Darknet e Redes Anonimizadas:</h3></b><br>
+<p><b><h3>6. Darknet e Redes Anonimizadas:</h3></b><br>
 
-<p><b><h3>The Onion Route (Tor):</h3></b><br>
-
-
+<p><b><h3>7. The Onion Route (Tor):</h3></b><br>
 
 
 
 
 
-<p><b><h3>Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b></p>
+
+
+<p><b><h3>8. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b></p>
 
 <p><b>Ataques de Negação de Serviço (DoS):</b></p>
 - Cellfood Attack:
