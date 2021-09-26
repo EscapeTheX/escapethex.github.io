@@ -10,18 +10,23 @@ author:
 <p>O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo e com o aumento massivo de ataques cibernéticos, <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. Porém, sabemos que <b>isso nunca foi verdade</b> e hoje quero mostrar o porquê...<p> 
 
 <p> </p>
+<p> </p>
 
 <p><b><h3>1. Como as VPNs Funcionam?</h3></b><br>
 De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia vai depender de cada serviço, já que quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
-<p><b><h3>2. Tipos de VPNs:</h3></b><br>
+<p> </p>
+<p> </p>
 
-- <b>Acesso Remoto</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
+<p><b><h3>2. Tipos de VPNs:</h3></b></p>
 
-<p>- <b>Acesso Intranet Site-To-Site</b>: Normalmente utilizada para trabalho, onde a VPN cria uma conexão com vários dispositivos juntos e permite que o empregado possa trabalhar de diversas localidades do mundo. Uma VPN Intranet cria essa conexão mas permite que vários dispositivos conectem-se diretamente sem encriptação.</p>
+<p>- <b>Acesso Remoto:</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
 
-<p>- <b>Acesso Extranet Site-To-Site</b>: Utilizada normalmente em projetos colaborativos, onde a VPN cria uma conexão entre duas Intranets separadas e permite que os usuários se comuniquem diretamente.</p>
+<p>- <b>Acesso Intranet Site-To-Site:</b> Normalmente utilizada para trabalho, onde a VPN cria uma conexão com vários dispositivos juntos e permite que o empregado possa trabalhar de diversas localidades do mundo. Uma VPN Intranet cria essa conexão mas permite que vários dispositivos conectem-se diretamente sem encriptação.</p>
 
+<p>- <b>Acesso Extranet Site-To-Site:</b> Utilizada normalmente em projetos colaborativos, onde a VPN cria uma conexão entre duas Intranets separadas e permite que os usuários se comuniquem diretamente.</p>
+
+<p> </p>
 <p> </p>
 
 <p><b><h3>3. Diferença entre Proxy e VPN:</h3></b><br>
@@ -29,108 +34,138 @@ Um Proxy
 
 <p>Já a VPN
 
+<p> </p>
+<p> </p>
+
 <p><b><h3>3. Protocolos Utilizados em VPNs:</h3></b><br>
 <p>- <b>TLS (Transport Layer Security)</b>: Provém um sistema de autenticação entre servidores e usuários,
 
-<p>- <b>PPTP (Point-to-Point Tunneling Protocol)</b>: É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) para fornecer a segurança dos dados, que atualmente é um protocolo inseguro. Mas que, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações.</p>
+<p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) para fornecer a segurança dos dados, que atualmente é um protocolo inseguro. Mas que, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações.</p>
 
-<p>- <b>IPSec</b>: 
+<p>- <b>IPSec:</b> 
 
-<p>- <b>L2TP (Layer 2 Tunnel Protocol) + IPSec</b>: O L2TP foi apresentando como um substituto para o PPTP, com a diferença da requisição ser através de UDP e um encapsulamento duplo do tráfego. Porém, como ele não trabalha sozinho, ele deve ser usado conjuntamente com o IPSec para a conexão se tornar mais segura.</p> 
+<p>- <b>L2TP (Layer 2 Tunnel Protocol) + IPSec:</b> O L2TP foi apresentando como um substituto para o PPTP, com a diferença da requisição ser através de UDP e um encapsulamento duplo do tráfego. Porém, como ele não trabalha sozinho, ele deve ser usado conjuntamente com o IPSec para a conexão se tornar mais segura.</p> 
 
-<p>- <b>SSTP</b>: O funcionamento do SSTP se assemelha como um tráfego HTTPS, . Por não ser open-source, talvez ele seja passível de backdoors ou qualquer outro método para a espionagem de tráfego. 
+<p>- <b>SSTP:</b> O funcionamento do SSTP se assemelha como um tráfego HTTPS, . Por não ser open-source, talvez ele seja passível de backdoors ou qualquer outro método para a espionagem de tráfego. 
 
-<p>- <b>OpenVPN</b>: . Por utilizar várias camadas de encriptação, a sua conexão não é tão rápida como os outros protocolos.
+<p>- <b>OpenVPN:</b> . Por utilizar várias camadas de encriptação, a sua conexão não é tão rápida como os outros protocolos.
 
-<p>- <b>IKEv2 + IPSec</b>:
+<p>- <b>IKEv2 + IPSec:</b>
 
-<p>- <b>WireGuard</b>: . Mesmo sendo open-source, sua pouca idade não é o suficiente para demonstrar seus limites e riscos.
+<p>- <b>WireGuard:</b> . Mesmo sendo open-source, sua pouca idade não é o suficiente para demonstrar seus limites e riscos.
 
+<p> </p>
+<p> </p>
 
 <p><b><h3>4. Por que utilizar uma VPN?</h3></b><br>
 
-<p>- <b>Privacidade</b>: Provavelmente esse é o principal motivo das pessoas estarem utilizando tantos serviços de VPNs atualmente. 
+<p>- <b>Privacidade:</b> Provavelmente esse é o principal motivo das pessoas estarem utilizando tantos serviços de VPNs atualmente. 
 
-<p>- <b>Proteção de Identidade</b>: 
+<p>- <b>Proteção de Identidade:</b> 
 
-<p>- <b>Acessar Conteúdos Bloqueados por Região</b>:
+<p>- <b>Acessar Conteúdos Bloqueados por Região:</b>
 
 <p>- 
 
 <p><b><h3>5. O Grande Problema das VPNs:</h3></b></p>
 
-<p>- <b>Políticas de Privacidade</b>: As Políticas de Privacidade são obrigatórias para qualquer tipo de serviço que tenha retenção de dados na Internet. Fazer uma propaganda bonita de que 
-
-
+<p>- <b>Políticas de Privacidade:</b> As Políticas de Privacidade são obrigatórias para qualquer tipo de serviço que tenha retenção de dados na Internet. Fazer uma propaganda bonita de que 
 
 <p> </p>
-
-
-
-
-
-Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
-
-
-
+<p> </p>
 
 <p><b><h3>6. Darknet e Redes Anonimizadas:</h3></b><br>
 
+<p> </p>
+<p> </p>
+
 <p><b><h3>7. The Onion Route (Tor):</h3></b><br>
 
-
-
-
-
-
+<p> </p>
+<p> </p>
 
 <p><b><h3>8. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b></p>
 
-<p><b>Ataques de Negação de Serviço (DoS):</b></p>
-- Cellfood Attack:
-- Botnet Flooding Attack:
-- Sniper Attack
-  
-<p><b>Ataques de Apoio:</b></p>
-- Packet Size Analysis Attack:
-- Tor Authentication Protocol Attack:
-- Influencing Tor's Guard Selection:
-- Sybil Attack:
-- Guard Selection Attack:
+<p><b><h4>Ataques de Negação de Serviço (DoS):</h4></b></p>
 
-<p><b>Ataque de Fingerprinting:</b><p>
-- Circuit Fingerprinting:
-- 
-  
-<p><b>Ataques de Desanonimização:</b><p>
-- Bandwidth Estimation Attack:
-- Indirect Rate Reduction Attack:
-- Congestion Attack:
-- Fingerprinting Attack:
-- Relay Early Attack:
-- Raptor Attack:
-  
-<p><b>Ataques de Correlação:</b><p>
-- Replay Attack:
-- Cell Counter Based Attack:
-- Correlation-Based Traffic Analysis Attack:
-- Low Resource Routing Attack:
-- HTTP Patern Injection Attack:
-- Packet Timing Watermarking Attack:
-- Bad Apple Attack:
-- Probabilistic Attack Attack:
-- Torben Attack
+<p>- <b>Cellfood Attack:</b>
 
+<p>- <b>Botnet Flooding Attack:</b>
 
-<p><b>Ataques de Revelação de Serviço:</b></p>
+<p>- <b>Sniper Attack:</b>
+
+<p> </p>
+
+<p><b><h4>Ataques de Apoio:</h4></b></p>
+
+<p>- <b>Packet Size Analysis Attack:</b>
+
+<p>- <b>Tor Authentication Protocol Attack:</b>
+
+<p>- <b>Influencing Tor's Guard Selection:</b>
+
+<p>- <b>Sybil Attack:</b>
+
+<p>- <b>Guard Selection Attack:</b>
+
+<p> </p>
+
+<p><b><h4>Ataque de Fingerprinting:</h4></b><p>
+
+<p>- <b>Circuit Fingerprinting:</b>
+
+<p> </p>
+
+<p><b><h4>Ataques de Desanonimização:</h4></b><p>
+
+<p>- <b>Bandwidth Estimation Attack:</b>
+
+<p>- <b>Indirect Rate Reduction Attack:</b>
+
+<p>- <b>Congestion Attack:</b>
+
+<p>- <b>Fingerprinting Attack:</b>
+
+<p>- <b>Relay Early Attack:</b>
+
+<p>- <b>Raptor Attack:</b>
+
+<p> </p>
+
+<p><b><h4>Ataques de Correlação:</h4></b><p>
+
+<p>- <b>Replay Attack:</b>
+
+<p>- <b>Cell Counter Based Attack:</b>
+
+<p>- <b>Correlation-Based Traffic Analysis Attack:</b>
+
+<p>- <b>Low Resource Routing Attack:</b>
+
+<p>- <b>HTTP Patern Injection Attack:</b>
+
+<p>- <b>Packet Timing Watermarking Attack:</b>
+
+<p>- <b>Bad Apple Attack:</b>
+
+<p>- <b>Probabilistic Attack Attack:</b>
+
+<p>- <b>Torben Attack:</b>
+
+<p> </p>
+
+<p><b><h4>Ataques de Revelação de Serviço:</h4></b></p>
+
 <p>- <b>Clock Skew Attack:</b>
 
-<p>- First Node Attack:</b> 
+<p>- <b>First Node Attack:</b> 
 
 
 - Monitoramento Passivo: Quando um cibercriminoso simplesmente recolhe informações do tráfego do utilizador, com ou sem encriptação;
 - Sequestro de DNS: Quado o cibercriminoso redireciona o tráfego do usuário para um servidor comprometido;
 - Ataque de Correlação de Tráfego / Ataque de Confirmação E2E: 
+- Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
+
 
 
 <p>_________________________________________________________________________________________________________________</p>
