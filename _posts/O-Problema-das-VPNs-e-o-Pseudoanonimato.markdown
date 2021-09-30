@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Scraping, VPNs e o Pseudoanonimato
+title:  Não Existe Anonimato na Internet
 date:   2021-09-28 08:32:20 +0300
 description: A Política de Privacidade de um serviço o torna seguro? # Add post description (optional)
 img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
-<>Ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. Não importa se você utiliza <i>DuckDuckGo, AdBlocker, Máquinas Virtuais, Tor, ProtonMail, Whonix ou Tails no pendrive</i>, <b>você sempre deixará um rastro independente das ferramentas que você utilizar e provavelmente o seu padrão de comportamento só facilitará a criação um identificador único</b>.<br>  
+<p>Ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. Não importa se você utiliza <i>DuckDuckGo, AdBlocker, Máquinas Virtuais, Tor, ProtonMail, Whonix, Tails no pendrive</i> ou tudo isso junto, <b>você sempre deixará um rastro independente das ferramentas que você utilizar e provavelmente o seu padrão de comportamento só facilitará a criação um identificador único</b>.<br>  
 Se desde o momento em que você liga o seu dispositivo é gerado um <b>log</b> <i>(registro)</i> do evento <i>(mesmo você o apagando, também gera um log sobre esse log)</i>, imagina o que as informações de bilhões de usuários que acessam Internet diariamente nos revelam...</p>
 
 <p>
@@ -21,9 +21,9 @@ Scraping é uma técnica que visa a extração de dados de aplicações
 <p> </p>
 
 <p><b><h3>Como as VPNs Funcionam?</h3></b><br>
-O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma.</p>
+O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo <b>as VPNs tornaram-se errôneamente um sinônimo de anomimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. 
 
-<p>De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não seja visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
+<p>De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, todas as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não será visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
 <p> </p>
 
@@ -40,7 +40,6 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 <p><b><h3>Diferença entre Proxy e VPN:</h3></b><br>
 Um Proxy
 
-<p>Já a VPN
 
 <p> </p>
 
@@ -73,11 +72,23 @@ Um Proxy
 
 <p>- 
 
-<p><b><h3>O Grande Problema das VPNs:</h3></b></p>
+<><b><h3>O Grande Problema das VPNs:</h3></b><br>
+Por mais que o seu tráfego seja redirecionado entre 40 servidores intermediários e criptografado com uma cifra de 32768-bits, isso de forma alguma é sinônimo de privacidade e anonimato, apenas significa que alguém terá um pouco mais de trabalho para te encontrar.
 
-<p>- <b>Políticas de Privacidade:</b> As Políticas de Privacidade são obrigatórias para qualquer tipo de serviço que tenha retenção de dados. Fazer uma propaganda bonita de que 
+
+A verdade é que, se você for um criminoso, mais cedo ou mais tarde irão te prender; se você for uma pessoa normal, seus dados serão vendidos.
+
+
+<p>A verdade é que as VPNs conseguem ver todo o seu tráfego e isso nem sempre está explícito nas suas Políticas.</p>Mas vamos ser sinceros, <b>quantas vezes você chegou a ler a Política de Privacidade de algum serviço que você utiliza?</b> Será que a política de <b><i>"no-logs"</i></b> também se aplica a timestamps, metadados, cookies e web beacons? Será que com essas informações "anônimas" não seria possível traçar um perfil? Como você sabe que está acessando de fato o servidor de uma VPN e não está sofrendo com ataques do tipo Sequestro de DNS ou MITM?
 
 <p> </p>
+
+<p><b><h3>Alianças de Inteligência:</h3></b><br>
+Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a localização de cada provedor e servidor do país de origem e destino. Pois, mesmo que a Política de Privacidade do serviço tenha a propaganda de <i>"no-logs"</b>, os serviços de inteligência de cada país têm total liberdade para espiar o seu tráfego. 
+
+
+
+O <b>Five Eyes</b> é um acordo que visa a cooperação de inteligência entre a Austrália, Nova Zelândia, Canadá, Reino Unido e Estados Unidos.
 
 <p><b><h3>Darknet e Redes Anonimizadas:</h3></b><br>
 
@@ -181,8 +192,10 @@ Um Proxy
 - <a href="https://www.techradar.com/vpn/vpn-tunnels-explained-how-to-keep-your-internet-data-secure">VPN Tunnels explained: what are they and how can they keep your internet data secure</a><br>
 - <a href="https://pt.linkedin.com/pulse/maldito-ransomware-vpn-e-lgpd-nilson-vianna-m-sc-">Nilson Viana - Maldito Ransomware... VPN e LGPD</a><br>
 - <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
+- <a href="https://www.comparitech.com/vpn/vpn-logging-policies/">Does your VPN Keep Logs? 140 VPN Logging Policies Revealed</a><br>
 - <a href="https://gizmodo.uol.com.br/internet-desligar-de-repente/">O que aconteceria se a internet inteira desligasse de repente?</a><br>
 - <a href="https://www.wired.com/story/china-russia-vpn-crackdown/">The Attack on Global Privacy Leaves Few Places To Turn</a><br>
 - <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">Attacks On Tor</a><br>
+- <a href="https://github.com/freignat91/cipher">A project to learn basic of RSA encryption</a><br>
 - 
  
