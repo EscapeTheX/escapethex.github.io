@@ -7,17 +7,17 @@ img: anonimato.jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
-<p>Sempre houve a ideia de que <b>segurança é algo que se compra</b>, como equipamentos ou serviços. Podemos claramente ter uma infraestrutura que pode previnir incêndios, quedas de energia e outros desastres naturais. Porém, <i>quando o fator humano entra em jogo</i>, a única forma de mitigação é o <b>bom senso (boas práticas)</b>.</p>
+<p>Sempre houve a ideia de que <b>segurança é algo que se compra</b>, como equipamentos ou serviços. Podemos claramente ter uma infraestrutura que pode prevenir incêndios, quedas de energia e outros desastres naturais. Porém, <i>quando o fator humano entra em jogo</i>, a única forma de mitigação é o <b>bom senso (boas práticas)</b>.</p>
 
 <p>De certa forma, podemos alcançar certos níveis de segurança, anonimato e privacidade, mas isso nunca será algo infalível ou "100%". Por exemplo, <a href="https://cybernews.com/news/">toda semana saem diversas notícias de empresas que tiveram seus dados expostos ou que revelaram falhas de segurança esdrúxulas</a> e isso apenas demonstra que <i>não importa o tamanho ou capital destinado a segurança da sua empresa</i>, <b>ela sempre estará vulnerável</b>. O que antes o foco era ter as melhores tecnologias disponíveis para evitar intrusos, hoje é ter o melhor plano de recuperação para minimizar as perdas, pois o sistema será um alvo de intrusão mais cedo ou mais tarde.</p>
 
 <p> </p>
 
 <p><b><h3>1. Threat Modeling - Modelagem de Ameaças:</h3></b><br>
-Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar proteger nossos dados do mau uso das empresas e invasores, é imprático e muito exaustivo. Como dito anteriormente, segurança é uma prática que precisa de planejamento e não é somente pensando em ataques maliciosos, é sobre entender as ameaças e quais as contra-medidas disponíveis para minimizar o dano.</p>
+Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar proteger nossos dados do mau uso das empresas e invasores, é inviável e muito exaustivo. Como dito anteriormente, segurança é uma prática que precisa de planejamento e não é somente pensando em ataques maliciosos, é sobre entender as ameaças e quais as contra-medidas disponíveis para minimizar o dano.</p>
 <p> </p>
 <p><b>Mas antes, precisamos saber a diferença entre Risco, Ameaça e Vulnerabilidade:</b></p>
-<p>- <b>Risco:</b> É um nível de tolerância aplicado a todo evento negativo que traga impacto para infraestrutura (ambiente e ativos). Não existe a possibilidade de todos riscos serem totalmente eliminidados, mas mantê-los num nível baixo, em que são conhecidos e administráveis. Os modelos tradicionais de Gerenciamento de Riscos e Vulnerabilidades adotam a visão de que "tudo é um risco", o que não é errado, só é um desperdício de recursos em não utilizar um sistema de Inteligência de Ameaças (Threat Intel) para isolar os principais riscos e reduzir seus perfis;</p>
+<p>- <b>Risco:</b> É um nível de tolerância aplicado a todo evento negativo que traga impacto para infraestrutura (ambiente e ativos). Não existe a possibilidade de todos riscos serem totalmente eliminados, mas mantê-los num nível baixo, em que são conhecidos e administráveis. Os modelos tradicionais de Gerenciamento de Riscos e Vulnerabilidades adotam a visão de que "tudo é um risco", o que não é errado, só é um desperdício de recursos em não utilizar um sistema de Inteligência de Ameaças (Threat Intel) para isolar os principais riscos e reduzir seus perfis;</p>
 <p>- <b>Ameaça:</b> É todo evento potencial que pode prejudicar a maneira que você protege seus dados. Sempre há um vetor de entrada e uma possibilidade de se explorar através disso, sendo intencional ou acidental, ou ainda real ou simulado;</p>
 
 <p><center>
@@ -32,7 +32,7 @@ Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar p
 <p>- <b>O que eu tenho no meu dispositivo (ativos) vale a pena proteger?:</b> O que pode incluir seus e-mails, contatos, mensagens, documentos, arquivos de mídia, MFA, pornografia, torrents, leaks, exploits;</p>
 <p>- <b>De quem eu quero proteger?:</b> Qualquer pessoa ou entidade que representa uma ameaça é seu adversário. Ex.: Governo, criminosos, chefes, ex-companheiros, concorrentes comerciais, família, instituições de ensino;</p>
 <p>- <b>Se eu falhar em proteger meus dados, as consequências serão muito ruins?</b> Existem diversas maneiras, táticas e motivações para que um adversário queira obter acesso aos seus dados. Por isso devemos nos atentar sobre quais recursos disponíveis esse adversário possui, como grampear ou performar engenharia social em sua linha telefônica, ler sua atividade na Internet, sequestrar seu DNS, enviar phishing, quebrar suas senhas...;</p>
-<p>- <b>Quais são os riscos?</b> A avaliação de riscos é algo pessoal e subjetivo. Muitas pessoas consideram certas ameaças inaceitáveis, independente da probabilidade de ocorrer. Em outros casos as pessoas desconsideram ameaças de alto risco pois não as vêem como um problema. Então, existe uma grande diferença entre o que pode acontecer e a probabilidade de que possa acontecer, a questão é você decidir sobre o que é tolerável, inofensivo ou difícil de combater, com aquilo que realmente pode te prejudicar. Ex.: Embora sua farmácia saiba que você usa tadalafil desde os 16 anos, o risco de eles postarem seus dados online para te prejudicar é baixo;</p> 
+<p>- <b>Quais são os riscos?</b> A avaliação de riscos é algo pessoal e subjetivo. Muitas pessoas consideram certas ameaças inaceitáveis, independente da probabilidade de ocorrer. Em outros casos as pessoas desconsideram ameaças de alto risco pois não as vêem como um problema. Então, existe uma grande diferença entre o que pode acontecer e a probabilidade de que possa acontecer, a questão é você decidir sobre o que é tolerável, inofensivo ou difícil de combater, com aquilo que realmente pode te prejudicar. Ex.: Embora sua farmácia saiba que você usa Tadalafil desde os 16 anos, o risco de eles postarem seus dados online para te prejudicar é baixo;</p> 
 <p>- <b>O quanto estarei disposto para evitar as consequências potenciais?</b> Nem todos tem as mesmas prioridades, preocupações ou acesso a recursos e isso faz com que não existam opções perfeitas para segurança. É importante se atentar quais ameaças afetam sua áreas de interesse (financeira, saúde, social) e descobrir quais são as melhores opções disponíveis para ajudar a mitigar essas ameaças.</p>
 <p> <p>
 <p>Sabendo que cada pessoa terá suas prioridades e o noção sobre quais ativos merecem uma melhor proteção, <b>nem tudo o que é feito propaganda no mercado serve para todos os casos e isso na maioria das vezes pode prejudicar quem não tem conhecimento</b>. VPNs e Redes Anonimizadas são exemplos de recursos que grande parte do público geral não precisa, pois novamente, segurança não é um produto e sim boas práticas.</p>
@@ -56,19 +56,17 @@ Se desde o momento em que você liga o seu dispositivo é gerado um <b>log</b> <
 
 <p><b><h3>3. Como e quais informações são coletadas sobre você na Internet:</h3></b><br>
 
-<p>- <b>Governo e Serviços Essenciais:</b> Além dos documentos básicos para que você seja contabilizado como um ser-humano, o governo pode requerir intervenção judicial em qualquer serviço que você utilizar, com ou sem consentimento. Então não há muita escapatória;</p>
+<p>- <b>Governo e Serviços Essenciais:</b> Além dos documentos básicos para que você seja contabilizado como um ser-humano, o governo pode requirir intervenção judicial em qualquer serviço que você utilizar, com ou sem consentimento. Então não há muita escapatória;</p>
 
 <p>- <b>Criminosos:</b> Assim como o governo, porém de forma ilegal, os criminosos também podem obter quaisquer dados que eles quiserem. Seja através de engenharia social, malwares, invasões tradicionais... As possibilidades são infinitas e a única forma de combater é com boas práticas de segurança;<br>
 
 <p>- <b>ISP (Provedor de Serviços de Internet):</b> Além dos seus dados cadastrais, seu provedor de Internet terá acesso a todo o seu tráfego de rede, podendo compartilhar com terceiros essas informações. Mesmo que os sites que você navega possuam encriptação ou você faça uso VPNs e Redes Anonimizadas, pode-se ainda quebrar a encriptação e aplicar ataques de correlação para perfilamento em requisições judiciais, por exemplo;</p> 
 
-<p>- <b>Sistemas Operacionais:</b> Com a excessão do Linux (que não captura dados ostensivamente, mas que possui diversas falhas de segurança), todos os outros sistemas operacionais possuem dossiês sobre você e capturam essas informações com o seu consentimento, sem você saber ou ter consciência. Assim como os serviços que você possui cadastro, eles possuem <b>Políticas de Privacidade</b> e <b>você as aceita porque é muito grande e cansativo de ler</b>. Então, eles coletam informações sobre seu dispositivo, localização, voz, hábitos de navegação, histórico de acesso, bem como a criação de identificadores únicos e de perfilamento;</p> 
-
-<p>- <b>Sites e Motores de Buscas (Google, Bing, Yandex):</b> 
+<p>- <b>Sistemas Operacionais:</b> Com a exceção do Linux (que não captura dados ostensivamente, mas que possui diversas falhas de segurança), todos os outros sistemas operacionais possuem dossiês sobre você e capturam essas informações com o seu consentimento, sem você saber ou ter consciência. Assim como os serviços que você possui cadastro, eles possuem <b>Políticas de Privacidade</b> e <b>você as aceita porque é muito grande e cansativo de ler</b>. Então, eles coletam informações sobre seu dispositivo, localização, voz, hábitos de navegação, histórico de acesso, bem como a criação de identificadores únicos e de perfilamento;</p> 
 
 <p>- <b>Serviços e Aplicativos:</b>
 
-
+<p><b><h3>3.1 Tópico Dedicado a Sites, Navegadores e Motores de Buscas:</h3></b><br>
 
 
 
@@ -156,7 +154,7 @@ O <b>Five Eyes</b> é um acordo que visa a cooperação de inteligência entre a
 
 -------------------------------------------------------------------------------------------------
 <p><b><h3>Encriptação de DNS:</h3></b><br>
-DNS-over-HTTPS, DNS-over-TLS, DNSCrypt e Anonymized DNSCrypt não vai te fazer anônimo. Usar DNSs "anonimizados" apenas esconde o seu tráfego de DNS do seu ISP. Porém, utilizando esses protocolos pode ser uma forma de prevenção de DNS Hijacking e fazer com que suas requisições de DNS sejam mais difícies de serem "ouvidas" por terceiros.
+DNS-over-HTTPS, DNS-over-TLS, DNSCrypt e Anonymized DNSCrypt não vai te fazer anônimo. Usar DNSs "anonimizados" apenas esconde o seu tráfego de DNS do seu ISP. Porém, utilizando esses protocolos pode ser uma forma de prevenção de DNS Hijacking e fazer com que suas requisições de DNS sejam mais difíceis de serem "ouvidas" por terceiros.
 
 - DNS-over-TLS (DoT): Protocolo de segurança para a encriptação de DNS, dedicado na porta 853. 
 - DNS-over-HTTPS (DoH): Similar ao DoT, porém utiliza HTTPS, sendo indistinguível do tráfego normal na porta 443 e sendo mais difícil de bloquear. Porém, DoH contém metadados (Ex.: user-agent) que é enviado ao servidor do DNS.
@@ -250,11 +248,33 @@ DNS-over-HTTPS, DNS-over-TLS, DNSCrypt e Anonymized DNSCrypt não vai te fazer a
 <p>- <b>First Node Attack:</b> 
 
 
+Segundo o W3Techs, apenas 21,6% dos sites possuem HSTS, o que facilita o ssl strip para ataques mitm
+
 - Monitoramento Passivo: Quando um cibercriminoso simplesmente recolhe informações do tráfego do utilizador, com ou sem encriptação;
 - Sequestro de DNS: Quado o cibercriminoso redireciona o tráfego do usuário para um servidor comprometido;
 - Ataque de Correlação de Tráfego / Ataque de Confirmação E2E: 
 - Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
 
+- DDoS + Reset
+- Authentication request over http / unauthorized access / arbitrary file deletion / remote execution
+- remote command execution / web based code execution / arbitrary code execution / authentication bypass
+- memory overflow
+- local overwrite vpn profiles / disconnect legitimate ipsec von sessions / digital signature bypass / access protected resources / session hijacking / lfi
+- extração de credenciais openvpn via dump de memoria
+
+- atualizar o firmware do hardware da vpn
+- aplicar correções de segurança sobre o hardware da vpn
+- bloquear todos os serviços que não estão em uso
+- manter logs apropriados para analises
+- atualizar o cliente da vpn
+- implementar ipv6 ao inves de ipv4
+- 2fa
+- monitorar a largura de banda da rede, transmissão de pacotes de rede, com status da conexão
+- analisar o padrão de comportamento baseado na duração, hosts acessados, fluxo de transmissão de dados, ip geo location
+- implementar protocolos de tunelamento atualizados e protocolos somente para transmissão de dados
+- manter sessões com encriptação tls 
+
+----
 Ah, você quer aprender a hackear instagram, facebook, e-mails e carteiras de bitcoin? Solicite as apostilas mandando mensagem para (48) 98844-0011 (WhatsApp/Telegram)
 
 <p>_________________________________________________________________________________________________________________</p>
