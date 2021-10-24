@@ -12,7 +12,7 @@ author:
 <p>De certa forma, podemos alcançar certos níveis de segurança, anonimato e privacidade, mas isso nunca será algo infalível ou "100%". Por exemplo, <a href="https://cybernews.com/news/">toda semana saem diversas notícias de empresas que tiveram seus dados expostos ou que revelaram falhas de segurança esdrúxulas</a> e isso apenas demonstra que <i>não importa o tamanho ou capital destinado a segurança da sua empresa</i>, <b>ela sempre estará vulnerável</b>. O que antes o foco era ter as melhores tecnologias disponíveis para evitar intrusos, hoje é ter o melhor plano de recuperação para minimizar as perdas, pois o sistema será um alvo de intrusão mais cedo ou mais tarde.</p>
 
 <p> </p>
------------------------------------------------------------------------
+
 <p><b><h3>1. Threat Modeling - Modelagem de Ameaças:</h3></b><br>
 Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar proteger nossos dados do mau uso das empresas e invasores, é inviável e muito exaustivo. Como dito anteriormente, segurança é uma prática que precisa de planejamento e não é somente pensando em ataques maliciosos, é sobre entender as ameaças e quais as contra-medidas disponíveis para minimizar o dano.</p>
 <p> </p>
@@ -29,44 +29,52 @@ Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar p
 <p> </p>
 <p>Tendo consciência dessas diferenças, agora você precisa saber o que deve proteger, de quem proteger e como proteger</b>. Esse processo é chamado de <b>Threat Modeling (Modelagem de Ameaças):</b></p>
 <p> </p>
-<p>- <b>O que eu tenho no meu dispositivo (ativos) vale a pena proteger?:</b> O que pode incluir seus e-mails, contatos, mensagens, documentos, arquivos de mídia, MFA, pornografia, torrents, leaks, exploits;</p>
-<p>- <b>De quem eu quero proteger?:</b> Qualquer pessoa ou entidade que representa uma ameaça é seu adversário. Ex.: Governo, criminosos, chefes, ex-companheiros, concorrentes comerciais, família, instituições de ensino;</p>
-<p>- <b>Se eu falhar em proteger meus dados, as consequências serão muito ruins?</b> Existem diversas maneiras, táticas e motivações para que um adversário queira obter acesso aos seus dados. Por isso devemos nos atentar sobre quais recursos disponíveis esse adversário possui, como grampear ou performar engenharia social em sua linha telefônica, ler sua atividade na Internet, sequestrar seu DNS, enviar phishing, quebrar suas senhas...;</p>
-<p>- <b>Quais são os riscos?</b> A avaliação de riscos é algo pessoal e subjetivo. Muitas pessoas consideram certas ameaças inaceitáveis, independente da probabilidade de ocorrer. Em outros casos as pessoas desconsideram ameaças de alto risco pois não as vêem como um problema. Então, existe uma grande diferença entre o que pode acontecer e a probabilidade de que possa acontecer, a questão é você decidir sobre o que é tolerável, inofensivo ou difícil de combater, com aquilo que realmente pode te prejudicar. Ex.: Embora sua farmácia saiba que você usa Tadalafil desde os 16 anos, o risco de eles postarem esses dados online para te prejudicar é baixo;</p> 
-<p>- <b>O quanto estarei disposto para evitar as consequências potenciais?</b> Nem todos tem as mesmas prioridades, preocupações ou acesso a recursos e isso faz com que não existam opções perfeitas para segurança. É importante se atentar quais ameaças afetam sua áreas de interesse (financeira, saúde, social) e descobrir quais são as melhores opções disponíveis para ajudar a mitigar essas ameaças.</p>
+<p>- <b>"O que eu tenho no meu dispositivo (ativos) vale a pena proteger?":</b> O que pode incluir seus e-mails, contatos, mensagens, documentos, arquivos de mídia, MFA, pornografia, torrents, leaks, exploits;</p>
+<p>- <b>"De quem eu quero proteger?":</b> Qualquer pessoa ou entidade que representa uma ameaça é seu adversário. Ex.: Governo, criminosos, chefes, ex-companheiros, concorrentes comerciais, família, instituições de ensino;</p>
+<p>- <b>"Se eu falhar em proteger meus dados, as consequências serão muito ruins?":</b> Existem diversas maneiras, táticas e motivações para que um adversário queira obter acesso aos seus dados. Por isso devemos nos atentar sobre quais recursos disponíveis esse adversário possui, como grampear ou performar engenharia social em sua linha telefônica, ler sua atividade na Internet, sequestrar seu DNS, enviar phishing, quebrar suas senhas...;</p>
+<p>- <b>"Quais são os riscos?":</b> A avaliação de riscos é algo pessoal e subjetivo. Muitas pessoas consideram certas ameaças inaceitáveis, independente da probabilidade de ocorrer. Em outros casos as pessoas desconsideram ameaças de alto risco pois não as vêem como um problema. Então, existe uma grande diferença entre o que pode acontecer e a probabilidade de que possa acontecer, a questão é você decidir sobre o que é tolerável, inofensivo ou difícil de combater, com aquilo que realmente pode te prejudicar. Ex.: <i>Embora sua farmácia saiba que você usa Tadalafil desde os 16 anos, o risco de eles postarem esses dados online para te prejudicar é baixo</i>;</p> 
+<p>- <b>"O quanto estarei disposto para evitar as consequências potenciais?":</b> Nem todos tem as mesmas prioridades, preocupações ou acesso a recursos e isso faz com que não existam opções perfeitas para segurança. É importante se atentar quais ameaças afetam sua áreas de interesse (financeira, saúde, social) e descobrir quais são as melhores opções disponíveis para ajudar a mitigar essas ameaças.</p>
 <p> <p>
 <p>Sabendo que cada pessoa terá suas prioridades e o noção sobre quais ativos merecem uma melhor proteção, <b>nem tudo o que é feito propaganda no mercado serve para todos os casos e isso na maioria das vezes pode prejudicar quem não tem conhecimento</b>. VPNs e Redes Anonimizadas são exemplos de recursos que grande parte do público geral não precisa, pois novamente, segurança não é um produto e sim boas práticas.</p>
 
 <p>Por não haver de fato o conceito de "100% segurança", também não podemos alcançar bons níveis de privacidade e anonimato, até porque são duas coisas diferentes e são aplicadas em casos diferentes.</p> 
 
 <p> </p>
------------------------------------------------------------------------
+
 <p><b><h3>2. Qual a diferença entre Privacidade e Anonimato:</h3></b><br>
 <p>Mesmo que tenhamos nossos direitos de privacidade garantidos por lei e a revogação do direito de anonimato (com razão, na maioria das vezes), seja na <a href="https://www.jusbrasil.com.br/topicos/10641516/artigo-5-da-constituicao-federal-de-1988">Constituição Federal (art. 5.º, inciso X)</a>, no <a href="http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm">Marco Civil da Internet</a> e na <a href="https://galvaoesilvaadvocacia.jusbrasil.com.br/artigos/834170468/lei-gdpr-em-portugues">GDPR</a>/<a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm">LGPD</a>, isso funciona muito pouco na prática e está aberto para quem quiser fazer mal uso.</p>
 
-<p>- <b>Privacidade:</b> O adversário sabe quem é você, mas não sabe o que você está fazendo. O que pode revelar a sua identidade real, dependendo dos recursos e registros disponíveis. Você depende da confiança de terceiros sobre a responsabilidade para com seus dados.</p>
+<p><b>Privacidade</b><br>
+O adversário sabe quem é você (endereço de origem), mas não sabe o que você está fazendo (as informações trocadas entre você e o servidor são ocultas). Dependendo do tipo de criptografia e o protocolo de comunicação utilizado, suas informações podem ser reveladas dependendo dos recursos e registros disponíveis. Para você ter privacidade, você depende da confiança de terceiros sobre a responsabilidade para com seus dados.</p>
 
-<p>- <b>Anonimato:</b> O adversário sabe o que você está fazendo, mas não sabe quem você é. Você pode mostrar tudo o que faz, pois os registros não são identificáveis por metodologias tradicionais. Somente você tem a responsabilidade sobre seus dados, não os deixando em mãos de terceiros.</p>
+<p><b>Anonimato</b><br>
+O adversário sabe o que você está fazendo (através de logs), mas não sabe quem você é (endereço de origem mascarado). Partindo do princípio que todas as informações trocadas são registradas a todo momento, somente você tem a responsabilidade pelos seus dados e de tornar esses registros não identificáveis por metodologias tradicionais. Mas isso não o deixa a prova de Ataques de Correlação, por exemplo.<br>
+Pensando em somente proteger interesses próprios, muitas pessoas defendem o direito ao anonimato, principalmente cibercriminosos. Mas será que quando elas sofrerem Doxxing ou ataques de Ransomware, DDos e Spear Phishing, elas ainda irão lutar por esse direito?</p> 
 
-<p>Mas, ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. A única forma de você garantir o seu anonimato é você mesmo. Os serviços disponíveis no mercado público e marketados em massa podem até garantir um certo nível de privacidade, mas eles não estarão imunes a maliciosidades. Anonimato é algo necessário em casos extremos, como para serviços de inteligência do governo, alguns jornalistas e pessoas em países com ditadura e forte censura. Mas se não for para razões extremas, o anonimato é totalmente dispensável.</p>
-<p>Na real, não importa se você utiliza <i>DuckDuckGo, AdBlocker, Máquinas Virtuais, Tor, ProtonMail, Whonix, Tails no pendrive</i> ou tudo isso junto, <b>você sempre deixará um rastro independente das ferramentas que você utilizar e provavelmente o seu padrão de comportamento só facilitará a criação um identificador único</b>.<br>  
+<p>Ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. A única forma de você garantir o seu anonimato é você mesmo. Os serviços disponíveis no mercado público e marketados em massa podem até garantir um certo nível de privacidade, mas eles não estarão imunes a maliciosidades. Anonimato é algo necessário em casos extremos, como para serviços de inteligência do governo, alguns jornalistas e pessoas em países com ditadura e forte censura. Mas se não for para razões extremas, o anonimato é totalmente dispensável.</p>
+<p>Na real, não importa se você utiliza <i>Proxychains, DuckDuckGo, Máquinas Virtuais, Tor, ProtonMail, Whonix, Tails no pendrive</i> ou tudo isso junto (sei lá como), <b>você sempre deixará um rastro independente das ferramentas que você utilizar e provavelmente o seu padrão de comportamento só facilitará a criação um identificador único</b>.<br> 
 
 <p> </p>
------------------------------------------------------------------------
-<p><b><h3>3. Como e quais informações são coletadas sobre você na Internet:</h3></b><br>
+
+<p><b><h3>3. Quais informações são coletadas sobre você na Internet?</h3></b><br>
 
 <p>- <b>Governo e Serviços Essenciais:</b> Além dos documentos básicos para que você seja contabilizado como um ser-humano, o governo pode requirir intervenção judicial em qualquer serviço que você utilizar, com ou sem consentimento. Então não há muita escapatória;</p>
 
-<p>- <b>Criminosos:</b> Assim como o governo, porém de forma ilegal, os criminosos também podem obter quaisquer dados que eles quiserem. Seja através de engenharia social, malwares, invasões tradicionais... As possibilidades são infinitas e a única forma de combater é com boas práticas de segurança;<br>
+<p>- <b>Criminosos:</b> Assim como o governo, porém de forma ilegal, os criminosos também podem obter quaisquer dados que eles quiserem. Seja através de engenharia social, malwares, invasões tradicionais, ataques direcionados... As possibilidades são infinitas e a única forma de combater é com boas práticas de segurança;<br>
 
 <p>- <b>ISP (Provedor de Serviços de Internet):</b> Além dos seus dados cadastrais, seu provedor de Internet terá acesso a todo o seu tráfego de rede, podendo compartilhar com terceiros essas informações. Mesmo que os sites que você navega possuam encriptação ou você faça uso VPNs e Redes Anonimizadas, pode-se ainda quebrar a encriptação e aplicar ataques de correlação para perfilamento em requisições judiciais, por exemplo;</p> 
 
 <p>- <b>Sistemas Operacionais:</b> Com a exceção do Linux (que não captura dados ostensivamente, mas que possui diversas falhas de segurança), todos os outros sistemas operacionais possuem dossiês sobre você e capturam essas informações com o seu consentimento, sem você saber ou ter consciência. Assim como os serviços que você possui cadastro, eles possuem <b>Políticas de Privacidade</b> e <b>você as aceita porque é muito grande e cansativo de ler</b>. Então, eles coletam informações sobre seu dispositivo, localização, voz, hábitos de navegação, histórico de acesso, bem como a criação de identificadores únicos e de perfilamento;</p> 
 
 <p> </p>
------------------------------------------------------------------------
+
 <p><b><h3>4. Tópico Dedicado a Sites, Navegadores, Motores de Buscas, Serviços e Aplicativos:</h3></b><br>
-<p>Primeiramente, se você não lê a Política de Privacidade e os Termos de Contrato de um serviço que você utiliza, não adianta reclamar dos dados que eles capturam com o seu consentimento porque simplesmente você clicou em aceitar por preguiça.
+<p> Falando em GDPR/LGPD e Marco Civil da Internet, 
+
+
+<p>Primeiramente, se você não lê a <b>Política de Privacidade</b> e os <b>Termos de Uso</b> de um serviço que você utiliza, não adianta reclamar 
+
+ não adianta reclamar dos dados que eles capturam com o seu consentimento porque simplesmente você clicou em aceitar por preguiça.
 
 
 vpn - te dá privacidade, seu provedor não sabe o que você faz e até escondem seu endereço de ip. mas nada garante que a vpn não faça registros de suas atividades. não há garantia de anonimato pois você depende da confiança de algo ou alguém. nunca servirá para anonimato
@@ -310,6 +318,7 @@ Ah, você quer aprender a hackear instagram, facebook, e-mails e carteiras de bi
 - <a href="https://teachingprivacy.org/theres-no-anonymity/">There is no anonymity on the Internet</a><br>
 - <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
 - <a href="https://www.techradar.com/vpn/vpn-tunnels-explained-how-to-keep-your-internet-data-secure">VPN Tunnels explained: what are they and how can they keep your internet data secure</a><br>
+- <a href="https://www.internetlab.org.br/pt/privacidade-e-vigilancia/especial-apps-para-criancas-nao-leu-as-politicas-de-privacidade/">Não leu as políticas de privacidade dos aplicativos?</a><br>
 - <a href="https://www.whonix.org/wiki/Comparison_Of_Tor_with_CGI_Proxies,_Proxy_Chains,_and_VPN_Services">Tor vs. Proxies, Proxy Chains and VPNs</a><br>
 - <a href="https://pt.linkedin.com/pulse/maldito-ransomware-vpn-e-lgpd-nilson-vianna-m-sc-">Nilson Viana - Maldito Ransomware... VPN e LGPD</a><br>
 - <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
