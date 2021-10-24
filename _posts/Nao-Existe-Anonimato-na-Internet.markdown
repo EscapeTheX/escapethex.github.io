@@ -69,12 +69,22 @@ Pensando em somente proteger interesses próprios, muitas pessoas defendem o dir
 <p> </p>
 
 <p><b><h3>4. Tópico Dedicado a Sites, Navegadores, Motores de Buscas, Serviços e Aplicativos:</h3></b><br>
-<p> Falando em GDPR/LGPD e Marco Civil da Internet, 
+<p>Falando sobre GDPR/LGPD, qualquer empresa que queira reter alguma informação (dados que podem te identificar) sobre você, ela precisa do seu consentimento e na maioria das vezes isso é feito de forma implícita.<br>
+A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o <b>Cookie Banner</b>, em que apenas clicamos na caixinha de <b>"Aceitar"</b> por preguiça de ler ou configurar quais dados o consentimento será dado. Porém, mesmo operando dentro da legalidade utilizando políticas e banners, há outros métodos de retenção de dados que muitos serviços utilizam e raramente isso é expresso ou pedem a sua autorização.</p>
 
+<p>- <b>Registros de Servidor:</b>  
 
-<p>Primeiramente, se você não lê a <b>Política de Privacidade</b> e os <b>Termos de Uso</b> de um serviço que você utiliza, não adianta reclamar 
+<p>- <b>Trackers (Rastreadores):</b>
 
- não adianta reclamar dos dados que eles capturam com o seu consentimento porque simplesmente você clicou em aceitar por preguiça.
+<p>- <b>Cookies Primários:</b>
+
+<p>- <b>Cookies de Terceiros:</b>
+
+<p>- <b>Cookies de Sessão:</b> Permanece temporariamente durante a sessão no navegador, que desaparece após o encerramento do mesmo. Apesar de ser considerado menos intrusivo e não necessitar do consentimento explícito do usuário, ele captura dados de login, credenciais e o cache para garantir que as páginas carreguem mais rápido;</p>
+
+<p>- <b>Supercookies:</b>
+
+<p>- <b>Web Beacons:</b> São objetos invisíveis 
 
 
 vpn - te dá privacidade, seu provedor não sabe o que você faz e até escondem seu endereço de ip. mas nada garante que a vpn não faça registros de suas atividades. não há garantia de anonimato pois você depende da confiança de algo ou alguém. nunca servirá para anonimato
@@ -125,9 +135,9 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 <p> </p>
 -----------------------------------------------------------------------
 <p><b><h3>8. Protocolos Utilizados em VPNs:</h3></b><br>
-<p>- <b>TLS (Transport Layer Security)</b>: Protocolo com solução barata, de fácil implementação, com muitas vulnerabilidades e pouco conhecimento sobre mitigação. Projetado a nível de aplicação web <i>(fornece redirecionamento para aplicativos específicos e não para a rede inteira)</i>, provém um sistema de autenticação entre servidores/usuários e distribui direitos de acesso sem a necessidade de instalação de software. Além de suas vulnerabilidades, pode também haver problemas com compartilhamento de arquivos, backup e acesso a recursos de impressão.</p> 
+<p>- <b>TLS (Transport Layer Security)</b>: Protocolo com solução barata, de fácil implementação, com vulnerabilidades e pouco conhecimento sobre mitigação. Projetado a nível de aplicação web <i>(fornece redirecionamento para aplicativos específicos e não para a rede inteira)</i>, provém um sistema de autenticação entre servidores/usuários e distribui direitos de acesso sem a necessidade de instalação de software. Além de suas vulnerabilidades, pode também haver problemas com compartilhamento de arquivos, backup e acesso a recursos de impressão.</p> 
 
-<p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) com chaves de até 128-bit para fornecer a segurança dos dados, porém ele se tornou obsoleto devido as suas vulnerabilidades bem conhecidas. Mas, por apresentar uma conexão extremamente rápida, de alta compatibilidade, fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações. Acredito que o único uso atual do PPTP seja para acessar conteúdos bloqueados por região, já que o nível de segurança não importa.</p>
+<p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) com chaves de até 128-bit para fornecer a segurança dos dados, porém ele se tornou obsoleto devido as suas vulnerabilidades bem conhecidas. Mas, por apresentar uma conexão extremamente rápida, de alta compatibilidade e fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações. Acredito que o único uso atual do PPTP seja para acessar conteúdos bloqueados por região, já que o nível de segurança não importa.</p>
 
 <p>- <b>IPSec (Internet Protocol Security):</b> Faz o redirecionamento entre 
 
@@ -186,20 +196,16 @@ DNS-over-HTTPS, DNS-over-TLS, DNSCrypt e Anonymized DNSCrypt não vai te fazer a
 <p>É uma maneira de enviar o seu tráfego através do encadeamento de proxies públicas. Ao contrário das VPNs e da maioria das Redes Anonimizadas, o Proxychains não criptografa as conexões entre cada servidor de proxy. O que gera muita brecha para servidores com máquinas comprometidas, proxies privadas mas com o uso público devido a péssima configuração e honeypots para explorar os usuários.<br>
 Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidores na sua cadeia, seu destinatário final e também o endereço de IP na qual foi solicitado para receber o tráfego.</p> 
 
-<p>Se você procurar por Proxychains em algum mecanismo de buscas, os resultados irão variar entre "navegue anonimamente" e <s>cibercriminosos</s> pessoas buscando entender como isso funciona num Pentest.</p> 
-
 <p> </p>
 ------------------------------------------------
 <p><b><h3>15. Darknet e Redes Anonimizadas:</h3></b><br>
 
-<p> </p>
------------------------------------------------------------------------
-<p><b><h3>16. The Onion Route (Tor):</h3></b><br>
+<p><b>The Onion Route (Tor):</b><br>
 
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>17. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b><br>
+<p><b><h3>16. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b><br>
 
 <p><b><h4>Ataques de Negação de Serviço (DoS):</h4></b></p>
 
@@ -319,6 +325,7 @@ Ah, você quer aprender a hackear instagram, facebook, e-mails e carteiras de bi
 - <a href="https://www.computerworld.com.pt/2015/07/02/servicos-de-vpn-menos-seguros-do-que-se-pensava/">Serviços de VPN menos seguros do que se pensava</a><br>
 - <a href="https://www.techradar.com/vpn/vpn-tunnels-explained-how-to-keep-your-internet-data-secure">VPN Tunnels explained: what are they and how can they keep your internet data secure</a><br>
 - <a href="https://www.internetlab.org.br/pt/privacidade-e-vigilancia/especial-apps-para-criancas-nao-leu-as-politicas-de-privacidade/">Não leu as políticas de privacidade dos aplicativos?</a><br>
+- <a href="https://digiday.com/media/know-cookies-guide-internet-ad-trackers/">Know your cookies: A guide to internet ad trackers</a><br>
 - <a href="https://www.whonix.org/wiki/Comparison_Of_Tor_with_CGI_Proxies,_Proxy_Chains,_and_VPN_Services">Tor vs. Proxies, Proxy Chains and VPNs</a><br>
 - <a href="https://pt.linkedin.com/pulse/maldito-ransomware-vpn-e-lgpd-nilson-vianna-m-sc-">Nilson Viana - Maldito Ransomware... VPN e LGPD</a><br>
 - <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
