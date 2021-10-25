@@ -15,14 +15,15 @@ author:
 
 <p><b><h3>1. Threat Modeling - Modelagem de Ameaças:</h3></b><br>
 Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar proteger nossos dados do mau uso das empresas e invasores, é inviável e muito exaustivo. Como dito anteriormente, segurança é uma prática que precisa de planejamento e não é somente pensando em ataques maliciosos, é sobre entender as ameaças e quais as contra-medidas disponíveis para minimizar o dano.</p>
-<p> </p>
+<br>
 <p><b>Mas antes, precisamos saber a diferença entre Risco, Ameaça e Vulnerabilidade:</b></p>
+<br>
 <p><b>Risco:</b> É um nível de tolerância aplicado a todo evento negativo que traga impacto para infraestrutura (ambiente e ativos). Não existe a possibilidade de todos riscos serem totalmente eliminados, mas mantê-los num nível baixo, em que são conhecidos e administráveis. Os modelos tradicionais de Gerenciamento de Riscos e Vulnerabilidades adotam a visão de que "tudo é um risco", o que não é errado, só é um desperdício de recursos em não utilizar um sistema de Inteligência de Ameaças (Threat Intel) para isolar os principais riscos e reduzir seus perfis;</p>
 <p><b>Ameaça:</b> É todo evento potencial que pode prejudicar a maneira que você protege seus dados. Sempre há um vetor de entrada e uma possibilidade de se explorar através disso, sendo intencional ou acidental, ou ainda real ou simulado;</p>
 
 <p><center>
 <img src="/salamandra/tintel.jpg" alt="Modelo de Inteligência de Ameaças feito pela Kenna Security">
-<figcaption><i>Modelo de Inteligência de Ameaças feito pela Kenna Security</i></figcaption>
+<figcaption><h6>Modelo de Inteligência de Ameaças feito pela Kenna Security</h6></figcaption>
 </center></p>
 
 <p><b>Vulnerabilidade:</b> São pontos fracos sobre seu ambiente e ativos que abrem portas para ameaças potenciais e risco aumentado. Corrigir todas as vulnerabilidades de uma empresa não é viável, especialmente para aquelas que não treinam seus funcionários e ROI baixo. A priorização das vulnerabilidades baseadas em riscos, ou seja, aquelas mais fáceis de serem exploradas e que podem trazer mais prejuízos, desempenham um papel crucial, pois deixarão de desperdiçar recursos com vulnerabilidades que não apresentam ameaças reais.</p>
@@ -48,29 +49,28 @@ Aceitando o fato de que não existe "100% segurança" no mundo digital, tentar p
 O adversário sabe quem é você (endereço de origem), mas não sabe o que você está fazendo (as informações trocadas entre você e o servidor são ocultas). Dependendo do tipo de criptografia e o protocolo de comunicação utilizado, suas informações podem ser reveladas dependendo dos recursos e registros disponíveis. Para você ter privacidade, você depende da confiança de terceiros sobre a responsabilidade para com seus dados.</p>
 
 <p><b>Anonimato</b><br>
-O adversário sabe o que você está fazendo (através de logs), mas não sabe quem você é (endereço de origem mascarado). Partindo do princípio que todas as informações trocadas são registradas a todo momento, somente você tem a responsabilidade pelos seus dados e de tornar esses registros não identificáveis por metodologias tradicionais. Mas isso não o deixa a prova de Ataques de Correlação, por exemplo.<br>
-Pensando em somente proteger interesses próprios, muitas pessoas defendem o direito ao anonimato, principalmente cibercriminosos. Mas será que quando elas sofrerem Doxxing ou ataques de Ransomware, DDos e Spear Phishing, elas ainda irão lutar por esse direito?</p> 
+O adversário sabe o que você está fazendo (comportamento de rede), mas não sabe quem você é (endereço de origem mascarado). Partindo do princípio que todas as informações trocadas são registradas a todo momento, somente você tem a responsabilidade pelos seus dados e de tornar esses registros não identificáveis por metodologias tradicionais. Mas isso não o deixa a prova de Ataques de Correlação, por exemplo.<br>
 
-<p>Ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. A única forma de você garantir o seu anonimato é você mesmo. Os serviços disponíveis no mercado público e marketados em massa podem até garantir um certo nível de privacidade, mas eles não estarão imunes a maliciosidades. Anonimato é algo necessário em casos extremos, como para serviços de inteligência do governo, alguns jornalistas e pessoas em países com ditadura e forte censura. Mas se não for para razões extremas, o anonimato é totalmente dispensável.</p>
+<p>Contudo, ao contrário do que muitos serviços pregam em quesito de privacidade, com aquelas propagandas chamativas de <i>"navegue anonimamente"</i>, <b>não existe nenhum recurso que possibilite o anonimato na Internet</b>. A única forma de você garantir o seu anonimato é você mesmo. Os serviços disponíveis no mercado público e marketados em massa podem até garantir um certo nível de privacidade, mas eles não estarão imunes a maliciosidades. Anonimato é algo necessário em casos extremos, como para serviços de inteligência do governo, alguns jornalistas e pessoas em países com ditadura e forte censura. Mas se não for para razões extremas, o anonimato é totalmente dispensável.</p>
 <p>Na real, não importa se você utiliza <i>Proxychains, DuckDuckGo, Máquinas Virtuais, Tor, ProtonMail, Whonix, Tails no pendrive</i> ou tudo isso junto (sei lá como), <b>você sempre deixará um rastro independente das ferramentas que você utilizar e provavelmente o seu padrão de comportamento só facilitará a criação um identificador único</b>.<br> 
 
 <p> </p>
 
 <p><b><h3>3. Quais informações são coletadas sobre você na Internet?</h3></b><br>
 
-<p>- <b>Governo e Serviços Essenciais:</b> Além dos documentos básicos para que você seja contabilizado como um ser-humano, o governo pode requirir intervenção judicial em qualquer serviço que você utilizar, com ou sem consentimento. Então não há muita escapatória;</p>
+<p><b>Governo e Serviços Essenciais:</b> Além dos documentos básicos para que você seja contabilizado como um ser-humano, o governo pode requirir intervenção judicial em qualquer serviço que você utilizar, com ou sem consentimento. Então não há muita escapatória;</p>
 
-<p>- <b>Criminosos:</b> Assim como o governo, porém de forma ilegal, os criminosos também podem obter quaisquer dados que eles quiserem. Seja através de engenharia social, malwares, invasões tradicionais, ataques direcionados... As possibilidades são infinitas e a única forma de combater é com boas práticas de segurança;<br>
+<p><b>Criminosos:</b> Assim como o governo, porém de forma ilegal, os criminosos também podem obter quaisquer dados que eles quiserem. Seja através de engenharia social, malwares, invasões tradicionais, ataques direcionados... As possibilidades são infinitas e a única forma de combater é com boas práticas de segurança;<br>
 
-<p>- <b>ISP (Provedor de Serviços de Internet):</b> Além dos seus dados cadastrais, seu provedor de Internet terá acesso a todo o seu tráfego de rede, podendo compartilhar com terceiros essas informações. Mesmo que os sites que você navega possuam encriptação ou você faça uso VPNs e Redes Anonimizadas, pode-se ainda quebrar a encriptação e aplicar ataques de correlação para perfilamento em requisições judiciais, por exemplo;</p> 
+<p><b>ISP (Provedor de Serviços de Internet):</b> Além dos seus dados cadastrais, seu provedor de Internet terá acesso a todo o seu tráfego de rede, podendo compartilhar com terceiros essas informações. Mesmo que os sites que você navega possuam encriptação ou você faça uso VPNs e Redes Anonimizadas, pode-se ainda quebrar a encriptação e aplicar ataques de correlação para perfilamento em requisições judiciais, por exemplo;</p> 
 
-<p>- <b>Sistemas Operacionais:</b> Com a exceção do Linux (que não captura dados ostensivamente, mas que possui diversas falhas de segurança), todos os outros sistemas operacionais possuem dossiês sobre você e capturam essas informações com o seu consentimento, sem você saber ou ter consciência. Assim como os serviços que você possui cadastro, eles possuem <b>Políticas de Privacidade</b> e <b>você as aceita porque é muito grande e cansativo de ler</b>. Então, eles coletam informações sobre seu dispositivo, localização, voz, hábitos de navegação, histórico de acesso, bem como a criação de identificadores únicos e de perfilamento;</p> 
+<p><b>Sistemas Operacionais:</b> Com a exceção do Linux (que não captura dados ostensivamente, mas que possui diversas falhas de segurança), todos os outros sistemas operacionais possuem dossiês sobre você e capturam essas informações com o seu consentimento, sem você saber ou ter consciência. Assim como os serviços que você possui cadastro, eles também possuem <b>Políticas e Termos</b>, o que lhes dá o direito de coletar informações sobre seu dispositivo, localização, voz, hábitos de navegação, histórico de acesso, bem como a criação de identificadores únicos e de perfilamento;</p> 
 
 <p> </p>
 
 <p><b><h3>4. Tópico Dedicado a Sites, Navegadores, Motores de Buscas, Serviços e Aplicativos:</h3></b><br>
 <p>Falando sobre GDPR/LGPD, qualquer empresa que queira reter alguma informação (dados que podem te identificar) sobre você, ela precisa do seu consentimento e na maioria das vezes isso é feito de forma implícita.<br>
-A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o <b>Cookie Banner</b>, em que apenas clicamos na caixinha de <b>"Aceitar"</b> por preguiça de ler ou configurar quais dados o consentimento será dado. Porém, mesmo operando dentro da legalidade utilizando políticas e banners, há outros métodos de retenção de dados que muitos serviços utilizam e raramente isso é expresso ou pedem a sua autorização.</p>
+A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o <b>Cookie Banner</b>, em que apenas clicamos na caixinha de <b>"Aceitar"</b> por preguiça de ler ou configurar quais dados o consentimento será dado. Porém, mesmo operando dentro da legalidade utilizando políticas e banners, há outros métodos de retenção de dados que muitos serviços utilizam e raramente isso é expresso ou pedem a sua autorização. Exemplos:</p>
 
 <p>- <b>Registros de Servidor:</b>  
 
@@ -88,37 +88,46 @@ A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o 
 
 <p> </p>
 -----------------------------------------------------------------------------------
-<p><b><h3>5. O que é VPN e como funciona?</h3></b><br>
-O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo <b>as VPNs tornaram-se errôneamente um sinônimo de anonimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. 
+<p><b><h3>5. Ferramentas Auxiliares para Privacidade / Anonimato:</h3></b><br>
 
-<p>De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, a maioria as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não fique visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>6. Diferença entre Proxy, VPN, VPS, VPC e Navegador Baseado em Nuvem:</h3></b><br>
-<p>- <b>Proxy:</b>
+<p><b><h3>6. Diferença entre Proxy, VPS, VPC, Encriptação de DNS e Navegador Baseado em Nuvem:</h3></b><br>
+<p>- <b>Proxy:</b> É um servidor intermediário 
 
-<p>- <b>VPN:</b>
+<p>- <b>Proxy Reverso:</b>
+
+<p>- <b>Proxychains:</b> É uma maneira de enviar o seu tráfego através do encadeamento de proxies públicas. Ao contrário das VPNs e da maioria das Redes Anonimizadas, o Proxychains não criptografa as conexões entre cada servidor de proxy. O que gera muita brecha para servidores com máquinas comprometidas, proxies privadas mas com o uso público devido a péssima configuração e honeypots para explorar os usuários. Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidores na sua cadeia, seu destinatário final e também o endereço de IP na qual foi solicitado para receber o tráfego.</p> 
 
 <p>- <b>VPS (Virtual Private Server):</b>
 
 <p>- <b>VPC (Virtual Private Cloud):</b>
 
+<p>- <b>Encriptação de DNS:</b>
+
 <p>- <b>Navegador Baseado em Nuvem:</b>
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>7. Tipos de VPNs:</h3></b><br>
+<p><b><h3>7. O que é e como funciona uma VPN?</h3></b><br>
+O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo <b>as VPNs tornaram-se erroneamente um sinônimo de anonimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. 
+
+<p>De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, a maioria as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não fique visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
+
+<p> </p>
+
+<p><b><h3>8. Tipos de VPNs:</h3></b><br>
 
 <p>- <b>Acesso Remoto:</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
 
-<p>- <b>Acesso Intranet:</b> Normalmente utilizada para trabalho, onde a VPN cria uma conexão com vários dispositivos juntos e permite que o empregado possa trabalhar de diversas localidades do mundo. Uma VPN Intranet cria essa conexão mas permite que vários dispositivos conectem-se diretamente sem encriptação.</p>
+<p>- <b>Acesso Intranet:</b> Normalmente utilizada para trabalho, onde a VPN cria uma conexão com vários dispositivos juntos e permite que o empregado possa trabalhar de diversas localidades do mundo.</p>
 
 <p>- <b>Acesso Extranet:</b> Utilizada normalmente em projetos colaborativos, onde a VPN cria uma conexão entre duas Intranets separadas e permite que os usuários se comuniquem diretamente.</p>
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>8. Protocolos Utilizados em VPNs:</h3></b><br>
+<p><b><h3>9. Protocolos Utilizados em VPNs:</h3></b><br>
 <p>- <b>TLS (Transport Layer Security)</b>: Protocolo com solução barata, de fácil implementação, com vulnerabilidades e pouco conhecimento sobre mitigação. Projetado a nível de aplicação web <i>(fornece redirecionamento para aplicativos específicos e não para a rede inteira)</i>, provém um sistema de autenticação entre servidores/usuários e distribui direitos de acesso sem a necessidade de instalação de software. Além de suas vulnerabilidades, pode também haver problemas com compartilhamento de arquivos, backup e acesso a recursos de impressão.</p> 
 
 <p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) com chaves de até 128-bit para fornecer a segurança dos dados, porém ele se tornou obsoleto devido as suas vulnerabilidades bem conhecidas. Mas, por apresentar uma conexão extremamente rápida, de alta compatibilidade e fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações. Acredito que o único uso atual do PPTP seja para acessar conteúdos bloqueados por região, já que o nível de segurança não importa.</p>
@@ -137,7 +146,7 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>9. Pontos Positivos e Utilidades das VPNs:</h3></b><br>
+<p><b><h3>10. Pontos Positivos e Utilidades das VPNs:</h3></b><br>
 
 <p>- <b>Privacidade:</b> Provavelmente esse é o principal motivo das pessoas estarem utilizando tantos serviços de VPNs atualmente. 
 
@@ -147,11 +156,11 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>10. Pontos Negativos e o Grande Problema das VPNs:</h3></b><br>
+<p><b><h3>11. Pontos Negativos e o Grande Problema das VPNs:</h3></b><br>
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>11. Alianças de Inteligência:</h3></b><br>
+<p><b><h3>12. Alianças de Inteligência:</h3></b><br>
 Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a localização de cada provedor e servidor do país de origem e destino. Pois, mesmo que a Política de Privacidade do serviço tenha a propaganda de <i>"no-logs"</i>, os serviços de inteligência de cada país têm total liberdade para espiar o seu tráfego. 
 
 <p><b>Five Eyes</b><br>
@@ -159,27 +168,17 @@ Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a loc
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>12. Encriptação de DNS:</h3></b><br>
-
-<p> </p>
-------------------------------------------------
 <p><b><h3>13. Honeypots e DMZ:</h3></b><br>
 
 <p> </p>
------------------------------------------------------------------------
-<p><b><h3>14. Proxychains:</h3></b><br>
-<p>É uma maneira de enviar o seu tráfego através do encadeamento de proxies públicas. Ao contrário das VPNs e da maioria das Redes Anonimizadas, o Proxychains não criptografa as conexões entre cada servidor de proxy. O que gera muita brecha para servidores com máquinas comprometidas, proxies privadas mas com o uso público devido a péssima configuração e honeypots para explorar os usuários.<br>
-Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidores na sua cadeia, seu destinatário final e também o endereço de IP na qual foi solicitado para receber o tráfego.</p> 
-
-<p> </p>
 ------------------------------------------------
-<p><b><h3>15. Darknet e Redes Anonimizadas:</h3></b><br>
+<p><b><h3>14. Darknet e Redes Anonimizadas:</h3></b><br>
 
 <p><b>The Onion Route (Tor):</b><br>
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>16. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b><br>
+<p><b><h3>15. Técnicas e Ataques a Redes Anônimas e VPNs:</h3></b><br>
 
 <p><b><h4>Ataques de Negação de Serviço (DoS):</h4></b></p>
 
