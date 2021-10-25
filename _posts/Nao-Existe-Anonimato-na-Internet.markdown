@@ -86,22 +86,6 @@ A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o 
 
 <p>- <b>Web Beacons:</b> São objetos invisíveis 
 
-
-vpn - te dá privacidade, seu provedor não sabe o que você faz e até escondem seu endereço de ip. mas nada garante que a vpn não faça registros de suas atividades. não há garantia de anonimato pois você depende da confiança de algo ou alguém. nunca servirá para anonimato
-tor - se você seguir as boas praticas de segurança, te dá um certo anonimato. mas ainda sim você depende de um serviço para não ser identificado.
-na internet somos todos anonimos em relação um aos outros, não há privacidade quando eu posto algo pois todos podem ler. 
-saber o nome certo, se você já luta por algum deles, não vai mudar em nada. talvez só mais um pouco de consciencia sobre os mecanismos que voce usa e da utilidade de cada um, de acordo com seus objetivos e necessidades. saber usar o que é necessário e apenas o necessário
-temos anonimato no sentido tradicional de não ter como saber quem é quem. mas nos métodos técnicos, ninguém é anonimo.
-
-
-
-Então, se você utiliza um serviço que promete "100% anonimato" e ele registra seu tráfego, requisição de DNS, timestamp, faz fingerprint, você está apenas "trocando 6 por meia dúzia". 
-
- mas com certeza você que usa Tor-over-VPN está mais seguro que essas empresas. (contém ironia). 
-Dentro da Segurança da Informação não existe o conceito de algo que possa estar "100% seguro". Você pode ter os melhores equipamentos e os melhores serviços, mas isso não quer dizer que seu sistema esteja seguro, apenas quer dizer que ninguém teve interesse suficiente para invadir.
- Então, porque serviços fazem estratégias de marketing baseadas em frases "100% anonimato" ou "100% privacidade"?
-
-
 <p> </p>
 -----------------------------------------------------------------------------------
 <p><b><h3>5. O que é VPN e como funciona?</h3></b><br>
@@ -164,27 +148,18 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 <p> </p>
 -----------------------------------------------------------------------
 <p><b><h3>10. Pontos Negativos e o Grande Problema das VPNs:</h3></b><br>
-Por mais que o seu tráfego seja redirecionado entre 40 servidores intermediários e criptografado com uma cifra de 32768-bits, isso de forma alguma é sinônimo de privacidade. Apenas significa que alguém terá um pouco mais de trabalho para te encontrar. Além de que, o servidor da sua VPN poderá registrar todo o seu tráfego e você não terá como saber disso.<br>
-A verdade é que, se você for um criminoso, mais cedo ou mais tarde irão te prender. E se você for uma pessoa normal, seus dados serão vendidos. Simples.</p>
-
-<p>Falando sério agora, as VPNs conseguem ver todo o seu tráfego e isso nem sempre está explícito nas suas Políticas.</p>Sinceramente, <b>quantas vezes você chegou a ler a Política de Privacidade de algum serviço que você utiliza?</b> Será que a política de <b><i>"no-logs"</i></b> também se aplica a timestamps, metadados, cookies e web beacons? Será que com essas informações "anônimas" não seria possível traçar um perfil? Como você sabe que está acessando de fato o servidor de uma VPN e não num honeypot ou sofrendo com Sequestro de DNS ou MITM?
 
 <p> </p>
 -----------------------------------------------------------------------
 <p><b><h3>11. Alianças de Inteligência:</h3></b><br>
 Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a localização de cada provedor e servidor do país de origem e destino. Pois, mesmo que a Política de Privacidade do serviço tenha a propaganda de <i>"no-logs"</i>, os serviços de inteligência de cada país têm total liberdade para espiar o seu tráfego. 
 
-O <b>Five Eyes</b> é um acordo que visa a cooperação de inteligência entre a Austrália, Nova Zelândia, Canadá, Reino Unido e Estados Unidos.
+<p><b>Five Eyes</b><br>
+É um acordo que visa a cooperação de inteligência entre a Austrália, Nova Zelândia, Canadá, Reino Unido e Estados Unidos.
 
 <p> </p>
 -----------------------------------------------------------------------
 <p><b><h3>12. Encriptação de DNS:</h3></b><br>
-DNS-over-HTTPS, DNS-over-TLS, DNSCrypt e Anonymized DNSCrypt não vai te fazer anônimo. Usar DNSs "anonimizados" apenas esconde o seu tráfego de DNS do seu ISP. Porém, utilizando esses protocolos pode ser uma forma de prevenção de DNS Hijacking e fazer com que suas requisições de DNS sejam mais difíceis de serem "ouvidas" por terceiros.
-
-- DNS-over-TLS (DoT): Protocolo de segurança para a encriptação de DNS, dedicado na porta 853. 
-- DNS-over-HTTPS (DoH): Similar ao DoT, porém utiliza HTTPS, sendo indistinguível do tráfego normal na porta 443 e sendo mais difícil de bloquear. Porém, DoH contém metadados (Ex.: user-agent) que é enviado ao servidor do DNS.
-- DNSCrypt: Protocolo de encriptação antigo que utiliza conexões TCP/UDP baseado em autenticação de certificados.
-- Anonymized DNSCrypt: É uma implementação sobre o DNSCrypt que esconde o endereço de IP do cliente utilizando de nós pré-configurados para redirecionar o tráfego de DNS criptografado. Criado em 2019, seu suporte ainda é muito limitado.
 
 <p> </p>
 ------------------------------------------------
@@ -201,7 +176,6 @@ Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidore
 <p><b><h3>15. Darknet e Redes Anonimizadas:</h3></b><br>
 
 <p><b>The Onion Route (Tor):</b><br>
-
 
 <p> </p>
 -----------------------------------------------------------------------
@@ -281,35 +255,6 @@ Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidore
 
 <p>- <b>First Node Attack:</b> 
 
-
-Segundo o W3Techs, apenas 21,6% dos sites possuem HSTS, o que facilita o ssl strip para ataques mitm
-
-- Monitoramento Passivo: Quando um cibercriminoso simplesmente recolhe informações do tráfego do utilizador, com ou sem encriptação;
-- Sequestro de DNS: Quado o cibercriminoso redireciona o tráfego do usuário para um servidor comprometido;
-- Ataque de Correlação de Tráfego / Ataque de Confirmação E2E: 
-- Devido a uma vulnerabilidade conhecida como "IPv6 Leakage", até as melhores VPNs disponíveis no mercado podem expor o usuário. Normalmente as VPNs só protegem o tráfego de IPv4.
-
-- DDoS + Reset
-- Authentication request over http / unauthorized access / arbitrary file deletion / remote execution
-- remote command execution / web based code execution / arbitrary code execution / authentication bypass
-- memory overflow
-- local overwrite vpn profiles / disconnect legitimate ipsec von sessions / digital signature bypass / access protected resources / session hijacking / lfi
-- extração de credenciais openvpn via dump de memoria
-
-- atualizar o firmware do hardware da vpn
-- aplicar correções de segurança sobre o hardware da vpn
-- bloquear todos os serviços que não estão em uso
-- manter logs apropriados para analises
-- atualizar o cliente da vpn
-- implementar ipv6 ao inves de ipv4
-- 2fa
-- monitorar a largura de banda da rede, transmissão de pacotes de rede, com status da conexão
-- analisar o padrão de comportamento baseado na duração, hosts acessados, fluxo de transmissão de dados, ip geo location
-- implementar protocolos de tunelamento atualizados e protocolos somente para transmissão de dados
-- manter sessões com encriptação tls 
-
-----
-Ah, você quer aprender a hackear instagram, facebook, e-mails e carteiras de bitcoin? Solicite as apostilas mandando mensagem para (48) 98844-0011 (WhatsApp/Telegram)
 
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
