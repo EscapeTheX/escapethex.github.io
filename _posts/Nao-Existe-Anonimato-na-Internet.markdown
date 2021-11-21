@@ -68,6 +68,27 @@ O adversário sabe o que você está fazendo (comportamento de rede), mas não s
 
 <p> </p>
 
+<!--
+<p><b><h3>X. Falácias sobre Privacidade:</h3></b><br>
+<p>- <b>Do Not Track (DNT) / Não Rastrear:</b> Até hoje não se tem informação ou padrão concreto sobre o que a requisição de DNT visa prevenir. Claro, a premissa é enviar uma requisição no header do pacote para a proteção contra rastreamento, mas os sites interpretam o DNT como querem e na maioria das vezes o ignoram;</p>
+
+<p>- <b>Cookie Banner:</b> Sem entrar nas questões jurídicas da GDPR/LGPD, o Cookie Banner é um aviso mostrado em sites que utilizam cookies para "melhor experiência do usuário" e que pede o seu consentimento para os dados serem armazenados por um tempo determinado.<br>
+Sabemos que <a href="https://privacyinternational.org/explainer/2975/most-cookie-banners-are-annoying-and-deceptive-not-consent">a taxa de aceitação/consentimento ultrapassa os 90%</a> e que quase em sua totalidade, os usuários só querem que a mensagem desapareça para poderem continuar navegando tranquilamente.<br>
+Mas, e quando você rejeita o uso dos cookies e eles continuam coletando seus dados? ME RESPONDE ESSA GDPR/LGPD.</p>
+
+<p>- <b>Guia Anônima:</b> Para a tristeza de muitos, a utilidade real das Guia Anônimas está em não armazenar o histórico no navegador e certos cookies. Mas o seu ISP continuará a ver seu histórico, os site poderão ver seu IP e fazer correlação de uso e também armazenar supercookies que independem da utilização da Guia Anônima.</p>
+
+<p>- <b>Encriptação E2E (Ponta-a-Ponta):</p> 
+
+<p>- <b>Atualizações Automáticas Silenciosas ou Forçadas:</b> 
+
+<p>- <b>Filtro de Link Externo:</b> A intenção de prevenir sites maliciosos através do redirecionamento é válida, mas é de caráter duvidoso como é utilizado atualmente. Em redirecionadores internos, empresas como YouTube ou Steam podem ver o site que você irá visitar e também podem montar um perfil com base nessa informação. Já para os encurtadores, é muito mais fácil esconder páginas de phishing e sites que contém malwares, pois na maioria das vezes não são pegos pela censura.</p>
+
+<p>
+
+
+-->
+
 <p><b><h3>4. Tópico Dedicado a Sites, Navegadores, Motores de Buscas, Serviços e Aplicativos:</h3></b><br>
 <p>Falando sobre GDPR/LGPD, qualquer empresa que queira reter alguma informação (dados que podem te identificar) sobre você, ela precisa do seu consentimento e na maioria das vezes isso é feito de forma implícita.<br>
 A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o <b>Cookie Banner</b>, em que apenas clicamos na caixinha de <b>"Aceitar"</b> por preguiça de ler ou configurar quais dados o consentimento será dado. Porém, mesmo operando dentro da legalidade utilizando políticas e banners, há outros métodos de retenção de dados que muitos serviços utilizam e raramente isso é expresso ou pedem a sua autorização. Exemplos:</p>
@@ -88,15 +109,19 @@ A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o 
 
 <p> </p>
 -----------------------------------------------------------------------------------
-<p><b><h3>5. Ferramentas Auxiliares para Privacidade / Anonimato:</h3></b><br>
+<p><b><h3>5. Ferramentas Auxiliares de Cunho Duvidoso:</h3></b><br>
+Esse tópico está mais para um glossário e curiosidades que para algo que eu realmente gostaria de recomendar o uso.<br>
+Mas, apesar do foco maior nesse post ser sobre a <s>má</s> utilização das VPNs, também preciso falar sobre algumas ferramentas interessantes e outras de cunho duvidoso com uso específico.</p>
 
-
-<p> </p>
------------------------------------------------------------------------
-<p><b><h3>6. Diferença entre Proxy, VPS, VPC, Encriptação de DNS e Navegador Baseado em Nuvem:</h3></b><br>
-<p>- <b>Proxy:</b> É um servidor intermediário 
+<p>- <b>Proxy:</b> Atuando como um servidor intermediário entre a conexão do cliente e o servidor destinatário, a principal função do Proxy é mascarar o endereço de IP. 
 
 <p>- <b>Proxy Reverso:</b>
+
+<p>- <b>Web Proxy:</b>
+
+<p>- <b>Proxy "Anônima":</b> Redireciona as requisições da conexão sem precisar de informações do cliente. 
+
+<p>- <b>Proxy de DNS:</b>
 
 <p>- <b>Proxychains:</b> É uma maneira de enviar o seu tráfego através do encadeamento de proxies públicas. Ao contrário das VPNs e da maioria das Redes Anonimizadas, o Proxychains não criptografa as conexões entre cada servidor de proxy. O que gera muita brecha para servidores com máquinas comprometidas, proxies privadas mas com o uso público devido a péssima configuração e honeypots para explorar os usuários. Um proxy que quer monitorar a sua conexão poderá ver todos os outros servidores na sua cadeia, seu destinatário final e também o endereço de IP na qual foi solicitado para receber o tráfego.</p> 
 
@@ -104,20 +129,25 @@ A exemplo disso, temos as <b>Políticas de Privacidade e Termos de Uso</b> ou o 
 
 <p>- <b>VPC (Virtual Private Cloud):</b>
 
+<p>- <b>MPLS (Multiprotocol Label Switching):</b>
+
 <p>- <b>Encriptação de DNS:</b>
 
 <p>- <b>Navegador Baseado em Nuvem:</b>
 
+<p>- <b>Extensões de Navegador:</b><br>
+
+
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>7. O que é e como funciona uma VPN?</h3></b><br>
+<p><b><h3>6. O que é e como funciona uma VPN?</h3></b><br>
 O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> era com o objetivo de <b>obter acesso a servidores remotos</b>, especialmente para se ter acesso a <b>conteúdos bloqueados por região e home office</b>. Infelizmente, com o passar do tempo <b>as VPNs tornaram-se erroneamente um sinônimo de anonimato e privacidade</b>, dando a falsa sensação de que o tráfego redirecionado deixa o usuário protegido de alguma forma. 
 
 <p>De modo simples e resumido, as VPNs atuam como <b>servidores intermediários</b> entre você e a Internet, e por padrão, a maioria as VPNs utilizam algum tipo de protocolo de tunelamento e algoritmos de encriptação. Os protocolos de tunelamento servem para ligar o seu dispositivo a VPN, de modo que sua conexão torna-se privada e seu endereço de IP não fique visível fora da conexão. A aplicação dos algoritmos de criptografia irá depender de cada serviço, pois quanto maior a chave, maior é a influencia na velocidade e segurança da conexão.</p>
 
 <p> </p>
 
-<p><b><h3>8. Tipos de VPNs:</h3></b><br>
+<p><b><h3>7. Tipos de VPNs:</h3></b><br>
 
 <p>- <b>Acesso Remoto:</b>: É o tipo mais comum, que envolve apenas conectar o dispositivo a um servidor remoto.</p>
 
@@ -127,7 +157,7 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 
 <p> </p>
 -----------------------------------------------------------------------
-<p><b><h3>9. Protocolos Utilizados em VPNs:</h3></b><br>
+<p><b><h3>8. Protocolos Utilizados em VPNs:</h3></b><br>
 <p>- <b>TLS (Transport Layer Security)</b>: Protocolo com solução barata, de fácil implementação, com vulnerabilidades e pouco conhecimento sobre mitigação. Projetado a nível de aplicação web <i>(fornece redirecionamento para aplicativos específicos e não para a rede inteira)</i>, provém um sistema de autenticação entre servidores/usuários e distribui direitos de acesso sem a necessidade de instalação de software. Além de suas vulnerabilidades, pode também haver problemas com compartilhamento de arquivos, backup e acesso a recursos de impressão.</p> 
 
 <p>- <b>PPTP (Point-to-Point Tunneling Protocol):</b> É um protocolo que foi desenvolvido pela Microsoft e integrado ao Windows 95 nas conexões discadas, sendo o mais antigo utilizado nas VPNs atuais. Utiliza-se do MPPE (Microsoft Point-to-Point Encryption) com chaves de até 128-bit para fornecer a segurança dos dados, porém ele se tornou obsoleto devido as suas vulnerabilidades bem conhecidas. Mas, por apresentar uma conexão extremamente rápida, de alta compatibilidade e fácil configuração (requisitando apenas nome de usuário, senha e endereço do servidor), ele é ainda utilizado em larga escala por várias aplicações. Acredito que o único uso atual do PPTP seja para acessar conteúdos bloqueados por região, já que o nível de segurança não importa.</p>
@@ -146,6 +176,11 @@ O <b>propósito original</b> das <b>VPNs</b> <i>(Redes Privadas Virtuais)</i> er
 
 <p> </p>
 -----------------------------------------------------------------------
+<p><b><h3>9. VPNs e suas Camadas de Rede (Modelo OSI):</h3></b><br>
+
+<p> </p>
+-----------------------------------------------------------------------
+
 <p><b><h3>10. Pontos Positivos e Utilidades das VPNs:</h3></b><br>
 
 <p>- <b>Privacidade:</b> Provavelmente esse é o principal motivo das pessoas estarem utilizando tantos serviços de VPNs atualmente. 
@@ -254,10 +289,16 @@ Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a loc
 
 <p>- <b>First Node Attack:</b> 
 
+<p> </p>
+--------------------------------------------------------------
+<p><b><h3>16. Blockchain e Criptomoedas:</h3></b><br>
+
+<p> </p>
 
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p>- <a href="https://www.privacyguides.org/">Privacy Guides</a><br>
+<p>- <b>TOR (.onion): <a href="http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/fake_initiatives.html">Dig Deeper - Fake Initiatives</a><br>
+- <a href="https://www.privacyguides.org/">Privacy Guides</a><br>
 - <a href="https://ssd.eff.org/en/module/your-security-plan">Surveillance Self-Defense</a><br>
 - <a href="https://www.kennasecurity.com/blog/risk-vs-threat-vs-vulnerability/">Risk, Threat, or Vulnerability? How to Tell the Difference</a><br>
 - <a href="https://www.sebrae.com.br/sites/PortalSebrae/canais_adicionais/conheca_lgpd">Lei Geral de Proteção de Dados Pessoais - Sebrae</a><br>
@@ -270,6 +311,7 @@ Talvez o fator que mais implique nas Políticas Exploratórias de Dados é a loc
 - <a href="https://www.techradar.com/vpn/vpn-tunnels-explained-how-to-keep-your-internet-data-secure">VPN Tunnels explained: what are they and how can they keep your internet data secure</a><br>
 - <a href="https://www.internetlab.org.br/pt/privacidade-e-vigilancia/especial-apps-para-criancas-nao-leu-as-politicas-de-privacidade/">Não leu as políticas de privacidade dos aplicativos?</a><br>
 - <a href="https://digiday.com/media/know-cookies-guide-internet-ad-trackers/">Know your cookies: A guide to internet ad trackers</a><br>
+- <a href="https://www.bestproxyreviews.com/different-types-of-proxies/">Compare Different Types of Proxies</a><br>
 - <a href="https://www.whonix.org/wiki/Comparison_Of_Tor_with_CGI_Proxies,_Proxy_Chains,_and_VPN_Services">Tor vs. Proxies, Proxy Chains and VPNs</a><br>
 - <a href="https://pt.linkedin.com/pulse/maldito-ransomware-vpn-e-lgpd-nilson-vianna-m-sc-">Nilson Viana - Maldito Ransomware... VPN e LGPD</a><br>
 - <a href="https://sciendo.com/article/10.1515/popets-2015-0006">A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients</a><br>
