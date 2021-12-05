@@ -14,13 +14,13 @@ author:
 Para explicar melhor os detalhes e da forma que acredito ser a mais adequada, <b>vamos dividir a Internet em CINCO tipos de arquiteturas</b> e veremos como se interconectam:</p>
 
 <p><i><h5>OBS: Tentei escrever o conteúdo da forma mais didática possível, mas é importante ter pelo menos um conhecimento mínimo de redes para poder ficar mais claro alguns conceitos.<br>
-Com a grande onda de fake news e criação de conteúdo somente com intenção de obter lucro nos tempos atuais, fica difícil cada pessoa provar o seu ponto como verdade.Então, o post tem um caráter informativo e opinativo baseado em artigos, páginas oficiais e criadores de conteúdo que levam esse assunto a sério. Por isso, no final do post tem uma lista de referências para você tirar as suas próprias conclusões.</i></p>
+Com a grande onda de fake news e criação de conteúdo somente com intenção de obter lucro nos tempos atuais, fica difícil cada pessoa provar o seu ponto como verdade. Então, o post tem um caráter informativo e opinativo baseado em artigos, páginas oficiais e criadores de conteúdo que levam esse assunto a sério. Por isso, no final do post há uma lista de referências para você tirar as suas próprias conclusões.</i></p>
 
 <p><b><h3>1. Conceitos Básicos:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
 É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros sem necessariamente haver um servidor central. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
-<p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte, Síria e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
+<p>Um caso interessante de Rede P2P, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte, Síria e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
 
 <p><center>
 <img src="/salamandra/peer2peer.jpg" alt="Exemplo de Rede Peer-To-Peer (P2P)">
@@ -44,7 +44,7 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 - <b>Clearnet</b>:<br>
 É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas e descentralizadas) e a Darkweb, fazem parte da Clearnet.</p>
 
-<p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente (front-end) desde que se forneça as credenciais, se necessário.<br>
+<p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é em grande parte acessível públicamente (front-end) desde que se forneça as credenciais.<br>
 Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada e não necessariamente precisa de credenciais, por exemplo. E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
 
 <p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém ele não é indexado de forma direta pelos motores de busca.</p>   
@@ -86,7 +86,7 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 <p> </p>
 
 <p><b><h3>4. DARKNET:</h3></b><br> 
-É um conjunto de redes, em sua maioria <b>descentralizadas</b>, que<i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário. Além de que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
+É um conjunto de redes, em sua maioria <b>descentralizadas</b>, que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário. Além de que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
 
 <p>Redes P2P, VPNs e Serviços de Blockchain são frequentemente utilizadas para que as conexões possam ser feitas.</p>
 
@@ -163,7 +163,7 @@ Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Su
 <p> </p>
 
 <p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet:</h3></b>
-<p>- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
+<p>- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados <b>".onion"</b>.<br>
 No momento em que você está estabelecendo uma conexão, estão sendo definidos os nós de proxy (no mínimo 3) por onde sua conexão irá passar. Cada pacote enviado através desses nós é encriptado com uma cifra assimétrica. E cada pacote recebido pelo servidor através desses nós, ele faz um processo de "descascar" a última camada entregue, assim somente o rementente e o último nó sabem da mensagem original.<br>
 Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um nó. Então, na teoria, quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna <i>(excluindo os casos de nós infectados e ataques de confirmação)</i>.<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
@@ -280,7 +280,7 @@ De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção
 
 <p>_________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
-<p>- <b>Canais do Youtube: <a href="https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A">Fábrica de Noobs (Natanael Antonioli)</a>, <a href="https://www.youtube.com/c/STACKZOFICIAL/videos">STACKZ / Gustavo Pinheiro</a>, <a href="https://www.youtube.com/channel/UCbuxUJVokSf4V0Nmj_kWq0A/videos">Deep Web Brasil</a>, <a href="https://www.youtube.com/c/SomeOrdinaryGamers/videos">SomeOrdinaryGamers (Mutahar Anas)</a>, <a href="https://www.youtube.com/channel/UCyEXkaNrS9TNiTnyhKj3iQA/videos">Irfan Shakeel</a></b><br> 
+<p>- <b>Canais do Youtube: <a href="https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A">Fábrica de Noobs (Natanael Antonioli)</a>, <a href="https://www.youtube.com/c/SomeOrdinaryGamers/videos">SomeOrdinaryGamers (Mutahar Anas)</a>, <a href="https://www.youtube.com/channel/UCyEXkaNrS9TNiTnyhKj3iQA/videos">Irfan Shakeel</a></b><br> 
 - <b>RETSKIN, Sion</b>. Hands-On: Dark Web Analysis. Packt, 2018.<br>
 - <b>KOZAKIEWICZ, Dilmar José</b>. Deep Web e Segurança da Informação: Uma análise e seus impactos na sociedade e nas organizações. UTFPR, Curitiba, 2018.<br>
 - <b>PINHEIRO, Débora</b>. Crime de Pornografia Infantil na Deep Web: Medidas Legais para Combate e Proteção Infantojuvenil. UNAMA, 2020.<br> 
