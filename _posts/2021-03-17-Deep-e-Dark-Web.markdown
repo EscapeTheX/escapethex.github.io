@@ -13,12 +13,12 @@ author:
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
 Para explicar melhor os detalhes e da forma que acredito ser a mais adequada, <b>vamos dividir a Internet em CINCO tipos de arquiteturas</b> e veremos como se interconectam:</p>
 
-<p><i><h5>OBS: As terminologias sobre redes e tecnolgias estão em mudança constante. Então matérias, de cunho sensacionalista ou não, utilizam suas formas de divisões de redes para facilitar o compreensão, porém nem sempre isso tem embasamento. Estou utilizando esta metodologia com base em quem se dedica a pesquisar isso a sério e também baseado na MINHA vivência com essas redes.<br>
-Ou seja, estou escrevendo de uma forma didática para facilitar a compreensão do público que não faz parte desse nicho.</h5></i></p>
+<p><i><h5>OBS: Tentei escrever o conteúdo da forma mais didática possível, mas é importante ter pelo menos um conhecimento mínimo de redes para poder ficar mais claro alguns conceitos.<br>
+Com a grande onda de fake news e criação de conteúdo somente com intenção de obter lucro nos tempos atuais, fica difícil cada pessoa provar o seu ponto como verdade.Então, o post tem um caráter informativo e opinativo baseado em artigos, páginas oficiais e criadores de conteúdo que levam esse assunto a sério. Por isso, no final do post tem uma lista de referências para você tirar as suas próprias conclusões.</p>
 
-<p><b><h3>1. Arquiteturas de Rede:</h3></b><br>
+<p><b><h3>1. Conceitos Básicos:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
-É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
+É uma arquitetura de rede usada para compartilhamento de arquivos, onde cada nó da rede atua tanto como cliente quanto como servidor. Então, todos os computadores que estão utilizando o serviço, distribuem informações uns aos outros sem necessariamente haver um servidor central. Os exemplos mais didáticos são <i>Torrent</i> e <i>Blockchain</i>;</p>
 
 <p>Um exemplo raramente comentado, é sobre o <b>FreeGate</b>. Ele é um software que utiliza um sistema P2P de proxys para permitir que países como China, Coréia do Norte, Síria e Emirados Árabes Unidos, possam ter acesso a sites bloqueados pelo governo. Seu funcionamento é semelhante a uma VPN, porém com rotatividade de IP e DNS dinâmicos para evitar o processo de censura.</p>
 
@@ -30,8 +30,8 @@ Ou seja, estou escrevendo de uma forma didática para facilitar a compreensão d
 <p> </p>
 
 <p>- <b>VPN (Virtual Private Network):</b><br> 
-A Rede Virtual Privada funciona como uma sobreposição de redes, onde <b>a conexão pública (Internet) passa por um "túnel" criptografado ou não, cujo a sua intenção serve para acessar uma determinada localidade e ter acesso aos seus serviços</b>, usualmente através de softwares. Os usos mais comuns incluem o acesso a conteúdos bloqueados por região ou home office. Comumente se utiliza de proxys ou algum tipo de criptografia para gerar e manter essa conexão.<br>
-A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e políticas de destruição de logs.<br>
+A Rede Virtual Privada funciona como uma sobreposição de redes, onde <b>a conexão pública com a Internet passa por um "túnel" criptografado, cujo a sua intenção serve para acessar uma determinada localidade e ter acesso aos seus serviços</b>, usualmente através de softwares. Os usos mais comuns incluem o acesso a conteúdos bloqueados por região ou home office. Comumente se utiliza de proxys ou algum tipo de criptografia para gerar e manter essa conexão.<br>
+A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "anonimato" (bem entre aspas) que uma VPN predispõe são do servidor ver o IP da VPN e dependendo do serviço, propiciar algum tipo de criptografia e pseudo-políticas de destruição de logs.<br>
 
 <p><center>
 <img src="/salamandra/vpn-works.jpg" alt="Exemplo comum de VPN, porém não muito correto">
@@ -42,10 +42,10 @@ A utilização de VPNs é cercada de mitos de segurança. As únicas formas de "
 
 <p><b><h3>2. CLEARNET E SURFACE WEB:</h3></b><br>
 - <b>Clearnet</b>:<br>
-É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>, ou seja, que não é requerido conexões que preencham a lacuna de privaciade e/ou anonimato. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas, descentralizadas e de malha) e Darkweb, fazem parte da Clearnet.</p>
+É um termo bastante complexo de se definir, mas em termos simples, é utilizado para se referir a <b>tudo aquilo que é publicamente acessível na Internet</b>. Toda a Surface Web, boa parte da Deep Web e parcelas da Darknet (redes centralizadas e descentralizadas) e a Darkweb, fazem parte da Clearnet.</p>
 
-<p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente desde que se forneça as credenciais, se necessário.<br>
-Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada, por exemplo. E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
+<p>A Deep Web, que tem seu conteúdo não indexado pelos motores de busca, é acessível públicamente (front-end) desde que se forneça as credenciais, se necessário.<br>
+Já na Darknet, você pode navegar em várias redes utilizando um navegador comum com uma VPN configurada e não necessariamente precisa de credenciais, por exemplo. E o mesmo vale para redes e serviços que utilizam somente o protocolo IPv6 ao invés de IPv4.</p>
 
 <p><b>Este site em questão, se encontra entre a Clearnet e a Deep Web</b>. Você só pode acessá-lo através do link direto ou digitá-lo na barra de endereços, porém ele não é indexado de forma direta pelos motores de busca.</p>   
 
@@ -54,25 +54,20 @@ Já na Darknet, você pode navegar em várias redes utilizando um navegador comu
 <p> </p>
 
 <p>- <b>Surface Web:</b><br>
-É a porção da Internet que está disponível para o PÚBLICO GERAL, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,3 bilhões de páginas, distribuídas em 1,8 bilhões de endereços únicos).</p>
+É a porção da Internet que está disponível e é de interesse para a maioria da população, <b>cujo seu conteúdo só pode ser encontrado através dos motores de buscas</b> (Google, Bing, Yahoo, Yandex, Baidu). Então todo conteúdo que se torna <b>indexado</b> e de alguma forma <b>ranqueado</b>, faz parte da Surface Web. Estima-se que a Surface Web consista em apenas 10% das informações disponíveis na Internet (cerca de 5,3 bilhões de páginas, distribuídas em 1,8 bilhões de endereços únicos).</p>
 <p><b>Exemplos:</b><br>
 - Redes Sociais;<br>
-- Canais de Entretenimento, como serviços de streaming e blogs;<br>
+- Serviços de Streaming públicos (Vimeo, YouTube, Dailymotion) e blogs;<br>
 - E-Commerces populares;<br>
 - Serviços Essenciais.<br>
 </p>
 
-<p>Aqui não há camadas de criptografia e proxys para termos privacidade. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b> pelos provedores, servidores e pelo governo.<br>
-
-<!-- <p><b>Métodos de Indexação de Conteúdo</b><br>
-- -->
-
-
+<p>Aqui não há camadas grandes camadas de criptografia e proxys para termos um senso de privacidade melhor. Claro, temos os protocolos de segurança HTTPS/HSTS e certificados digitais que nos ajudam <i>(nem sempre)</i> contra ataques de MITM (Man In The Middle) e Sequestro de Sessão (Cookie Hijacking), mas aqui <b>estamos sendo rastreados O TEMPO INTEIRO</b> pelos provedores, servidores e pelo governo.<br>
 
 <p> </p>
 
 <p><b><h3>3. DEEP WEB:</h3></b><br> 
-É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns através do requerimento de <b>credenciais</b>, se necessário. Estimou-se nos anos 2000 que o tamanho da Deep Web seria algo em torno de 400 a 550 vezes o tamanho da Surface Web, mas hoje sabemos que esses valores facilmente triplicam ou quintuplicam.<br>
+É a parte da Internet onde seu conteúdo <b>não é indexado</b> pelos motores de buscas, mas que pode ser acessado via navegadores comuns através do requerimento de <b>credenciais</b>. Estimou-se nos anos 2000 que o tamanho da Deep Web seria algo em torno de 400 a 550 vezes o tamanho da Surface Web, mas hoje sabemos que esses valores facilmente triplicam ou quintuplicam.<br>
 Normalmente, se um site está bem configurado, os motores de buscas estão programados para não permitir que certos conteúdos sejam indexados por padrão. Se você pesquisar por <b>Google Dorks</b>, irá entender o problema disso tudo.</p>
 <p><b>Exemplificando melhor</b>:<br> 
 - Sites e sitemas internos de corporações, associações e comércios;<br>
@@ -91,9 +86,9 @@ Normalmente, se um site está bem configurado, os motores de buscas estão progr
 <p> </p>
 
 <p><b><h3>4. DARKNET:</h3></b><br> 
-São redes sobrepostas a Internet que <i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário, então tipicamente <b>descreve serviços descentralizados, distribuídos e de malha que podem utilizar, OU NÃO, grandes camadas de criptografia para o anonimato</b>. Além de que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
+É um conjunto de redes, em sua maioria <b>descentralizadas</b>, que<i>só podem ser acessadas através de softwares, configurações, autorizações e frequentemente, não utilizando protocolos e portas comuns</i>. A Darknet foi construída com o propósito de proteger a privacidade do usuário. Além de que, suas páginas dentro dos seus respectivos serviços, só podem ser acessadas pelos mesmos.</p>
 
-<p>Redes P2P e de VPNs são frequentemente utilizadas para que as conexões possam ser feitas.</p>
+<p>Redes P2P, VPNs e Serviços de Blockchain são frequentemente utilizadas para que as conexões possam ser feitas.</p>
 
 <p><b>Quem utiliza a Darknet?</b><br>
 - Jornalistas, ativistas, ex-militares, políticos protestantes, trabalhadores do governo e insiders, que estão caminhando juntos para denunciar ferozmente a corrupção em seus respectivos campos;<br>
@@ -160,22 +155,18 @@ Todo o tipo de conteúdo que é possível achar na Darknet, também é possível
 </center></p>
 
 <p>Quando está se acessando a Darknet, dependendo do que você planeja fazer, podem haver várias opções de redes para escolher. Cada uma tem os seus usos, vantagens e desvantagens.<br>
-Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar muito.</p>
+Dependendo do que você planeja procurar, alguns mercados na Darknet podem algumas vezes serem desafiadores. Claro que podemos obter listas de links através da Clearnet e de outros serviços próprios da rede, mas se você busca coisas grotescas, terá que pesquisar um pouco mais.</p>
 
 <p><b>Por que minha Internet fica lenta quando utilizo esses serviços?</b><br>
-Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Surface, cada pacote enviado pela rede precisa passar por um processo de criptografia e descriptografia cada vez que chega num servidor, nó ou retransmissor. Esse processo é muito custoso para rede e por isso a velocidade de banda por vezes pode diminuir em até 80%, dependendo do serviço.</p>
+Ao invés de nos conectarmos diretamente com algum servidor, como funciona na Surface, cada pacote enviado pela rede precisa passar por um processo de criptografia e descriptografia cada vez que chega num nó. Esse processo é muito custoso para rede e por isso a velocidade de banda por vezes pode diminuir em até 80%, dependendo do serviço.</p>
 
 <p> </p>
 
 <p><b><h3>Uma breve introdução de algumas redes e plataformas da Darknet:</h3></b>
 <p>- <b>TOR (The Onion Router)</b>: É uma rede baseada em camadas de criptografia, como o próprio nome sugere, e permite tanto a navegação de sites da Surface quanto de domínios próprios, denominados ".onion".<br>
-No momento em que você está estabelecendo uma conexão, estão sendo definidos os nós de proxy por onde sua conexão irá passar. Cada pacote enviado através desses nós é encriptado com uma cifra assimétrica. E cada pacote recebido pelo servidor através desses nós, ele faz um processo de "descascar" a última camada entregue, assim somente o rementente e o último nó sabem da mensagem original.<br>
-Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um servidor ou nó/retransmissor. Então quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna.<br>
+No momento em que você está estabelecendo uma conexão, estão sendo definidos os nós de proxy (no mínimo 3) por onde sua conexão irá passar. Cada pacote enviado através desses nós é encriptado com uma cifra assimétrica. E cada pacote recebido pelo servidor através desses nós, ele faz um processo de "descascar" a última camada entregue, assim somente o rementente e o último nó sabem da mensagem original.<br>
+Qualquer pessoa dentro da arquitetura do TOR pode estar disponível para ser um nó. Então, na teoria, quanto mais pessoas estiverem utilizando-o, mais seguro ele se torna <i>(excluindo os casos de nós infectados e ataques de confirmação)</i>.<br>
 Apesar de ser o mais famoso dessa lista com o seu uso principal em <b>contornar a censura</b>, ao longo dos anos tornou-se sinônimo de práticas criminosas.</p>
-
-<!-- <p>- <b>I2P</b>: Em estudo.
-
-<p>- <b>FreeNet</b>: Em estudo. -->
 
 <p>- <b>NIPRNet, SIPRNet, JWICS e RIPRNet</b>: São redes privadas utilizadas pelo governo dos EUA (Departamento de Defesa) para compartilhamento de informações secretas, baseada na tecnologia da ARPANET.<br> 
 
@@ -202,50 +193,6 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>Infinit</b>: É uma rede P2P comercial utilizada para compartilhamento de arquivos de qualquer tamanho. Sua infraestrutura de armazenamento heterogênea permite agregar vários tipos de recursos, seja Amazon S3, OpenStack Swift, Discos Locais, Discos em RAID e qualquer outro dispositivo que possa necessitar de armazenamento. Apesar de não ser uma rede anônima, pois necessita de cadastro via E-mail, utiliza encriptações RSA e AES para criptografar os blocos de dados e as comunicações entre os nós. Parte da biblioteca de software é disponibilizada em Open-Source e também possui a opção de armazenamento gratuito.</p>
 
-<!-- <p>- <b>ECNet (Antiga "Alienet")</b>: Em estudo.
-
-<p>- <b>Maelstrom</b>: Em estudo.
-
-<p>- <b>Resilio</b>: Em estudo.
-
-<p>- <b>Osiris</b>: Em estudo.
-
-<p>- <b>Ricochet</b>: Em estudo.
-
-<p>- <b>Soulseek</b>: Em estudo.
-
-<p>- <b>Perfect Dark</b>: Em estudo.
-
-<p>- <b>DemonSaw</b>: Em estudo.
-
-<p>- <b>Netsukuku</b>: Em estudo.
-
-<p>- <b>OneSwarm</b>: Em estudo.
-
-<p>- <b>Anomos</b>: Em estudo.
-
-<p>- <b>Tribler</b>: Em estudo.
-
-<p>- <b>Syndie</b>: Em estudo.
-
-<p>- <b>Retroshare</b>: Utilizado para compartilhamento de arquivos, chat, forums, e-mail. 
-
-<p>- <b>anoNet</b>: É uma rede descentralizada P2P, semelhante a Freenet, que utiliza-se de VPNs e protocolo BGP. 
-
-<p>- <b>GnuNet</b>: Utilizada para armazenamento e distribuição de arquivos de forma anônima.
-
-<p>- <b>Omemo</b>: Plataforma social de distribuição de arquivos.
-
-<p>- <b>Phantom</b>: Em desenvolvimento. Utiliza serviços anônimos e faz uso do IPv6 nativamente.
-
-<p>- <b>FreedomBox</b>: Em desenvolvimento. Cria servidores pessoais para comunicações de redes sociais, e-mail e audio/video.
-
-<p>- <b>Telex</b>: Uma nova maneira de passar pela censura da Internet.
-
-<p>- <b>Project Byzantium</b>: Distribuição bootável do Linux que monta uma rede de malha independente do hardware que você tiver.
-
- -->
-
 <p>- <b>Freifunk</b>: É uma rede alemã de wireless comunitário que conta com 400 comunidades locais e mais de 41.000 pontos de acesso. Os usos da Freifunk são com base no princípio de Neutralidade de Redes, de garantir acesso ao conhecimento e informação livremente e também com o uso de tecnologias Open-Source.</p>   
 
 <p>- <b>ChaosVPN</b>: Utiliza redes Tinc como base. É uma rede para que Gray/Black Hats e ativistas possam se comunicar via intranet, separando-os da Internet. Apesar do foco não ser o anonimato, é desenhada para que ninguém veja o tráfego das outras pessoas. Os serviços disponíveis variam entre VoIP, IRC, Minecraft, Torrent e FTP.</p> 
@@ -258,19 +205,15 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p> </p>
 
-<p>Não abordarei <i>"Como navegar de forma segura na Darknet"</i> pois já existem milhares de páginas demonstrando isso. Apenas tenha em mente o que você pretende fazer, já que há centenas de redes com suas vantagens e desvantagens.</p> 
-
-<p> </p>
-
 <p><b><h3>5. DARK WEB:</h3></b><br>
 É aqui onde Órgãos do Governo e Agências de Inteligência Cibernética tem o seu maior interesse. Basicamente é uma pequena porcentagem, cerca de 3.4% do tráfego total da Internet inteira, que <b>é composta somente por atividades criminosas e conteúdos "não amigáveis"</b>.<br>
 Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a única diferença é o uso de camadas de criptografia e anonimato.</p>
 
-<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Pois, já que são moedas descentralizadas e teoricamente não podem ser rastreadas devido aos seus algoritmos de criptografia, os consumidores da rede acabam por adotar este tipo de empreendimento.</p>
+<p>Querendo ou não, a popularização das criptomoedas (como Bitcoin, Dash, Litecoin e Monero), começou na Dark Web. Pois, já que são moedas descentralizadas e <b>TEORICAMENTE</b> não podem ser rastreadas devido aos seus algoritmos de criptografia e da descentralização, os consumidores da rede acabam por adotar este tipo de empreendimento.</p>
 
 <p> </p>
 
-<p><b>O que podemos encontrar na Dark Web:</b><i> (não necessariamente com facilidade e autenticidade)</i></p>
+<p><b>O que podemos encontrar na Dark Web:</b><i> (sendo em sua maioria páginas fraudulentas)</i></p>
 <p>- <b>Maconha</b>: Todas as espécies, variantes e "potências" podem ser encontradas aqui. Tipicamente os preços são bem abaixo do valor comercial e isso se tornou uma porta de entrada para que "maconhistas" utilizem esses serviços anônimos para se obter facilmente;</p>
 
 <p>- <b>Remédios Controlados e Anabolizantes</b>: Um mercado com bastante consumidores na rede. Esses remédios podem ser adquiridos por centavos, que variam desde analgésicos, remédios para disfunção erétil quanto como coqueteis quimioterápicos;</p>
@@ -319,35 +262,19 @@ Tudo o que encontramos aqui é facilmente encontrado na Clearnet, porém a únic
 
 <p>- <b>Tutorais e Manuais</b>: Antigamente era comum encontrar no ParaZite (site da rede TOR) vários tutoriais sobre as mais diversas coisas. Isso incluia vandalismo, criação de bombas, manual do suicídio indolor, lockpicking, roubo, necrofilia, canibalismo, terrorismo, abuso de menores, violência sexual, anarquia, blasfêmia e várias outras coisas não muito agradáveis;</p>
 
-<p>- <b>Vídeos de Abuso e Mutilação de Cadáveres</b>: Não que o "TheYNC", "XRares" ou "DeathAddict" não tenham coisas parecidas na Clearnet, mas aqui <i>"temos mais opções"</i>, digamos assim;</p>
-
-<p>- <b>Vídeos de Maus-Tratos aos Animais</b>: Nada de diferente do que você encontra em grupos de WhatsApp, Telegram ou Facebook;</p>
-
-<p>- <b>Vídeos de Tortura, Estupro e Assassinato</b>: Também não muito diferente do que você encontra nos sites citados acima;</p>
+<p>- <b>Vídeos de Abuso, Estupro, Assassinato, Tortura, Mutilação de Cadáveres, Fetos e Maus-Tratos aos Animais</b>: É praticamente o mesmo conteúdo encontrado em sites como "TheYNC", "XRares" ou "DeathAddict";</p>
 
 <p>- <b>Serviços de Bate-Papo e para Encontrar "Amigos"</b>: Com certeza esse é o maior perigo da Dark Web. Nas redes sociais comuns já é um pouco complicado de capturar abusadores, aqui eles têm o benefício da criptografia para ajudar a esconder seus traços. Não é raro de encontrar salas de bate-papos que tem avisos proibindo pornografia infantil, mas que sempre há algum espertinho divulgando links e/ou conversando com outros abusadores, seja abertamente ou com mensagens cifradas.<br>
-Geralmente utilizam serviços como o TOR, Tox, Retroshare e I2P para se comunicarem;</p>
+Geralmente utilizam serviços como o TOR, Tox, Wickr, Retroshare e I2P para se comunicarem;</p>
 
-<p>- <b>Pornografia Infantil (CP - Child Porn)</b>: Deixei este tópico justamente em último por ser <b>o mais sensível</b> de abordar, pois infelizmente, este tipo de conteúdo desprezível é facilmente encontrado na Clearnet e aos montes, seja em sites como "Caiu Na Net" aqui no Brasil, quanto como em sites Russos e Asiáticos. Porém, além do "revenge porn" praticado com menores, temos a questão de que na Dark Web não há limites.</p>
-
-<p><b>Operação Darknet</b>:<br>
-Entre 2013 e 2016, a PF do Rio Grande do Sul realizou a primeira investigação sobre Pornografia Infantil do Brasil na rede TOR. A operação resultou na busca e apreensão de mais de 100 pessoas em 18 estados brasileiros e em países como Itália, Portugal, Colômbia, México e Venezuela. Poucas polícias no mundo obtiveram êxito nas investigações, como o FBI, Scotland Yard e a Polícia Federal Australiana.</p>
+<p>- <b>Pornografia Infantil (CP - Child Porn)</b>: Deixei este tópico em último por ser o <b>mais sensível e difícil</b> de se abordar. Pois, apesar de ele ser facilmente encontrado na Surface e aos montes, na Dark Web temos a questão de encomenda e produção de conteúdo voltado para um público que consome isso. É possível encontrar páginas desses "estúdios" (podemos chamar assim?) na própria Surface com amostras gratuitas (<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Tipo esse</a>), mas que obviamente para se ter o acesso completo é necessário pagar e na maioria das vezes com criptomoedas.</p>
  
 <p> </p>
 
 <p><b><h3>RESUMO</h3></b><br>
-De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção de curiosos devido as várias <b>lendas</b> que surgiram desde o aparecimento dessas redes. Porém, por vezes <b>essa curiosidade pode acabar colocando o usuário em sérios riscos de privacidade</b>, caso ele não saiba o que está fazendo. Afinal, <b>não existe 100% de anonimato na Internet</b>. E não é porque o conteúdo não aparece nas buscas que ele é de fato interessante, mas ele está lá por algum motivo.</p>
+De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção de curiosos devido as várias <b>lendas</b> que surgiram desde o aparecimento dessas redes. Porém, por vezes <b>essa curiosidade pode acabar colocando o usuário em sérios riscos de privacidade</b>, caso ele não saiba o que está fazendo. Afinal, <b>não existe 100% de anonimato na Internet</b>. E não é porque o conteúdo não aparece nas buscas que ele é de fato interessante, mas ele está lá por algum motivo. Então, <b>acesse por sua conta e risco</b></p>
 
-<p>A Surface Web ainda é a rede mais perigosa de todas, comparando com todas as outras. Não temos noção o suficiente de como nossos dados estão sendo administrados e rastreados o tempo todo. Mesmo com os melhores protocolos de segurança e os melhores sistemas de defesa, <b>todos somos vítimas em potenciais</b>, pois o atacante só quer uma única coisa: <b>PODER</b>.<br>
-É muito mais fácil se tornar uma presa na Surface Web do que na Dark Web. Pois, <b>grande parte da população não tem noções mínimas ou básicas de segurança da informação</b>, ou porque acham que nunca serão vítimas por pensarem que o atacante não teria interesse na vida delas, ou simplesmente por <b>ignorância</b>.</p>
-
-<p>Portanto, para o público geral que vive a sua vida tranquila, <b>não há nada de interessante na Darknet</b> pelo qual valeria o motivo de se arriscar.</p>
-
-<p>Para os curiosos, pesquise muito antes de fazer qualquer coisa precipitada, <b>pois isso pode lhe custar muito caro depois</b>.</p>
-
-<p>Para as pessoas que têm interesse em cuidar da sua privacidade, se a sua vida toda for baseada na Surface Web e subitamente você mudar de rede e continuar a fazer as mesmas coisas na Darknet, <b>infelizmente só terá efeitos negativos</b>. Então concentre seus esforços em tomar medidas na Surface Web e policie a si mesmo.</p>
-
-<p>E para os criminosos... Não adianta utilizar serviços como VPNs, Tails, Whonix ou o próprio TOR, <b>se não há nenhuma tecnologia existente até hoje que torne uma pessoa invisível na Internet</b>. Para o seu provedor e servidores, isso só será mais um indício que há um comportamento estranho na rede e será passível de <b>investigação ou ataques de correlação</b>. Por mais que serviços tenham suas políticas de privacidade, como o DuckDuckGo ou NordVPN, <b>qual a garantia que você tem de que seus dados estão seguros com essas empresas?</b></p>
+<p>Caso você queira receber um guia sobre <b>"Como acessar a Darknet e a Darkweb"</b>, mande mensagem para esse <b><a href="https://api.whatsapp.com/send?phone=5548988440011">WhatsApp</a></b>, solicitando o tipo de material você pretende ver.
 
 <p> </p>
 
