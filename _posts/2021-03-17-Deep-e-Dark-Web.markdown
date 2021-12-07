@@ -274,7 +274,7 @@ Geralmente utilizam serviços como o TOR, Tox, Wickr, Retroshare e I2P para se c
 <p><b><h3>RESUMO</h3></b><br>
 De certo modo, tanto a Deep Web quanto a Dark Web, ainda chama muito a atenção de curiosos devido as várias <b>lendas</b> que surgiram desde o aparecimento dessas redes. Porém, por vezes <b>essa curiosidade pode acabar colocando o usuário em sérios riscos de privacidade</b>, caso ele não saiba o que está fazendo. Afinal, <b>não existe 100% de anonimato na Internet</b>. E não é porque o conteúdo não aparece nas buscas que ele é de fato interessante, mas ele está lá por algum motivo. Então, <b>acesse por sua conta e risco</b></p>
 
-<p>Caso você queira receber um guia sobre <b>"Como acessar a Darknet e a Darkweb"</b>, mande mensagem para esse <b><a href="https://api.whatsapp.com/send?phone=5548988440011">WhatsApp</a></b>, solicitando o tipo de material você pretende ver.
+<p>Caso você queira tirar dúvidas sobre <b>"Como acessar a Darknet e a Darkweb"</b>, mande uma mensagem para esse <b><a href="https://api.whatsapp.com/send?phone=5548988440011">WhatsApp</a></b>.
 
 <p> </p>
 
