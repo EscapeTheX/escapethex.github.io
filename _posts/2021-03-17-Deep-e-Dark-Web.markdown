@@ -13,8 +13,8 @@ author:
 <p>Mas não são somente essas terminologias que são importantes para definirmos estes tipos de redes e seus conteúdos.<br> 
 Para explicar melhor os detalhes e da forma que acredito ser a mais adequada, <b>vamos dividir a Internet em CINCO tipos de arquiteturas</b> e veremos como se interconectam:</p>
 
-<p><i><h5>OBS: Tentei escrever o conteúdo da forma mais didática possível, mas é importante ter pelo menos um conhecimento mínimo de redes para poder ficar mais claro alguns conceitos.</i><br>
-<i>Com a grande onda de fake news e criação de conteúdo somente com intenção de obter lucro nos tempos atuais, fica difícil cada pessoa provar o seu ponto como verdade. Então, o post tem um caráter informativo e opinativo baseado em artigos, páginas oficiais e criadores de conteúdo que levam esse assunto a sério. Por isso, no final do post há uma lista de referências para você tirar as suas próprias conclusões.</i></p>
+<p><i><h5>OBS: Tentei escrever o conteúdo da forma mais didática possível, mas é importante ter pelo menos um conhecimento mínimo de redes para poder ficar mais claro alguns conceitos.<br>
+Com a grande onda de fake news e criação de conteúdo somente com intenção de obter lucro nos tempos atuais, fica difícil cada pessoa provar o seu ponto como verdade. Então, o post tem um caráter informativo e opinativo baseado em artigos, páginas oficiais e criadores de conteúdo que levam esse assunto a sério. Por isso, no final do post há uma lista de referências para você tirar as suas próprias conclusões.</h5></i></p>
 
 <p><b><h3>1. Conceitos Básicos:</h3></b><br>
 - <b>P2P (Peer-To-Peer)</b>:
