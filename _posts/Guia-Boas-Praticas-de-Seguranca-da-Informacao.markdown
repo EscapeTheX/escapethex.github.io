@@ -1,24 +1,137 @@
 ---
 layout: post
-title:  Guia - Boas Práticas de Segurança da Informação para Todos
+title:  Guia - Boas Práticas de Segurança da Informação
 date:   2022-01-02 08:32:20 +0300
-description: Um guia sobre Segurança Física e Digital para todos os públicos! # Add post description (optional)
+description: Apenas Mais Um Guia de Segurança da Informação. # Add post description (optional)
 img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
 <p>Olá,<br>
-No post de hoje quero trazer
+No post de hoje quero trazer um Guia de Boas Práticas de Segurança da Informação 
+
+<p> </p>
+
+<p><b><h3>1. CONCEITOS BÁSICOS E EM COMUM:</h3></b></p>
+<p>Nesta sessão quero lhe apresentar <b>conceitos fundamentais e em comum de várias tecnologias</b> <i>(para evitar a repetição nos próximos tópicos)</i>, como numa espécie de dicionário de termos técnicos ordenado de forma cronológica.</p>
+
+<p> </p>
+
+<p><b>1.1 O QUE É BRUTEFORCE?</b><br>
+É um conjunto de técnicas baseado na tentativa e erro para se descobrir informações de credenciais e páginas ocultas.<br>
+- <b>Ataque Simples:</b> Consiste em tentar adivinhar pela lógica (normalmente por padronização) e sem a assistência de ferramentas. Normalmente utilizado em painéis de controle e páginas de roteadores;<br>
+- <b>Ataque de Dicionário:</b> É o tipo de ataque mais comum, onde o atacante escolhe um alvo e aplica um dicionário de palavras no usuário. Pode-se personalizar esses dicionários através da incrementação de caracteres alfanuméricos e especiais. E atualmente, com a grande quantidade de vazamento de dados, os dicionários se baseiam em listas desses vazamentos;<br>
+- <b>Spidering:</b> Consiste na técnica de coletar informações sobre o alvo e criar um dicionário personalizado;<br>
+- <b>Bruteforce Reverso:</b> Consiste em adivinhar o usuário com base na senha;<br>
+- <b>Preenchimento de Credenciais:</b> É um erro comum as pessoas utilizarem as mesmas credenciais para vários serviços. Então, se o ataque tiver sucesso num serviço, é normal que o atacante tente as mesmas credenciais em outros serviços também;<br>
+<i>*As técnicas são praticamente as mesmas para o Bruteforce em páginas ocultas.</i></p>
+
+<p> </p>
+
+<p><b>1.2 A PROBLEMÁTICA DOS INFOGRÁFICOS DE BRUTEFORCE:</b><br>
+É provável que você já tenha visto algum infográfico sobre a efetividade (em complexidade e comprimento) da sua senha contra ataques de Bruteforce. O que pode parecer uma simples forma de alerta para a população gostaria de abordar o quão problemático podem ser os infográficos sobre Bruteforce.</p>
+
+<p><center>
+<img src="/salamandra/chartsec.jpg" alt="Exemplo de infográfico sobre Bruteforce">
+<figcaption><i>Exemplo de infográfico sobre Bruteforce</i></figcaption>
+</center></p>
+
+<p><a href="https://raw.githubusercontent.com/EscapeTheX/escapethex.github.io/master/salamandra/infotropia.jpg">São raros os exemplos de infográficos que contém informações detalhadas</a> sobre efetividade de entropia, algoritmo utilizado, software utilizado e suporte de hardware, configurações da máquina, autenticação multifatorial, tentativas por sessão, técnicas de wordlists... O intuito, infelizmente, é somente para alertar a população sobre o cuidado que se deve ter com suas senhas, sem explicar os diversos outros fatores que influenciam nesse processo. Somente a quantidade de caracteres e complexidade não quer dizer muita coisa, apenas se pode ter uma noção básica.</p>
+
+<p><b>1.3 ALGORITMOS DE CRIPTOGRAFIA:</b><br>
+
+<p><b>1.4 FUNÇÕES HASH E RAINBOW TABLES:</b><br>
+
+<p><b>1.4 ENTROPIA</b><br>
+No contexto da criptografia, a entropia se refere a uma medida de efetividade de uma senha contra um adversário e ela depende de 3 fatores:<br>
+- Comprimento:
+- Tipos de Caracteres:
+- Imprevisibilidade:
+ Cada tipo de caractere possui uma quantidade específica de bits, sendo o mínimo de 50 bits como um ideal seguro para a combinação.<br>
+- <b>Números (0-9):</b> 3.322 bits;<br>
+- <b>Caracteres Minúsculos (26):</b> 4.7 bits;<br>
+- <b>Caracteres Maiúsculos (26):</b> 4.7 bits;<br>
+- <b>Caracteres Especiais (32):</b> 5 bits;<br>
+*Senha Exemplo 1: password123 = 56.87 bits
+*Senha Exemplo 2: P@$$w0rD123 = 65.55 bits
 
 
-<p><b><h4>1. CONCEITOS BÁSICOS:</h4></b></p>
+<p><b><h3>2. SEGURANÇA FUNDAMENTAL:</h3></b></p>
+ seguido de dicas específicas para as correspondentes.<br>
+Cada tópico específico estará dividido em <i>níveis de prioridade</i>, sendo <b>"ALTA"</b> para uso obrigatório, <b>"RECOMENDADA"</b> para utilização mediante a disponibilidade e <b>"OPCIONAL"</b> para aprimoramento adicional de privacidade.
 
-<p><b><h4>1.1 SENHAS E AUTENTICAÇÃO:</h4></b></p>
+<p> </p>
 
-<p><b>PRIORIDADE - ALTA</b></p>
+<p><b><h3>2.1 CONCEITOS BÁSICOS E EM COMUM:</h3></b></p>
 
-<p>- <b>Utilize Senhas Fortes:</b><br>
-- Se sua senha for muito pequena ou conter apenas palavras sem nenhum tipo de formatação, ela pode ser facilmente quebrada através de ataques de Bruteforce. Como princípio básico de uma senha forte, ela deve conter no mínimo 12 caracteres, sendo uma combinação de caracteres especiais (!@#$%&*()ç), números e caixa alta e baixa.
+<p><b>2.1.1 AUTENTICAÇÃO BASEADA EM USUÁRIO/SENHA:</b></p>
+<p>Existem vários fatores que podem comprometer suas credenciais de acesso (usuário e senha) e que, em quase sua totalidade, são originados de falhas humanas toscas. Claro, conforme o avanço da tecnologia, as metodologias utilizadas por criminosos também se sofisticam. Mas isso não é motivo para deixar de cuidar da sua privacidade com o pensamento de que uma hora você também será uma vítima.</p>
+
+
+
+
+
+
+<p><b>O que é Hash?</b><br>
+
+- <b>Rainbow Table:</b>
+-     
+
+
+
+<p><b>Acesso ao Banco de Dados:</b><br>
+
+<p><b>O atacante já sabe sob qual algoritmo a senha está armazenada?</b> Texto puro, cifra simétrica, cifra assimétrica, hash?<br>
+
+<p><b>O atacante já sabe a quantidade de caracteres da senha?</b>
+
+<p><b>Qual é a configuração do sistema do atacante?</b> Quantas hash/s ele é capaz de processar?<br>
+
+<p><b>O serviço utiliza Autenticação Multifatorial?</b>
+
+podemos dizer que por enquanto, a quantidade de caracteres é a forma mais segura
+
+<p><b>Quantas tentativas podem ser feitas por sessão?</b>
+
+<p><b>O atacante utiliza Spidering para incrementar seu dicionário?</b>
+
+
+
+
+<p> salt, bcrypt, se a senha estiver armazenada em md5 o tamanho não importa, para hashes sem limite de salt até 14 caracteres podem ser crackeados instantaneamente, para bcrypt 6 caracteres demoraria anos,
+
+and be able to then run a program that generates every password commonly used or random to match a password in that database.
+
+This is wrong or misleading because it assumes the hacker knows your password composition. The hacker cannot tell from the hash that it is only digits and thus cannot narrow his tests like this chart assumes. It's also misleading because it assumes the server is using a weak hash, which no serious organization does today. And also misleading because it (presumably) doesn't include salting effects which are a rainbow table speed bump.
+
+<p>Quais são os parâmetros para uma boa senha?
+- Comprimento: a senha deve conter 12+ caracteres
+- Complexidade: a senha deve conter letras maiusculas e minusculas, numeros e caracteres especiais
+- Imprevisibilidade: a senha não deve conter informações que possam te identificar
+
+Tecnicas de quebra de senhas
+- Ataque de dicionario: Envolve utilizar listas de palavras para quebrar a senha
+- Bruteforce: Similar ao ataque de dicionario, porém se utiliza de algoritmos alfanumericos e simbolos para revelar a senha. Ex.: uma senha chamada "password" pode ser escrita "p@$$w0rd"
+- Rainbow Table: Utiliza-se de hashs pré-calculadas. Assumindo que um banco de dados armazena as senhas em md5, podemos criar outro banco de dados em md5 com as senhas mais comuns. Então é feita a comparação da senha em hash com a senha armazenada no banco de dados. Se acontecer identificação, então temos a senha;
+
+
+
+<p>Tenha cuidado redobrado com provedores que apresentarem essas práticas:<br>
+- Armazenamento de credenciais em texto puro, sem criptografia;
+- Armazenamento de credenciais com criptografia simétrica (mesma chave para codificação e decodificação);
+- Suas credenciais são enviadas por e-mail;
+- Não fornece autenticação multifatorial;
+- Não permite a utilização de caracteres especiais na criação de senha;
+
+
+<p> </p>
+
+Se sua senha for muito pequena ou conter palavras sem nenhum tipo de formatação, ela poderá ser facilmente quebrada ou adivinhada sem qualquer esforço por parte do atacante.
+<b>Vulnerabilidades:</b> Phishing, Bruteforce, Ataque de Dicionário, Engenharia Social, Malwares.
+<b>Como Prevenir:</b> 
+
+
+ Como princípio básico de uma senha forte, ela deve conter no mínimo 12 caracteres, sendo uma combinação de caracteres especiais (!@#$%&*()ç), números e caixa alta e baixa.
 - Utilize uma senha para cada conta. Pois, se um atacante descobrir a senha de um serviço, ele utilizará a mesma para adentrar em vários outros.
 - Não utilize informações pessoais nas suas senhas. Isso inclui nomes familiares, cpf, número de celular, nome de animais de estimação ou qualquer informação sobre seus gostos pessoais.
 - Não utilize letras e números sequenciais ou varias letras repetidas (Ex.: batata99)
@@ -26,6 +139,9 @@ No post de hoje quero trazer
 
 <p>- <b>Não Reutilize Senhas:</b><br>
 Caso você tenha se cadastrado num serviço em que tempos depois ele sofreu com vazamento de dados, esse banco de dados com senhas será utilizado para incrementar um ataque de bruteforce.
+
+
+<p><b>1.1.2 AUTENTICAÇÃO MULTIFATORIAL:</b></p>
 
 <p>- <b>Ative a Autenticação de Fator Múltiplo (2FA/MFA):</b><br>
 A Autenticação de Fator Múltiplo é a combinação chave para dificultar a quebra das suas credenciais, onde você deve fornecer a senha em conjunto com outra ou várias formas de autenticação, sendo e-mail, celular, aplicativo gerador de códigos. O que significa que se, por um acaso você cair num phishing, malware ou vazamento de dados, o atacante não poderá fazer login, já que ele necessita de um segundo fator para poder ser autenticado. A maneira mais fácil é utilizar um aplicativo de autenticação no seu celular, ir nas configurações da sua conta e habilitar a 2FA/MFA. Na próxima vez que você fizer login, será gerado um código nesse aplicativo para a autenticação (geralmente funcionam de forma offline e possuem uma duração de 30 segundos).
@@ -41,6 +157,35 @@ A maioria dos dispositivos modernos oferecem o reconhecimento facial para o aces
 
 <p>- <b>Fique de olho em Keyloggers:</b><br>
 Keyloggers são softwares ou hardwares que gravam e enviam todas as suas interações com o mouse e teclado para servidores remotos. Pode ser tanto um processo rodando em segundo plano quanto um dispositivo disfarçado e alocado na porta USB. As maneiras de se proteger incluem a verificação de processos suspeitos em segundo plano, checar quais dispositivos estão conectados no seu dispositivo, verificar se o mouse/teclado há algum sinal de modificação na sua carcaça e sempre considere levar o seu próprio dispositivo de I/O pessoal quando for possível. Dados digitados em teclados virtuais, colados da área de transferência ou autopreenchidos, dificilmente podem ser interceptados por keylogger de hardware. Então, se você estiver num dispositivo público, considere utilizar um teclado virtual. 
+
+
+<p><b>1.1.2 AUTENTICAÇÃO BASEADA EM OUTROS MECANISMOS:</b></p>
+
+
+
+
+<p><b><h4>1.2 CONCEITOS ESPECÍFICOS:</h4></b></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><b><h4>1.2.1 SENHAS E AUTENTICAÇÃO:</h4></b></p>
 
 <p><b>PRIORIDADE - RECOMENDADO</b></p>
 
@@ -460,7 +605,7 @@ use pin, não biometria
 reduza a exposição a cameras
 burle o sistema de reconhecimento facial
 proteja seu dna
-
+ 
 
 
 
@@ -474,6 +619,8 @@ proteja seu dna
 <p>_________________________________________________________________________________________________________________</p>
 <p><b>REFERÊNCIAS</b></p>
 <a href="https://github.com/Lissy93/personal-security-checklist">Lissy93 - Personal Security Checklist</a><br>
+<a href="https://www.kaspersky.com/resource-center/definitions/brute-force-attack">Kaspersky - Brute Force Attacks</a><br>
+<a href="https://www.omnicalculator.com/other/password-entropy#what-is-password-entropy">Omnicalculator - Password Entropy Calculator</a><br>
 <a href="https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/checklist-vf.pdf">ANPD - Checklist de Medidas de Segurança para Agentes de Tratamento de Pequeno Porte (PDF)</a><br>
 <a href="https://cartilha.cert.br/">CERT - Cartilha para Segurança na Internet</a><br>
 <a href="https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B226095120B">TCU - Boas Práticas em Segurança da Informação (PDF)</a><br>
@@ -485,3 +632,4 @@ proteja seu dna
 <a href="https://www.mitre.org/sites/default/files/publications/16-3713-finding-cyber-threats%20with%20att%26ck-based-analytics.pdf">MITRE - Finding Cyber Threats with
 ATT&CK (PDF)</a><br>
 <a href="https://www.cnj.jus.br/wp-content/uploads/2021/03/AnexoVManualReferenciaPrevencaoMitigacaoDeAmeacasCiberneticasConfiancaDigitalRevisadoREV.docx.pdf">Manual de referência – Prevenção e Mitigação de Ameaças Cibernéticas e Confiança Digital (PDF)</a><br>
+<a href="https://portswigger.net/web-security/all-materials">PortSwigger - Web Security Leaning Materials</a><br>
