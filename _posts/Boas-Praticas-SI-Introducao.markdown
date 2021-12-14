@@ -9,6 +9,8 @@ author:
 ---
 <p>Olá,<br>
 
+A Segurança da Informação consiste num conjunto de estratégias utilizadas para a proteção de dados e informações tanto em ambientes físicos e digitais. 
+
 <p><b><h3>CONTEÚDOS</h3></b></p>
 1. Introdução a Segurança da Informação;<br>
 2. Boas Práticas - Autenticação;<br>

@@ -7,7 +7,7 @@ img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
-<p>Dando início a série 
+<p>
 
 <p> </p>
 

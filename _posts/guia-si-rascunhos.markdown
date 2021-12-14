@@ -515,3 +515,4 @@ podemos dizer que por enquanto, a quantidade de caracteres é a forma mais segur
 
 
 
+https://www.crypto101.io/
