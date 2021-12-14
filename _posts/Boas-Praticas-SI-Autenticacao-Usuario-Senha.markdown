@@ -2,13 +2,12 @@
 layout: post
 title:  01# Boas Práticas de SI - Autenticação Baseada em Usuário e Senha
 date:   2022-01-02 08:32:20 +0300
-description: Apenas Mais Um Guia de Segurança da Informação. # Add post description (optional)
+description:  # Add post description (optional)
 img: .jpg # Add image post (optional)
 tags: [Segurança]
 author:
 ---
-<p>Olá,<br>
-No post de hoje quero trazer um Guia de Boas Práticas de Segurança da Informação 
+<p>Dando início a série 
 
 <p> </p>
 
