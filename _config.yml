@@ -1,6 +1,6 @@
 title: Escape The X
-email: your-email@domain.com
-description: “Qualquer árvore que queira tocar os céus, precisa ter raízes tão profundas ao ponto de tocar os infernos”. 
+email: 
+description: 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "escapethex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ author-pic: profile.jpg
 about-author2: Prazer, <b>Eduardo Barreto!</b> Sou formado em Gestão de TI, Pós-graduado em Data Science e Forense Computacional. Seja bem-vindo ao meu espaço pessoal e profissional, onde por aqui, estarei postando assuntos do meu interesse como forma de aprendizado. Então filtre o que achar útil, pois não sou o dono da verdade e não há motivo para se sentir ofendido quando nego algo que você gosta.
 about-author3: Escritor<br>Gestor de TI<br>Pós-Graduado em Data Science e Forense Computacional
 # Contact links
-#email: edu_barreto23@hotmail.com # Add your Email address
+#email: # Add your Email address
 website: escapethex.netlify.app # Add your website, do not add http://
 linkedin: edubarreto23 # Add your Linkedin handle
 github: EscapeTheX # Add your Github handle
