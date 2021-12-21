@@ -1,4 +1,4 @@
-1. Clearnet, Deep Web e Dark Web (Concluído)
+<!-- 1. Clearnet, Deep Web e Dark Web (Concluído)
 2. Não Existe Anonimato na Internet (Em Revisão)
 3. Boas Práticas de Segurança da Informação (Em Andamento)
    3.1 Redes
@@ -45,4 +45,5 @@
 7. LGPD/GDPR, Marco Civil da Internet e Data Graveyards
 8. Shadow IT e IoT
 9. OSINT
-10. 
+
+-->
