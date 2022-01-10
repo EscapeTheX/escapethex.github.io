@@ -199,7 +199,7 @@ Em resumo, <b>é um Twitter da Darknet</b>.</p>
 
 <p>- <b>DN42 (Decentralized Network 42)</b>: É uma rede que utiliza VPNs dinâmicas baseado em tecnologias como BGP e DNS. Os usuários da rede podem se conectar através de tuneis de IPsec, OpenVPN, GRE e Tinc, e também se interconectarem com outras redes, como ChaosVPN e Freifunk. 
 
-<p>- <b>Hypercore Protocol (Antiga "Dat")</b>: É uma rede distribuída de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e outras criptomoedas.</p>
+<p>- <b>Hypercore Protocol (Antiga "Dat")</b>: É uma rede distribuída de compartilhamento P2P Open-Source. É focada em interesses públicos, como ciência, tecnologia, blockchain e uso de criptomoedas.</p>
 
 <p>- <b>StegoShare</b>: Um software de esteganografia que pode ser utilizado para compartilhamento de arquivos.
 
