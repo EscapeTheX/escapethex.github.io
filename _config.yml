@@ -8,15 +8,15 @@ url: "escapethex.github.io" # the base hostname & protocol for your site, e.g. h
 # Author settings
 author: Eduardo Barreto # add your name
 author-pic: profile.jpg
-about-author2: Prazer, <b>Eduardo Barreto!</b> Sou formado em Gestão de TI, Pós-graduado em Data Science e Forense Computacional. Seja bem-vindo ao meu espaço pessoal e profissional, onde por aqui, estarei postando assuntos do meu interesse como forma de aprendizado. Então filtre o que achar útil, pois não sou o dono da verdade e não há motivo para se sentir ofendido quando nego algo que você gosta.
-about-author3: Escritor<br>Gestor de TI<br>Pós-Graduado em Data Science e Forense Computacional
+about-author2: 
+about-author3: Perito Judicial (TJSC)
 # Contact links
 #email: # Add your Email address
-website: escapethex.github.io # Add your website, do not add http://
-linkedin: edubarreto23 # Add your Linkedin handle
+#website: # Add your website, do not add http://
+#linkedin: # Add your Linkedin handle
 github: EscapeTheX # Add your Github handle
 #facebook: # Add your Facebook handle
-instagram: escapethex # Add your Instagram handle
+#instagram: # Add your Instagram handle
 
 # Newsletter
 #mailchimp: # Add your MailChimp form identifier.
