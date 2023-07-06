@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "escapethex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Eduardo Barreto # add your name
+author: Escape The X # add your name
 author-pic: profile.jpg
 about-author2: 
 about-author3: Perito Judicial (TJSC)
